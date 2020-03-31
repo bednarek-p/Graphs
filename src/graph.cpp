@@ -57,7 +57,44 @@ int Graph::operator [] (int value) const
 assert(value<size());
 return labels[value];
 }
+int Graph::get_value(int i, int j)
+{
+    return path_array[i][j];
+}
+/*
+int Graph::get_main_array(Graph graph)
+{
+    return graph.path_array;
+}
+*/
+void Graph::fill_test_array(Graph &graph)
+{
+    graph.add_vertex(0);
+    graph.add_vertex(1);
+    graph.add_vertex(2);
+    graph.add_vertex(3);
+    graph.add_vertex(4);
+    graph.add_vertex(5);
+    graph.add_vertex(6);
+    graph.add_vertex(7);
+    graph.add_vertex(8);
 
+    graph.add_connection(0, 1, 4);
+    graph.add_connection(0, 7, 8);
+    graph.add_connection(1, 2, 8);
+    graph.add_connection(1, 7, 11);
+    graph.add_connection(2, 3, 7);
+    graph.add_connection(2, 8, 2);
+    graph.add_connection(2, 5, 4);
+    graph.add_connection(3, 4, 9);
+    graph.add_connection(3, 5, 14);
+    graph.add_connection(4, 5, 10);
+    graph.add_connection(5, 6, 2);
+    graph.add_connection(6, 7, 1);
+    graph.add_connection(6, 8, 6);
+    graph.add_connection(7, 8, 7);
+
+}
 
 int Graph::size() const
 {

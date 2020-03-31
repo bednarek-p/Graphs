@@ -1,9 +1,14 @@
 #include <iostream>
 
-using namespace std;
+#include "../inc/graph.h"
+#include "dijkstra.hpp"
+
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    Graph graph;
+    graph.fill_test_array(graph);
+    dijkstra(graph,0);
+
     return 0;
 }
