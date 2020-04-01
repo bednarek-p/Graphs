@@ -10,7 +10,7 @@ Graph::Graph()
 
 Graph::~Graph()
 {
-    for(auto i=0; i<MAX_SIZE; i++)
+    for(int i=0; i<MAX_SIZE; i++)
      delete[] path_array[i];
 
    delete[] path_array;

@@ -1,14 +1,9 @@
 //#pragma once
 
-#include <iostream>
 
-#include "../inc/graph.h"
-#include "timer.hpp"
+#include "../inc/dijkstra.h"
 
-#define INT_MAX 9999
-
-
-int minimal_distance(Graph graph,int *distance, bool *is_shortest_way)
+int minimal_distance(const Graph &graph,int *distance, bool *is_shortest_way)
 {
     int minimum = INT_MAX;
     int minimum_index;
@@ -37,7 +32,7 @@ void printPath(int parent[], int j)
     std::cout<<j<<" ";
 }
 
-void print_utility(Graph graph,int *dist,int * path)
+void print_utility(const Graph &graph,int *dist,int * path)
 {
     for (int i=0;i<graph.size();i++)
     {
@@ -64,7 +59,7 @@ void print_utility(Graph graph,int *dist,int * path)
 }
 
 
-void dijkstra(Graph graph,int start_point)
+void dijkstra(const Graph & graph,int start_point)
 {
 
     int* distance= new int [graph.size()];
