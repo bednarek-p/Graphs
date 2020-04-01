@@ -1,6 +1,4 @@
 #include "../inc/graph.h"
-
-#include <assert.h>
 Graph::Graph()
 {
 
@@ -78,6 +76,8 @@ void Graph::fill_test_array(Graph &graph)
     graph.add_vertex(6);
     graph.add_vertex(7);
     graph.add_vertex(8);
+    graph.add_vertex(9);
+    //graph.add_vertex(10);
 
     graph.add_connection(0, 1, 4);
     graph.add_connection(0, 7, 8);
@@ -93,6 +93,40 @@ void Graph::fill_test_array(Graph &graph)
     graph.add_connection(6, 7, 1);
     graph.add_connection(6, 8, 6);
     graph.add_connection(7, 8, 7);
+
+    graph.add_connection(8, 9, 10);
+}
+
+
+void Graph::fill_graph_with_random(Graph & graph,const int number_of_vertices, const int graph_density)
+{
+    for(int i=0;i<number_of_vertices;i++)
+    {
+        graph.add_vertex(i);
+    }
+    srand (time(NULL));
+
+
+    int edge = (graph_density*number_of_vertices*(number_of_vertices-1))/200;
+std::cout<<edge<<std::endl;
+
+
+
+int random_source;
+int random_target;
+int random_weight;
+    for (int i=0;i<edge;i++)
+    {
+        random_weight = rand() % 10 + 1;
+        do
+        {
+            random_source=rand() % number_of_vertices;
+            random_target=rand() % number_of_vertices;
+        } while( random_target==random_source );
+        std::cout<<"weight: "<<random_weight<<"source: "<<random_source<<"target: "<<random_target<<std::endl;
+        graph.add_connection(random_source,random_target,random_weight);
+    }
+
 
 }
 

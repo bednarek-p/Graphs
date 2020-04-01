@@ -1,10 +1,14 @@
 #pragma once
 
+#include <stdlib.h>
+#include <time.h>
+#include<iostream>
+#include <assert.h>
 
 
 class Graph
 {
-    static const int  MAX_SIZE =10;
+    static const int  MAX_SIZE =100;
     int path_array [MAX_SIZE] [MAX_SIZE];
     int labels[MAX_SIZE];
     int number_of_vertices=0;
@@ -28,4 +32,5 @@ public:
 
     int get_value(int i,int j);
     void fill_test_array(Graph & graph);
+    void fill_graph_with_random(Graph & graph,const int number_of_vertices, const int graph_density);
 };
