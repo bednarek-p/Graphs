@@ -1,4 +1,4 @@
-#pragma once
+//#pragma once
 
 #include <iostream>
 
@@ -37,11 +37,11 @@ void printPath(int parent[], int j)
     std::cout<<j<<" ";
 }
 
-void print_utility(Graph graph, int *dist,int * path)
+void print_utility(Graph graph,int *dist,int * path)
 {
     for (int i=0;i<graph.size();i++)
     {
-        std::cout<<"Shortest distance from 0 to: "<<i<<" is"<<dist[i]<<std::endl;
+        std::cout<<"Shortest distance from 0 to: "<<i<<" is:  "<<dist[i]<<std::endl;
     }
 
     std::cout<<std::endl;
@@ -49,7 +49,7 @@ void print_utility(Graph graph, int *dist,int * path)
 
     for (int i=0;i<graph.size();i++)
     {
-        if(dist[i]==9999)
+        if(dist[i]==INT_MAX)
         {
         std::cout<<"Path distance from 0 to: "<<i<<"    No connection!";
         std::cout<<std::endl;
@@ -67,9 +67,9 @@ void print_utility(Graph graph, int *dist,int * path)
 void dijkstra(Graph graph,int start_point)
 {
 
-    int distance[graph.size()];
-    bool is_shortest_way[graph.size()];
-    int path[graph.size()];
+    int* distance= new int [graph.size()];
+    bool* is_shortest_way= new bool [graph.size()];
+    int* path= new int[graph.size()];
 
     for(int i=0;i<graph.size();i++)
     {
@@ -99,6 +99,9 @@ void dijkstra(Graph graph,int start_point)
 
    print_utility(graph,distance,path);
 
+delete [] distance;
+delete [] is_shortest_way;
+delete [] path;
 
 }
 

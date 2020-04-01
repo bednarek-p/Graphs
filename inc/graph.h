@@ -8,8 +8,8 @@
 
 class Graph
 {
-    static const int  MAX_SIZE =100;
-    int path_array [MAX_SIZE] [MAX_SIZE];
+    static const int  MAX_SIZE =1000;
+    int **path_array ;
     int labels[MAX_SIZE];
     int number_of_vertices=0;
 public:
@@ -30,7 +30,7 @@ public:
     bool is_connection (int source, int target);
     int connection_weight (int source,int target);
 
-    int get_value(int i,int j);
+    int get_value(int i,int j)const;
     void fill_test_array(Graph & graph);
-    void fill_graph_with_random(Graph & graph,const int number_of_vertices, const int graph_density);
+    void fill_graph_with_random( Graph & graph,const int number_of_vertices, const int graph_density);
 };

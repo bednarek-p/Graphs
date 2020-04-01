@@ -1,11 +1,19 @@
 #include "../inc/graph.h"
 Graph::Graph()
 {
-
+    path_array = new int*[MAX_SIZE];
+    for(int i = 0; i < MAX_SIZE; ++i)
+    {
+        path_array[i] = new int[MAX_SIZE];
+    }
 }
+
 Graph::~Graph()
 {
+    for(auto i=0; i<MAX_SIZE; i++)
+     delete[] path_array[i];
 
+   delete[] path_array;
 }
 
 void Graph::add_vertex(const int& value)
@@ -55,7 +63,7 @@ int Graph::operator [] (int value) const
 assert(value<size());
 return labels[value];
 }
-int Graph::get_value(int i, int j)
+int Graph::get_value(int i, int j) const
 {
     return path_array[i][j];
 }
@@ -98,7 +106,7 @@ void Graph::fill_test_array(Graph &graph)
 }
 
 
-void Graph::fill_graph_with_random(Graph & graph,const int number_of_vertices, const int graph_density)
+void Graph::fill_graph_with_random( Graph & graph,const int number_of_vertices, const int graph_density)
 {
     for(int i=0;i<number_of_vertices;i++)
     {
@@ -117,20 +125,20 @@ int random_target;
 int random_weight;
     for (int i=0;i<edge;i++)
     {
-        random_weight = rand() % 10 + 1;
+        random_weight = rand() % 100 + 1;
         do
         {
             random_source=rand() % number_of_vertices;
             random_target=rand() % number_of_vertices;
         } while( random_target==random_source );
-        std::cout<<"weight: "<<random_weight<<"source: "<<random_source<<"target: "<<random_target<<std::endl;
+        //std::cout<<"weight: "<<random_weight<<"source: "<<random_source<<"target: "<<random_target<<std::endl;
         graph.add_connection(random_source,random_target,random_weight);
     }
 
 
 }
 
-int Graph::size() const
+int Graph::size()const
 {
     return number_of_vertices;
 }
