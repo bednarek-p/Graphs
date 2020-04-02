@@ -1,12 +1,12 @@
 #include <iostream>
-
+#include <time.h>
 #include "../inc/graph.h"
 #include "../inc/dijkstra.h"
 #include "../inc/tests.h"
 
 int main()
 {
-//srand (time (NULL));
+srand(time(NULL));
     test();
     return 0;
 }

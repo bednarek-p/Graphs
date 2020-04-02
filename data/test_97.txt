@@ -1,2000 +1,2000 @@
 Shortest distance from 0 to: 0 is:  0
-Shortest distance from 0 to: 1 is:  20
-Shortest distance from 0 to: 2 is:  24
-Shortest distance from 0 to: 3 is:  15
-Shortest distance from 0 to: 4 is:  13
-Shortest distance from 0 to: 5 is:  16
-Shortest distance from 0 to: 6 is:  23
-Shortest distance from 0 to: 7 is:  14
-Shortest distance from 0 to: 8 is:  25
-Shortest distance from 0 to: 9 is:  20
-Shortest distance from 0 to: 10 is:  19
-Shortest distance from 0 to: 11 is:  32
-Shortest distance from 0 to: 12 is:  22
-Shortest distance from 0 to: 13 is:  24
-Shortest distance from 0 to: 14 is:  18
-Shortest distance from 0 to: 15 is:  21
-Shortest distance from 0 to: 16 is:  20
-Shortest distance from 0 to: 17 is:  19
-Shortest distance from 0 to: 18 is:  26
-Shortest distance from 0 to: 19 is:  19
-Shortest distance from 0 to: 20 is:  18
-Shortest distance from 0 to: 21 is:  17
-Shortest distance from 0 to: 22 is:  27
-Shortest distance from 0 to: 23 is:  15
-Shortest distance from 0 to: 24 is:  24
-Shortest distance from 0 to: 25 is:  11
-Shortest distance from 0 to: 26 is:  23
-Shortest distance from 0 to: 27 is:  25
-Shortest distance from 0 to: 28 is:  24
-Shortest distance from 0 to: 29 is:  25
-Shortest distance from 0 to: 30 is:  9
-Shortest distance from 0 to: 31 is:  11
-Shortest distance from 0 to: 32 is:  15
-Shortest distance from 0 to: 33 is:  15
-Shortest distance from 0 to: 34 is:  20
-Shortest distance from 0 to: 35 is:  18
-Shortest distance from 0 to: 36 is:  16
-Shortest distance from 0 to: 37 is:  18
-Shortest distance from 0 to: 38 is:  25
-Shortest distance from 0 to: 39 is:  22
-Shortest distance from 0 to: 40 is:  21
-Shortest distance from 0 to: 41 is:  21
-Shortest distance from 0 to: 42 is:  18
+Shortest distance from 0 to: 1 is:  25
+Shortest distance from 0 to: 2 is:  19
+Shortest distance from 0 to: 3 is:  29
+Shortest distance from 0 to: 4 is:  27
+Shortest distance from 0 to: 5 is:  14
+Shortest distance from 0 to: 6 is:  27
+Shortest distance from 0 to: 7 is:  17
+Shortest distance from 0 to: 8 is:  21
+Shortest distance from 0 to: 9 is:  30
+Shortest distance from 0 to: 10 is:  18
+Shortest distance from 0 to: 11 is:  31
+Shortest distance from 0 to: 12 is:  20
+Shortest distance from 0 to: 13 is:  21
+Shortest distance from 0 to: 14 is:  13
+Shortest distance from 0 to: 15 is:  19
+Shortest distance from 0 to: 16 is:  33
+Shortest distance from 0 to: 17 is:  24
+Shortest distance from 0 to: 18 is:  22
+Shortest distance from 0 to: 19 is:  21
+Shortest distance from 0 to: 20 is:  19
+Shortest distance from 0 to: 21 is:  10
+Shortest distance from 0 to: 22 is:  22
+Shortest distance from 0 to: 23 is:  17
+Shortest distance from 0 to: 24 is:  16
+Shortest distance from 0 to: 25 is:  19
+Shortest distance from 0 to: 26 is:  26
+Shortest distance from 0 to: 27 is:  11
+Shortest distance from 0 to: 28 is:  17
+Shortest distance from 0 to: 29 is:  32
+Shortest distance from 0 to: 30 is:  24
+Shortest distance from 0 to: 31 is:  22
+Shortest distance from 0 to: 32 is:  21
+Shortest distance from 0 to: 33 is:  18
+Shortest distance from 0 to: 34 is:  24
+Shortest distance from 0 to: 35 is:  24
+Shortest distance from 0 to: 36 is:  27
+Shortest distance from 0 to: 37 is:  29
+Shortest distance from 0 to: 38 is:  24
+Shortest distance from 0 to: 39 is:  9
+Shortest distance from 0 to: 40 is:  19
+Shortest distance from 0 to: 41 is:  24
+Shortest distance from 0 to: 42 is:  16
 Shortest distance from 0 to: 43 is:  17
-Shortest distance from 0 to: 44 is:  23
-Shortest distance from 0 to: 45 is:  17
+Shortest distance from 0 to: 44 is:  19
+Shortest distance from 0 to: 45 is:  22
 Shortest distance from 0 to: 46 is:  23
-Shortest distance from 0 to: 47 is:  20
-Shortest distance from 0 to: 48 is:  24
-Shortest distance from 0 to: 49 is:  22
-Shortest distance from 0 to: 50 is:  33
+Shortest distance from 0 to: 47 is:  31
+Shortest distance from 0 to: 48 is:  23
+Shortest distance from 0 to: 49 is:  16
+Shortest distance from 0 to: 50 is:  21
 Shortest distance from 0 to: 51 is:  22
-Shortest distance from 0 to: 52 is:  22
-Shortest distance from 0 to: 53 is:  19
-Shortest distance from 0 to: 54 is:  20
-Shortest distance from 0 to: 55 is:  27
-Shortest distance from 0 to: 56 is:  24
-Shortest distance from 0 to: 57 is:  20
+Shortest distance from 0 to: 52 is:  25
+Shortest distance from 0 to: 53 is:  23
+Shortest distance from 0 to: 54 is:  15
+Shortest distance from 0 to: 55 is:  19
+Shortest distance from 0 to: 56 is:  20
+Shortest distance from 0 to: 57 is:  16
 Shortest distance from 0 to: 58 is:  20
-Shortest distance from 0 to: 59 is:  27
-Shortest distance from 0 to: 60 is:  12
-Shortest distance from 0 to: 61 is:  18
-Shortest distance from 0 to: 62 is:  23
-Shortest distance from 0 to: 63 is:  22
-Shortest distance from 0 to: 64 is:  20
-Shortest distance from 0 to: 65 is:  12
-Shortest distance from 0 to: 66 is:  25
+Shortest distance from 0 to: 59 is:  17
+Shortest distance from 0 to: 60 is:  20
+Shortest distance from 0 to: 61 is:  15
+Shortest distance from 0 to: 62 is:  16
+Shortest distance from 0 to: 63 is:  19
+Shortest distance from 0 to: 64 is:  17
+Shortest distance from 0 to: 65 is:  17
+Shortest distance from 0 to: 66 is:  17
 Shortest distance from 0 to: 67 is:  23
-Shortest distance from 0 to: 68 is:  20
-Shortest distance from 0 to: 69 is:  24
-Shortest distance from 0 to: 70 is:  16
-Shortest distance from 0 to: 71 is:  19
-Shortest distance from 0 to: 72 is:  14
-Shortest distance from 0 to: 73 is:  17
-Shortest distance from 0 to: 74 is:  18
-Shortest distance from 0 to: 75 is:  24
-Shortest distance from 0 to: 76 is:  18
-Shortest distance from 0 to: 77 is:  22
-Shortest distance from 0 to: 78 is:  21
-Shortest distance from 0 to: 79 is:  24
-Shortest distance from 0 to: 80 is:  23
-Shortest distance from 0 to: 81 is:  6
-Shortest distance from 0 to: 82 is:  31
-Shortest distance from 0 to: 83 is:  24
-Shortest distance from 0 to: 84 is:  23
+Shortest distance from 0 to: 68 is:  11
+Shortest distance from 0 to: 69 is:  14
+Shortest distance from 0 to: 70 is:  28
+Shortest distance from 0 to: 71 is:  22
+Shortest distance from 0 to: 72 is:  24
+Shortest distance from 0 to: 73 is:  16
+Shortest distance from 0 to: 74 is:  13
+Shortest distance from 0 to: 75 is:  20
+Shortest distance from 0 to: 76 is:  24
+Shortest distance from 0 to: 77 is:  18
+Shortest distance from 0 to: 78 is:  20
+Shortest distance from 0 to: 79 is:  14
+Shortest distance from 0 to: 80 is:  21
+Shortest distance from 0 to: 81 is:  26
+Shortest distance from 0 to: 82 is:  14
+Shortest distance from 0 to: 83 is:  17
+Shortest distance from 0 to: 84 is:  17
 Shortest distance from 0 to: 85 is:  25
-Shortest distance from 0 to: 86 is:  28
-Shortest distance from 0 to: 87 is:  13
-Shortest distance from 0 to: 88 is:  20
-Shortest distance from 0 to: 89 is:  16
-Shortest distance from 0 to: 90 is:  14
-Shortest distance from 0 to: 91 is:  19
-Shortest distance from 0 to: 92 is:  23
+Shortest distance from 0 to: 86 is:  21
+Shortest distance from 0 to: 87 is:  17
+Shortest distance from 0 to: 88 is:  21
+Shortest distance from 0 to: 89 is:  22
+Shortest distance from 0 to: 90 is:  20
+Shortest distance from 0 to: 91 is:  30
+Shortest distance from 0 to: 92 is:  22
 Shortest distance from 0 to: 93 is:  22
 Shortest distance from 0 to: 94 is:  22
-Shortest distance from 0 to: 95 is:  16
+Shortest distance from 0 to: 95 is:  28
 Shortest distance from 0 to: 96 is:  23
-Shortest distance from 0 to: 97 is:  15
-Shortest distance from 0 to: 98 is:  12
-Shortest distance from 0 to: 99 is:  21
-Shortest distance from 0 to: 100 is:  13
-Shortest distance from 0 to: 101 is:  19
-Shortest distance from 0 to: 102 is:  18
-Shortest distance from 0 to: 103 is:  20
-Shortest distance from 0 to: 104 is:  21
-Shortest distance from 0 to: 105 is:  17
-Shortest distance from 0 to: 106 is:  19
-Shortest distance from 0 to: 107 is:  24
-Shortest distance from 0 to: 108 is:  21
-Shortest distance from 0 to: 109 is:  13
-Shortest distance from 0 to: 110 is:  22
-Shortest distance from 0 to: 111 is:  20
-Shortest distance from 0 to: 112 is:  30
-Shortest distance from 0 to: 113 is:  23
-Shortest distance from 0 to: 114 is:  13
-Shortest distance from 0 to: 115 is:  19
-Shortest distance from 0 to: 116 is:  22
-Shortest distance from 0 to: 117 is:  22
-Shortest distance from 0 to: 118 is:  22
-Shortest distance from 0 to: 119 is:  21
-Shortest distance from 0 to: 120 is:  21
-Shortest distance from 0 to: 121 is:  17
-Shortest distance from 0 to: 122 is:  26
-Shortest distance from 0 to: 123 is:  23
+Shortest distance from 0 to: 97 is:  29
+Shortest distance from 0 to: 98 is:  25
+Shortest distance from 0 to: 99 is:  39
+Shortest distance from 0 to: 100 is:  23
+Shortest distance from 0 to: 101 is:  15
+Shortest distance from 0 to: 102 is:  21
+Shortest distance from 0 to: 103 is:  33
+Shortest distance from 0 to: 104 is:  22
+Shortest distance from 0 to: 105 is:  18
+Shortest distance from 0 to: 106 is:  18
+Shortest distance from 0 to: 107 is:  17
+Shortest distance from 0 to: 108 is:  19
+Shortest distance from 0 to: 109 is:  22
+Shortest distance from 0 to: 110 is:  14
+Shortest distance from 0 to: 111 is:  25
+Shortest distance from 0 to: 112 is:  24
+Shortest distance from 0 to: 113 is:  13
+Shortest distance from 0 to: 114 is:  22
+Shortest distance from 0 to: 115 is:  18
+Shortest distance from 0 to: 116 is:  28
+Shortest distance from 0 to: 117 is:  27
+Shortest distance from 0 to: 118 is:  25
+Shortest distance from 0 to: 119 is:  11
+Shortest distance from 0 to: 120 is:  7
+Shortest distance from 0 to: 121 is:  27
+Shortest distance from 0 to: 122 is:  33
+Shortest distance from 0 to: 123 is:  21
 Shortest distance from 0 to: 124 is:  21
-Shortest distance from 0 to: 125 is:  26
-Shortest distance from 0 to: 126 is:  18
-Shortest distance from 0 to: 127 is:  22
-Shortest distance from 0 to: 128 is:  20
-Shortest distance from 0 to: 129 is:  19
-Shortest distance from 0 to: 130 is:  29
-Shortest distance from 0 to: 131 is:  20
-Shortest distance from 0 to: 132 is:  25
-Shortest distance from 0 to: 133 is:  23
-Shortest distance from 0 to: 134 is:  24
-Shortest distance from 0 to: 135 is:  27
-Shortest distance from 0 to: 136 is:  17
-Shortest distance from 0 to: 137 is:  17
-Shortest distance from 0 to: 138 is:  26
-Shortest distance from 0 to: 139 is:  30
-Shortest distance from 0 to: 140 is:  23
-Shortest distance from 0 to: 141 is:  27
-Shortest distance from 0 to: 142 is:  24
-Shortest distance from 0 to: 143 is:  19
-Shortest distance from 0 to: 144 is:  12
-Shortest distance from 0 to: 145 is:  23
-Shortest distance from 0 to: 146 is:  11
-Shortest distance from 0 to: 147 is:  16
-Shortest distance from 0 to: 148 is:  17
-Shortest distance from 0 to: 149 is:  9
-Shortest distance from 0 to: 150 is:  22
+Shortest distance from 0 to: 125 is:  14
+Shortest distance from 0 to: 126 is:  31
+Shortest distance from 0 to: 127 is:  21
+Shortest distance from 0 to: 128 is:  10
+Shortest distance from 0 to: 129 is:  21
+Shortest distance from 0 to: 130 is:  18
+Shortest distance from 0 to: 131 is:  13
+Shortest distance from 0 to: 132 is:  19
+Shortest distance from 0 to: 133 is:  26
+Shortest distance from 0 to: 134 is:  14
+Shortest distance from 0 to: 135 is:  25
+Shortest distance from 0 to: 136 is:  16
+Shortest distance from 0 to: 137 is:  18
+Shortest distance from 0 to: 138 is:  12
+Shortest distance from 0 to: 139 is:  19
+Shortest distance from 0 to: 140 is:  9
+Shortest distance from 0 to: 141 is:  24
+Shortest distance from 0 to: 142 is:  21
+Shortest distance from 0 to: 143 is:  25
+Shortest distance from 0 to: 144 is:  27
+Shortest distance from 0 to: 145 is:  20
+Shortest distance from 0 to: 146 is:  22
+Shortest distance from 0 to: 147 is:  35
+Shortest distance from 0 to: 148 is:  29
+Shortest distance from 0 to: 149 is:  27
+Shortest distance from 0 to: 150 is:  20
 Shortest distance from 0 to: 151 is:  17
-Shortest distance from 0 to: 152 is:  25
-Shortest distance from 0 to: 153 is:  17
-Shortest distance from 0 to: 154 is:  18
-Shortest distance from 0 to: 155 is:  24
-Shortest distance from 0 to: 156 is:  30
-Shortest distance from 0 to: 157 is:  18
-Shortest distance from 0 to: 158 is:  27
-Shortest distance from 0 to: 159 is:  17
-Shortest distance from 0 to: 160 is:  22
-Shortest distance from 0 to: 161 is:  16
-Shortest distance from 0 to: 162 is:  29
-Shortest distance from 0 to: 163 is:  16
-Shortest distance from 0 to: 164 is:  16
-Shortest distance from 0 to: 165 is:  19
-Shortest distance from 0 to: 166 is:  24
-Shortest distance from 0 to: 167 is:  23
-Shortest distance from 0 to: 168 is:  24
+Shortest distance from 0 to: 152 is:  19
+Shortest distance from 0 to: 153 is:  19
+Shortest distance from 0 to: 154 is:  23
+Shortest distance from 0 to: 155 is:  20
+Shortest distance from 0 to: 156 is:  21
+Shortest distance from 0 to: 157 is:  23
+Shortest distance from 0 to: 158 is:  24
+Shortest distance from 0 to: 159 is:  22
+Shortest distance from 0 to: 160 is:  21
+Shortest distance from 0 to: 161 is:  17
+Shortest distance from 0 to: 162 is:  19
+Shortest distance from 0 to: 163 is:  20
+Shortest distance from 0 to: 164 is:  23
+Shortest distance from 0 to: 165 is:  18
+Shortest distance from 0 to: 166 is:  31
+Shortest distance from 0 to: 167 is:  16
+Shortest distance from 0 to: 168 is:  19
 Shortest distance from 0 to: 169 is:  23
-Shortest distance from 0 to: 170 is:  20
-Shortest distance from 0 to: 171 is:  25
-Shortest distance from 0 to: 172 is:  24
-Shortest distance from 0 to: 173 is:  23
-Shortest distance from 0 to: 174 is:  3
-Shortest distance from 0 to: 175 is:  24
-Shortest distance from 0 to: 176 is:  15
-Shortest distance from 0 to: 177 is:  20
-Shortest distance from 0 to: 178 is:  10
-Shortest distance from 0 to: 179 is:  15
-Shortest distance from 0 to: 180 is:  27
-Shortest distance from 0 to: 181 is:  19
-Shortest distance from 0 to: 182 is:  20
-Shortest distance from 0 to: 183 is:  25
-Shortest distance from 0 to: 184 is:  22
-Shortest distance from 0 to: 185 is:  22
-Shortest distance from 0 to: 186 is:  13
-Shortest distance from 0 to: 187 is:  13
-Shortest distance from 0 to: 188 is:  20
+Shortest distance from 0 to: 170 is:  21
+Shortest distance from 0 to: 171 is:  10
+Shortest distance from 0 to: 172 is:  22
+Shortest distance from 0 to: 173 is:  28
+Shortest distance from 0 to: 174 is:  21
+Shortest distance from 0 to: 175 is:  20
+Shortest distance from 0 to: 176 is:  22
+Shortest distance from 0 to: 177 is:  26
+Shortest distance from 0 to: 178 is:  16
+Shortest distance from 0 to: 179 is:  20
+Shortest distance from 0 to: 180 is:  12
+Shortest distance from 0 to: 181 is:  21
+Shortest distance from 0 to: 182 is:  24
+Shortest distance from 0 to: 183 is:  22
+Shortest distance from 0 to: 184 is:  24
+Shortest distance from 0 to: 185 is:  21
+Shortest distance from 0 to: 186 is:  22
+Shortest distance from 0 to: 187 is:  26
+Shortest distance from 0 to: 188 is:  22
 Shortest distance from 0 to: 189 is:  20
-Shortest distance from 0 to: 190 is:  27
-Shortest distance from 0 to: 191 is:  15
-Shortest distance from 0 to: 192 is:  19
-Shortest distance from 0 to: 193 is:  17
-Shortest distance from 0 to: 194 is:  20
-Shortest distance from 0 to: 195 is:  30
-Shortest distance from 0 to: 196 is:  20
-Shortest distance from 0 to: 197 is:  21
-Shortest distance from 0 to: 198 is:  17
-Shortest distance from 0 to: 199 is:  19
-Shortest distance from 0 to: 200 is:  25
-Shortest distance from 0 to: 201 is:  27
-Shortest distance from 0 to: 202 is:  23
-Shortest distance from 0 to: 203 is:  19
-Shortest distance from 0 to: 204 is:  16
-Shortest distance from 0 to: 205 is:  19
-Shortest distance from 0 to: 206 is:  21
-Shortest distance from 0 to: 207 is:  22
-Shortest distance from 0 to: 208 is:  25
-Shortest distance from 0 to: 209 is:  19
-Shortest distance from 0 to: 210 is:  26
-Shortest distance from 0 to: 211 is:  20
+Shortest distance from 0 to: 190 is:  19
+Shortest distance from 0 to: 191 is:  21
+Shortest distance from 0 to: 192 is:  23
+Shortest distance from 0 to: 193 is:  27
+Shortest distance from 0 to: 194 is:  21
+Shortest distance from 0 to: 195 is:  12
+Shortest distance from 0 to: 196 is:  25
+Shortest distance from 0 to: 197 is:  14
+Shortest distance from 0 to: 198 is:  16
+Shortest distance from 0 to: 199 is:  26
+Shortest distance from 0 to: 200 is:  26
+Shortest distance from 0 to: 201 is:  17
+Shortest distance from 0 to: 202 is:  18
+Shortest distance from 0 to: 203 is:  15
+Shortest distance from 0 to: 204 is:  19
+Shortest distance from 0 to: 205 is:  22
+Shortest distance from 0 to: 206 is:  19
+Shortest distance from 0 to: 207 is:  14
+Shortest distance from 0 to: 208 is:  22
+Shortest distance from 0 to: 209 is:  17
+Shortest distance from 0 to: 210 is:  16
+Shortest distance from 0 to: 211 is:  16
 Shortest distance from 0 to: 212 is:  25
 Shortest distance from 0 to: 213 is:  16
-Shortest distance from 0 to: 214 is:  27
-Shortest distance from 0 to: 215 is:  18
-Shortest distance from 0 to: 216 is:  21
-Shortest distance from 0 to: 217 is:  23
-Shortest distance from 0 to: 218 is:  19
-Shortest distance from 0 to: 219 is:  20
-Shortest distance from 0 to: 220 is:  20
-Shortest distance from 0 to: 221 is:  20
-Shortest distance from 0 to: 222 is:  18
-Shortest distance from 0 to: 223 is:  22
-Shortest distance from 0 to: 224 is:  20
-Shortest distance from 0 to: 225 is:  24
-Shortest distance from 0 to: 226 is:  23
-Shortest distance from 0 to: 227 is:  15
-Shortest distance from 0 to: 228 is:  13
-Shortest distance from 0 to: 229 is:  21
-Shortest distance from 0 to: 230 is:  22
-Shortest distance from 0 to: 231 is:  13
-Shortest distance from 0 to: 232 is:  24
-Shortest distance from 0 to: 233 is:  22
+Shortest distance from 0 to: 214 is:  25
+Shortest distance from 0 to: 215 is:  15
+Shortest distance from 0 to: 216 is:  14
+Shortest distance from 0 to: 217 is:  27
+Shortest distance from 0 to: 218 is:  18
+Shortest distance from 0 to: 219 is:  24
+Shortest distance from 0 to: 220 is:  18
+Shortest distance from 0 to: 221 is:  21
+Shortest distance from 0 to: 222 is:  16
+Shortest distance from 0 to: 223 is:  20
+Shortest distance from 0 to: 224 is:  22
+Shortest distance from 0 to: 225 is:  22
+Shortest distance from 0 to: 226 is:  21
+Shortest distance from 0 to: 227 is:  16
+Shortest distance from 0 to: 228 is:  21
+Shortest distance from 0 to: 229 is:  26
+Shortest distance from 0 to: 230 is:  25
+Shortest distance from 0 to: 231 is:  18
+Shortest distance from 0 to: 232 is:  18
+Shortest distance from 0 to: 233 is:  30
 Shortest distance from 0 to: 234 is:  22
-Shortest distance from 0 to: 235 is:  13
-Shortest distance from 0 to: 236 is:  14
-Shortest distance from 0 to: 237 is:  15
-Shortest distance from 0 to: 238 is:  13
-Shortest distance from 0 to: 239 is:  25
-Shortest distance from 0 to: 240 is:  13
-Shortest distance from 0 to: 241 is:  25
-Shortest distance from 0 to: 242 is:  19
-Shortest distance from 0 to: 243 is:  27
-Shortest distance from 0 to: 244 is:  24
-Shortest distance from 0 to: 245 is:  14
-Shortest distance from 0 to: 246 is:  25
-Shortest distance from 0 to: 247 is:  20
-Shortest distance from 0 to: 248 is:  22
-Shortest distance from 0 to: 249 is:  18
-Shortest distance from 0 to: 250 is:  21
-Shortest distance from 0 to: 251 is:  19
-Shortest distance from 0 to: 252 is:  24
-Shortest distance from 0 to: 253 is:  21
-Shortest distance from 0 to: 254 is:  21
+Shortest distance from 0 to: 235 is:  21
+Shortest distance from 0 to: 236 is:  26
+Shortest distance from 0 to: 237 is:  18
+Shortest distance from 0 to: 238 is:  18
+Shortest distance from 0 to: 239 is:  24
+Shortest distance from 0 to: 240 is:  19
+Shortest distance from 0 to: 241 is:  28
+Shortest distance from 0 to: 242 is:  22
+Shortest distance from 0 to: 243 is:  15
+Shortest distance from 0 to: 244 is:  19
+Shortest distance from 0 to: 245 is:  29
+Shortest distance from 0 to: 246 is:  19
+Shortest distance from 0 to: 247 is:  16
+Shortest distance from 0 to: 248 is:  23
+Shortest distance from 0 to: 249 is:  32
+Shortest distance from 0 to: 250 is:  23
+Shortest distance from 0 to: 251 is:  18
+Shortest distance from 0 to: 252 is:  27
+Shortest distance from 0 to: 253 is:  22
+Shortest distance from 0 to: 254 is:  25
 Shortest distance from 0 to: 255 is:  24
-Shortest distance from 0 to: 256 is:  22
-Shortest distance from 0 to: 257 is:  14
-Shortest distance from 0 to: 258 is:  21
-Shortest distance from 0 to: 259 is:  18
-Shortest distance from 0 to: 260 is:  21
-Shortest distance from 0 to: 261 is:  16
-Shortest distance from 0 to: 262 is:  22
+Shortest distance from 0 to: 256 is:  11
+Shortest distance from 0 to: 257 is:  16
+Shortest distance from 0 to: 258 is:  4
+Shortest distance from 0 to: 259 is:  21
+Shortest distance from 0 to: 260 is:  24
+Shortest distance from 0 to: 261 is:  17
+Shortest distance from 0 to: 262 is:  13
 Shortest distance from 0 to: 263 is:  22
-Shortest distance from 0 to: 264 is:  23
-Shortest distance from 0 to: 265 is:  30
-Shortest distance from 0 to: 266 is:  10
-Shortest distance from 0 to: 267 is:  21
-Shortest distance from 0 to: 268 is:  20
-Shortest distance from 0 to: 269 is:  24
-Shortest distance from 0 to: 270 is:  21
-Shortest distance from 0 to: 271 is:  18
-Shortest distance from 0 to: 272 is:  17
-Shortest distance from 0 to: 273 is:  20
-Shortest distance from 0 to: 274 is:  33
-Shortest distance from 0 to: 275 is:  14
-Shortest distance from 0 to: 276 is:  19
-Shortest distance from 0 to: 277 is:  22
-Shortest distance from 0 to: 278 is:  18
-Shortest distance from 0 to: 279 is:  21
-Shortest distance from 0 to: 280 is:  22
-Shortest distance from 0 to: 281 is:  19
-Shortest distance from 0 to: 282 is:  26
-Shortest distance from 0 to: 283 is:  22
-Shortest distance from 0 to: 284 is:  17
-Shortest distance from 0 to: 285 is:  25
-Shortest distance from 0 to: 286 is:  24
-Shortest distance from 0 to: 287 is:  13
-Shortest distance from 0 to: 288 is:  19
-Shortest distance from 0 to: 289 is:  19
-Shortest distance from 0 to: 290 is:  17
+Shortest distance from 0 to: 264 is:  12
+Shortest distance from 0 to: 265 is:  23
+Shortest distance from 0 to: 266 is:  16
+Shortest distance from 0 to: 267 is:  31
+Shortest distance from 0 to: 268 is:  21
+Shortest distance from 0 to: 269 is:  19
+Shortest distance from 0 to: 270 is:  19
+Shortest distance from 0 to: 271 is:  23
+Shortest distance from 0 to: 272 is:  15
+Shortest distance from 0 to: 273 is:  12
+Shortest distance from 0 to: 274 is:  21
+Shortest distance from 0 to: 275 is:  13
+Shortest distance from 0 to: 276 is:  11
+Shortest distance from 0 to: 277 is:  20
+Shortest distance from 0 to: 278 is:  19
+Shortest distance from 0 to: 279 is:  22
+Shortest distance from 0 to: 280 is:  23
+Shortest distance from 0 to: 281 is:  23
+Shortest distance from 0 to: 282 is:  25
+Shortest distance from 0 to: 283 is:  30
+Shortest distance from 0 to: 284 is:  18
+Shortest distance from 0 to: 285 is:  21
+Shortest distance from 0 to: 286 is:  20
+Shortest distance from 0 to: 287 is:  27
+Shortest distance from 0 to: 288 is:  15
+Shortest distance from 0 to: 289 is:  25
+Shortest distance from 0 to: 290 is:  21
 Shortest distance from 0 to: 291 is:  23
-Shortest distance from 0 to: 292 is:  27
-Shortest distance from 0 to: 293 is:  26
-Shortest distance from 0 to: 294 is:  14
-Shortest distance from 0 to: 295 is:  18
-Shortest distance from 0 to: 296 is:  15
-Shortest distance from 0 to: 297 is:  19
-Shortest distance from 0 to: 298 is:  24
-Shortest distance from 0 to: 299 is:  20
-Shortest distance from 0 to: 300 is:  23
-Shortest distance from 0 to: 301 is:  17
-Shortest distance from 0 to: 302 is:  25
-Shortest distance from 0 to: 303 is:  19
-Shortest distance from 0 to: 304 is:  23
-Shortest distance from 0 to: 305 is:  22
-Shortest distance from 0 to: 306 is:  12
-Shortest distance from 0 to: 307 is:  25
+Shortest distance from 0 to: 292 is:  20
+Shortest distance from 0 to: 293 is:  19
+Shortest distance from 0 to: 294 is:  15
+Shortest distance from 0 to: 295 is:  25
+Shortest distance from 0 to: 296 is:  13
+Shortest distance from 0 to: 297 is:  20
+Shortest distance from 0 to: 298 is:  21
+Shortest distance from 0 to: 299 is:  21
+Shortest distance from 0 to: 300 is:  25
+Shortest distance from 0 to: 301 is:  22
+Shortest distance from 0 to: 302 is:  15
+Shortest distance from 0 to: 303 is:  18
+Shortest distance from 0 to: 304 is:  28
+Shortest distance from 0 to: 305 is:  18
+Shortest distance from 0 to: 306 is:  27
+Shortest distance from 0 to: 307 is:  21
 Shortest distance from 0 to: 308 is:  21
-Shortest distance from 0 to: 309 is:  22
-Shortest distance from 0 to: 310 is:  23
-Shortest distance from 0 to: 311 is:  20
-Shortest distance from 0 to: 312 is:  19
-Shortest distance from 0 to: 313 is:  22
+Shortest distance from 0 to: 309 is:  24
+Shortest distance from 0 to: 310 is:  8
+Shortest distance from 0 to: 311 is:  24
+Shortest distance from 0 to: 312 is:  23
+Shortest distance from 0 to: 313 is:  23
 Shortest distance from 0 to: 314 is:  22
 Shortest distance from 0 to: 315 is:  17
-Shortest distance from 0 to: 316 is:  15
-Shortest distance from 0 to: 317 is:  21
-Shortest distance from 0 to: 318 is:  16
-Shortest distance from 0 to: 319 is:  26
-Shortest distance from 0 to: 320 is:  19
-Shortest distance from 0 to: 321 is:  22
-Shortest distance from 0 to: 322 is:  21
-Shortest distance from 0 to: 323 is:  23
-Shortest distance from 0 to: 324 is:  17
-Shortest distance from 0 to: 325 is:  16
-Shortest distance from 0 to: 326 is:  22
-Shortest distance from 0 to: 327 is:  25
-Shortest distance from 0 to: 328 is:  19
-Shortest distance from 0 to: 329 is:  22
-Shortest distance from 0 to: 330 is:  19
-Shortest distance from 0 to: 331 is:  6
-Shortest distance from 0 to: 332 is:  21
-Shortest distance from 0 to: 333 is:  14
-Shortest distance from 0 to: 334 is:  19
-Shortest distance from 0 to: 335 is:  19
-Shortest distance from 0 to: 336 is:  16
-Shortest distance from 0 to: 337 is:  23
-Shortest distance from 0 to: 338 is:  12
-Shortest distance from 0 to: 339 is:  19
-Shortest distance from 0 to: 340 is:  25
-Shortest distance from 0 to: 341 is:  17
+Shortest distance from 0 to: 316 is:  25
+Shortest distance from 0 to: 317 is:  24
+Shortest distance from 0 to: 318 is:  14
+Shortest distance from 0 to: 319 is:  25
+Shortest distance from 0 to: 320 is:  25
+Shortest distance from 0 to: 321 is:  14
+Shortest distance from 0 to: 322 is:  17
+Shortest distance from 0 to: 323 is:  20
+Shortest distance from 0 to: 324 is:  18
+Shortest distance from 0 to: 325 is:  25
+Shortest distance from 0 to: 326 is:  18
+Shortest distance from 0 to: 327 is:  23
+Shortest distance from 0 to: 328 is:  27
+Shortest distance from 0 to: 329 is:  18
+Shortest distance from 0 to: 330 is:  22
+Shortest distance from 0 to: 331 is:  30
+Shortest distance from 0 to: 332 is:  23
+Shortest distance from 0 to: 333 is:  18
+Shortest distance from 0 to: 334 is:  43
+Shortest distance from 0 to: 335 is:  24
+Shortest distance from 0 to: 336 is:  17
+Shortest distance from 0 to: 337 is:  28
+Shortest distance from 0 to: 338 is:  21
+Shortest distance from 0 to: 339 is:  15
+Shortest distance from 0 to: 340 is:  26
+Shortest distance from 0 to: 341 is:  23
 Shortest distance from 0 to: 342 is:  22
-Shortest distance from 0 to: 343 is:  16
-Shortest distance from 0 to: 344 is:  23
-Shortest distance from 0 to: 345 is:  21
-Shortest distance from 0 to: 346 is:  20
-Shortest distance from 0 to: 347 is:  27
-Shortest distance from 0 to: 348 is:  20
-Shortest distance from 0 to: 349 is:  19
-Shortest distance from 0 to: 350 is:  25
-Shortest distance from 0 to: 351 is:  23
-Shortest distance from 0 to: 352 is:  20
-Shortest distance from 0 to: 353 is:  20
-Shortest distance from 0 to: 354 is:  21
+Shortest distance from 0 to: 343 is:  26
+Shortest distance from 0 to: 344 is:  28
+Shortest distance from 0 to: 345 is:  11
+Shortest distance from 0 to: 346 is:  15
+Shortest distance from 0 to: 347 is:  21
+Shortest distance from 0 to: 348 is:  15
+Shortest distance from 0 to: 349 is:  20
+Shortest distance from 0 to: 350 is:  16
+Shortest distance from 0 to: 351 is:  24
+Shortest distance from 0 to: 352 is:  18
+Shortest distance from 0 to: 353 is:  22
+Shortest distance from 0 to: 354 is:  27
 Shortest distance from 0 to: 355 is:  21
-Shortest distance from 0 to: 356 is:  11
-Shortest distance from 0 to: 357 is:  22
+Shortest distance from 0 to: 356 is:  21
+Shortest distance from 0 to: 357 is:  21
 Shortest distance from 0 to: 358 is:  19
-Shortest distance from 0 to: 359 is:  15
-Shortest distance from 0 to: 360 is:  15
-Shortest distance from 0 to: 361 is:  26
-Shortest distance from 0 to: 362 is:  17
-Shortest distance from 0 to: 363 is:  29
-Shortest distance from 0 to: 364 is:  18
-Shortest distance from 0 to: 365 is:  19
-Shortest distance from 0 to: 366 is:  26
-Shortest distance from 0 to: 367 is:  22
-Shortest distance from 0 to: 368 is:  24
+Shortest distance from 0 to: 359 is:  17
+Shortest distance from 0 to: 360 is:  19
+Shortest distance from 0 to: 361 is:  12
+Shortest distance from 0 to: 362 is:  20
+Shortest distance from 0 to: 363 is:  30
+Shortest distance from 0 to: 364 is:  24
+Shortest distance from 0 to: 365 is:  21
+Shortest distance from 0 to: 366 is:  18
+Shortest distance from 0 to: 367 is:  18
+Shortest distance from 0 to: 368 is:  18
 Shortest distance from 0 to: 369 is:  20
-Shortest distance from 0 to: 370 is:  22
-Shortest distance from 0 to: 371 is:  21
-Shortest distance from 0 to: 372 is:  23
-Shortest distance from 0 to: 373 is:  11
-Shortest distance from 0 to: 374 is:  14
-Shortest distance from 0 to: 375 is:  24
-Shortest distance from 0 to: 376 is:  24
+Shortest distance from 0 to: 370 is:  25
+Shortest distance from 0 to: 371 is:  24
+Shortest distance from 0 to: 372 is:  17
+Shortest distance from 0 to: 373 is:  20
+Shortest distance from 0 to: 374 is:  20
+Shortest distance from 0 to: 375 is:  23
+Shortest distance from 0 to: 376 is:  17
 Shortest distance from 0 to: 377 is:  14
-Shortest distance from 0 to: 378 is:  17
-Shortest distance from 0 to: 379 is:  9
-Shortest distance from 0 to: 380 is:  26
-Shortest distance from 0 to: 381 is:  20
-Shortest distance from 0 to: 382 is:  22
-Shortest distance from 0 to: 383 is:  15
-Shortest distance from 0 to: 384 is:  25
-Shortest distance from 0 to: 385 is:  29
-Shortest distance from 0 to: 386 is:  17
-Shortest distance from 0 to: 387 is:  19
+Shortest distance from 0 to: 378 is:  26
+Shortest distance from 0 to: 379 is:  24
+Shortest distance from 0 to: 380 is:  21
+Shortest distance from 0 to: 381 is:  38
+Shortest distance from 0 to: 382 is:  14
+Shortest distance from 0 to: 383 is:  24
+Shortest distance from 0 to: 384 is:  18
+Shortest distance from 0 to: 385 is:  7
+Shortest distance from 0 to: 386 is:  28
+Shortest distance from 0 to: 387 is:  9
 Shortest distance from 0 to: 388 is:  21
-Shortest distance from 0 to: 389 is:  11
-Shortest distance from 0 to: 390 is:  34
-Shortest distance from 0 to: 391 is:  8
-Shortest distance from 0 to: 392 is:  13
-Shortest distance from 0 to: 393 is:  12
-Shortest distance from 0 to: 394 is:  24
-Shortest distance from 0 to: 395 is:  20
-Shortest distance from 0 to: 396 is:  19
-Shortest distance from 0 to: 397 is:  11
-Shortest distance from 0 to: 398 is:  20
-Shortest distance from 0 to: 399 is:  22
-Shortest distance from 0 to: 400 is:  16
-Shortest distance from 0 to: 401 is:  25
-Shortest distance from 0 to: 402 is:  20
-Shortest distance from 0 to: 403 is:  19
-Shortest distance from 0 to: 404 is:  30
-Shortest distance from 0 to: 405 is:  27
-Shortest distance from 0 to: 406 is:  26
-Shortest distance from 0 to: 407 is:  21
-Shortest distance from 0 to: 408 is:  18
-Shortest distance from 0 to: 409 is:  20
-Shortest distance from 0 to: 410 is:  23
-Shortest distance from 0 to: 411 is:  11
-Shortest distance from 0 to: 412 is:  23
-Shortest distance from 0 to: 413 is:  12
-Shortest distance from 0 to: 414 is:  27
-Shortest distance from 0 to: 415 is:  24
-Shortest distance from 0 to: 416 is:  22
-Shortest distance from 0 to: 417 is:  17
-Shortest distance from 0 to: 418 is:  12
-Shortest distance from 0 to: 419 is:  22
-Shortest distance from 0 to: 420 is:  19
-Shortest distance from 0 to: 421 is:  22
-Shortest distance from 0 to: 422 is:  21
-Shortest distance from 0 to: 423 is:  17
-Shortest distance from 0 to: 424 is:  29
-Shortest distance from 0 to: 425 is:  25
-Shortest distance from 0 to: 426 is:  21
-Shortest distance from 0 to: 427 is:  19
-Shortest distance from 0 to: 428 is:  20
-Shortest distance from 0 to: 429 is:  22
-Shortest distance from 0 to: 430 is:  21
-Shortest distance from 0 to: 431 is:  26
-Shortest distance from 0 to: 432 is:  4
-Shortest distance from 0 to: 433 is:  12
-Shortest distance from 0 to: 434 is:  26
-Shortest distance from 0 to: 435 is:  31
-Shortest distance from 0 to: 436 is:  21
-Shortest distance from 0 to: 437 is:  15
-Shortest distance from 0 to: 438 is:  23
-Shortest distance from 0 to: 439 is:  14
-Shortest distance from 0 to: 440 is:  26
-Shortest distance from 0 to: 441 is:  23
-Shortest distance from 0 to: 442 is:  22
-Shortest distance from 0 to: 443 is:  15
-Shortest distance from 0 to: 444 is:  19
-Shortest distance from 0 to: 445 is:  23
-Shortest distance from 0 to: 446 is:  17
-Shortest distance from 0 to: 447 is:  24
-Shortest distance from 0 to: 448 is:  16
-Shortest distance from 0 to: 449 is:  20
-Shortest distance from 0 to: 450 is:  18
-Shortest distance from 0 to: 451 is:  14
+Shortest distance from 0 to: 389 is:  19
+Shortest distance from 0 to: 390 is:  17
+Shortest distance from 0 to: 391 is:  20
+Shortest distance from 0 to: 392 is:  22
+Shortest distance from 0 to: 393 is:  16
+Shortest distance from 0 to: 394 is:  28
+Shortest distance from 0 to: 395 is:  18
+Shortest distance from 0 to: 396 is:  25
+Shortest distance from 0 to: 397 is:  17
+Shortest distance from 0 to: 398 is:  21
+Shortest distance from 0 to: 399 is:  23
+Shortest distance from 0 to: 400 is:  19
+Shortest distance from 0 to: 401 is:  19
+Shortest distance from 0 to: 402 is:  22
+Shortest distance from 0 to: 403 is:  22
+Shortest distance from 0 to: 404 is:  20
+Shortest distance from 0 to: 405 is:  24
+Shortest distance from 0 to: 406 is:  21
+Shortest distance from 0 to: 407 is:  34
+Shortest distance from 0 to: 408 is:  20
+Shortest distance from 0 to: 409 is:  24
+Shortest distance from 0 to: 410 is:  24
+Shortest distance from 0 to: 411 is:  17
+Shortest distance from 0 to: 412 is:  43
+Shortest distance from 0 to: 413 is:  6
+Shortest distance from 0 to: 414 is:  19
+Shortest distance from 0 to: 415 is:  20
+Shortest distance from 0 to: 416 is:  16
+Shortest distance from 0 to: 417 is:  27
+Shortest distance from 0 to: 418 is:  15
+Shortest distance from 0 to: 419 is:  26
+Shortest distance from 0 to: 420 is:  24
+Shortest distance from 0 to: 421 is:  7
+Shortest distance from 0 to: 422 is:  23
+Shortest distance from 0 to: 423 is:  26
+Shortest distance from 0 to: 424 is:  30
+Shortest distance from 0 to: 425 is:  21
+Shortest distance from 0 to: 426 is:  19
+Shortest distance from 0 to: 427 is:  21
+Shortest distance from 0 to: 428 is:  13
+Shortest distance from 0 to: 429 is:  24
+Shortest distance from 0 to: 430 is:  16
+Shortest distance from 0 to: 431 is:  17
+Shortest distance from 0 to: 432 is:  22
+Shortest distance from 0 to: 433 is:  17
+Shortest distance from 0 to: 434 is:  18
+Shortest distance from 0 to: 435 is:  16
+Shortest distance from 0 to: 436 is:  17
+Shortest distance from 0 to: 437 is:  27
+Shortest distance from 0 to: 438 is:  21
+Shortest distance from 0 to: 439 is:  10
+Shortest distance from 0 to: 440 is:  22
+Shortest distance from 0 to: 441 is:  26
+Shortest distance from 0 to: 442 is:  20
+Shortest distance from 0 to: 443 is:  17
+Shortest distance from 0 to: 444 is:  13
+Shortest distance from 0 to: 445 is:  17
+Shortest distance from 0 to: 446 is:  15
+Shortest distance from 0 to: 447 is:  25
+Shortest distance from 0 to: 448 is:  20
+Shortest distance from 0 to: 449 is:  26
+Shortest distance from 0 to: 450 is:  19
+Shortest distance from 0 to: 451 is:  16
 Shortest distance from 0 to: 452 is:  22
-Shortest distance from 0 to: 453 is:  10
-Shortest distance from 0 to: 454 is:  18
-Shortest distance from 0 to: 455 is:  22
-Shortest distance from 0 to: 456 is:  11
-Shortest distance from 0 to: 457 is:  26
-Shortest distance from 0 to: 458 is:  14
-Shortest distance from 0 to: 459 is:  23
-Shortest distance from 0 to: 460 is:  13
-Shortest distance from 0 to: 461 is:  15
-Shortest distance from 0 to: 462 is:  21
+Shortest distance from 0 to: 453 is:  11
+Shortest distance from 0 to: 454 is:  29
+Shortest distance from 0 to: 455 is:  26
+Shortest distance from 0 to: 456 is:  20
+Shortest distance from 0 to: 457 is:  23
+Shortest distance from 0 to: 458 is:  19
+Shortest distance from 0 to: 459 is:  34
+Shortest distance from 0 to: 460 is:  18
+Shortest distance from 0 to: 461 is:  23
+Shortest distance from 0 to: 462 is:  16
 Shortest distance from 0 to: 463 is:  19
-Shortest distance from 0 to: 464 is:  21
-Shortest distance from 0 to: 465 is:  19
-Shortest distance from 0 to: 466 is:  24
-Shortest distance from 0 to: 467 is:  21
-Shortest distance from 0 to: 468 is:  23
-Shortest distance from 0 to: 469 is:  24
-Shortest distance from 0 to: 470 is:  24
-Shortest distance from 0 to: 471 is:  16
-Shortest distance from 0 to: 472 is:  25
-Shortest distance from 0 to: 473 is:  24
-Shortest distance from 0 to: 474 is:  19
-Shortest distance from 0 to: 475 is:  18
-Shortest distance from 0 to: 476 is:  15
-Shortest distance from 0 to: 477 is:  25
-Shortest distance from 0 to: 478 is:  16
-Shortest distance from 0 to: 479 is:  16
-Shortest distance from 0 to: 480 is:  25
+Shortest distance from 0 to: 464 is:  13
+Shortest distance from 0 to: 465 is:  22
+Shortest distance from 0 to: 466 is:  12
+Shortest distance from 0 to: 467 is:  18
+Shortest distance from 0 to: 468 is:  14
+Shortest distance from 0 to: 469 is:  20
+Shortest distance from 0 to: 470 is:  17
+Shortest distance from 0 to: 471 is:  12
+Shortest distance from 0 to: 472 is:  13
+Shortest distance from 0 to: 473 is:  22
+Shortest distance from 0 to: 474 is:  20
+Shortest distance from 0 to: 475 is:  17
+Shortest distance from 0 to: 476 is:  18
+Shortest distance from 0 to: 477 is:  14
+Shortest distance from 0 to: 478 is:  21
+Shortest distance from 0 to: 479 is:  20
+Shortest distance from 0 to: 480 is:  17
 Shortest distance from 0 to: 481 is:  20
-Shortest distance from 0 to: 482 is:  14
-Shortest distance from 0 to: 483 is:  15
+Shortest distance from 0 to: 482 is:  20
+Shortest distance from 0 to: 483 is:  17
 Shortest distance from 0 to: 484 is:  18
-Shortest distance from 0 to: 485 is:  21
-Shortest distance from 0 to: 486 is:  24
-Shortest distance from 0 to: 487 is:  21
-Shortest distance from 0 to: 488 is:  22
-Shortest distance from 0 to: 489 is:  18
-Shortest distance from 0 to: 490 is:  14
-Shortest distance from 0 to: 491 is:  22
+Shortest distance from 0 to: 485 is:  22
+Shortest distance from 0 to: 486 is:  17
+Shortest distance from 0 to: 487 is:  25
+Shortest distance from 0 to: 488 is:  18
+Shortest distance from 0 to: 489 is:  24
+Shortest distance from 0 to: 490 is:  22
+Shortest distance from 0 to: 491 is:  17
 Shortest distance from 0 to: 492 is:  26
-Shortest distance from 0 to: 493 is:  21
-Shortest distance from 0 to: 494 is:  18
-Shortest distance from 0 to: 495 is:  22
+Shortest distance from 0 to: 493 is:  23
+Shortest distance from 0 to: 494 is:  16
+Shortest distance from 0 to: 495 is:  20
 Shortest distance from 0 to: 496 is:  20
-Shortest distance from 0 to: 497 is:  17
-Shortest distance from 0 to: 498 is:  23
-Shortest distance from 0 to: 499 is:  25
-Shortest distance from 0 to: 500 is:  20
-Shortest distance from 0 to: 501 is:  20
-Shortest distance from 0 to: 502 is:  23
-Shortest distance from 0 to: 503 is:  22
-Shortest distance from 0 to: 504 is:  24
-Shortest distance from 0 to: 505 is:  21
-Shortest distance from 0 to: 506 is:  16
-Shortest distance from 0 to: 507 is:  13
-Shortest distance from 0 to: 508 is:  15
-Shortest distance from 0 to: 509 is:  21
-Shortest distance from 0 to: 510 is:  15
-Shortest distance from 0 to: 511 is:  29
-Shortest distance from 0 to: 512 is:  26
-Shortest distance from 0 to: 513 is:  33
-Shortest distance from 0 to: 514 is:  25
-Shortest distance from 0 to: 515 is:  21
-Shortest distance from 0 to: 516 is:  14
-Shortest distance from 0 to: 517 is:  24
-Shortest distance from 0 to: 518 is:  18
+Shortest distance from 0 to: 497 is:  23
+Shortest distance from 0 to: 498 is:  17
+Shortest distance from 0 to: 499 is:  24
+Shortest distance from 0 to: 500 is:  9
+Shortest distance from 0 to: 501 is:  23
+Shortest distance from 0 to: 502 is:  17
+Shortest distance from 0 to: 503 is:  18
+Shortest distance from 0 to: 504 is:  14
+Shortest distance from 0 to: 505 is:  17
+Shortest distance from 0 to: 506 is:  21
+Shortest distance from 0 to: 507 is:  20
+Shortest distance from 0 to: 508 is:  25
+Shortest distance from 0 to: 509 is:  25
+Shortest distance from 0 to: 510 is:  20
+Shortest distance from 0 to: 511 is:  22
+Shortest distance from 0 to: 512 is:  19
+Shortest distance from 0 to: 513 is:  22
+Shortest distance from 0 to: 514 is:  17
+Shortest distance from 0 to: 515 is:  15
+Shortest distance from 0 to: 516 is:  25
+Shortest distance from 0 to: 517 is:  13
+Shortest distance from 0 to: 518 is:  22
 Shortest distance from 0 to: 519 is:  23
-Shortest distance from 0 to: 520 is:  19
-Shortest distance from 0 to: 521 is:  15
-Shortest distance from 0 to: 522 is:  27
-Shortest distance from 0 to: 523 is:  24
-Shortest distance from 0 to: 524 is:  17
-Shortest distance from 0 to: 525 is:  23
-Shortest distance from 0 to: 526 is:  18
-Shortest distance from 0 to: 527 is:  20
-Shortest distance from 0 to: 528 is:  24
-Shortest distance from 0 to: 529 is:  25
-Shortest distance from 0 to: 530 is:  25
-Shortest distance from 0 to: 531 is:  18
-Shortest distance from 0 to: 532 is:  25
-Shortest distance from 0 to: 533 is:  21
-Shortest distance from 0 to: 534 is:  12
-Shortest distance from 0 to: 535 is:  18
-Shortest distance from 0 to: 536 is:  17
-Shortest distance from 0 to: 537 is:  19
-Shortest distance from 0 to: 538 is:  15
-Shortest distance from 0 to: 539 is:  17
-Shortest distance from 0 to: 540 is:  19
-Shortest distance from 0 to: 541 is:  22
-Shortest distance from 0 to: 542 is:  24
-Shortest distance from 0 to: 543 is:  11
-Shortest distance from 0 to: 544 is:  22
-Shortest distance from 0 to: 545 is:  19
-Shortest distance from 0 to: 546 is:  26
-Shortest distance from 0 to: 547 is:  30
-Shortest distance from 0 to: 548 is:  24
-Shortest distance from 0 to: 549 is:  21
-Shortest distance from 0 to: 550 is:  15
+Shortest distance from 0 to: 520 is:  20
+Shortest distance from 0 to: 521 is:  27
+Shortest distance from 0 to: 522 is:  20
+Shortest distance from 0 to: 523 is:  23
+Shortest distance from 0 to: 524 is:  22
+Shortest distance from 0 to: 525 is:  16
+Shortest distance from 0 to: 526 is:  19
+Shortest distance from 0 to: 527 is:  17
+Shortest distance from 0 to: 528 is:  20
+Shortest distance from 0 to: 529 is:  31
+Shortest distance from 0 to: 530 is:  22
+Shortest distance from 0 to: 531 is:  24
+Shortest distance from 0 to: 532 is:  24
+Shortest distance from 0 to: 533 is:  15
+Shortest distance from 0 to: 534 is:  25
+Shortest distance from 0 to: 535 is:  24
+Shortest distance from 0 to: 536 is:  24
+Shortest distance from 0 to: 537 is:  28
+Shortest distance from 0 to: 538 is:  23
+Shortest distance from 0 to: 539 is:  24
+Shortest distance from 0 to: 540 is:  22
+Shortest distance from 0 to: 541 is:  20
+Shortest distance from 0 to: 542 is:  20
+Shortest distance from 0 to: 543 is:  18
+Shortest distance from 0 to: 544 is:  19
+Shortest distance from 0 to: 545 is:  20
+Shortest distance from 0 to: 546 is:  28
+Shortest distance from 0 to: 547 is:  11
+Shortest distance from 0 to: 548 is:  28
+Shortest distance from 0 to: 549 is:  23
+Shortest distance from 0 to: 550 is:  28
 Shortest distance from 0 to: 551 is:  20
-Shortest distance from 0 to: 552 is:  16
+Shortest distance from 0 to: 552 is:  22
 Shortest distance from 0 to: 553 is:  21
-Shortest distance from 0 to: 554 is:  33
-Shortest distance from 0 to: 555 is:  18
-Shortest distance from 0 to: 556 is:  17
-Shortest distance from 0 to: 557 is:  24
-Shortest distance from 0 to: 558 is:  23
-Shortest distance from 0 to: 559 is:  17
-Shortest distance from 0 to: 560 is:  22
+Shortest distance from 0 to: 554 is:  24
+Shortest distance from 0 to: 555 is:  24
+Shortest distance from 0 to: 556 is:  24
+Shortest distance from 0 to: 557 is:  17
+Shortest distance from 0 to: 558 is:  19
+Shortest distance from 0 to: 559 is:  27
+Shortest distance from 0 to: 560 is:  17
 Shortest distance from 0 to: 561 is:  19
-Shortest distance from 0 to: 562 is:  23
-Shortest distance from 0 to: 563 is:  17
-Shortest distance from 0 to: 564 is:  23
-Shortest distance from 0 to: 565 is:  27
-Shortest distance from 0 to: 566 is:  25
-Shortest distance from 0 to: 567 is:  22
+Shortest distance from 0 to: 562 is:  24
+Shortest distance from 0 to: 563 is:  24
+Shortest distance from 0 to: 564 is:  24
+Shortest distance from 0 to: 565 is:  24
+Shortest distance from 0 to: 566 is:  10
+Shortest distance from 0 to: 567 is:  23
 Shortest distance from 0 to: 568 is:  25
-Shortest distance from 0 to: 569 is:  28
-Shortest distance from 0 to: 570 is:  17
-Shortest distance from 0 to: 571 is:  27
-Shortest distance from 0 to: 572 is:  27
-Shortest distance from 0 to: 573 is:  33
-Shortest distance from 0 to: 574 is:  21
-Shortest distance from 0 to: 575 is:  13
-Shortest distance from 0 to: 576 is:  25
-Shortest distance from 0 to: 577 is:  24
-Shortest distance from 0 to: 578 is:  24
-Shortest distance from 0 to: 579 is:  21
-Shortest distance from 0 to: 580 is:  19
-Shortest distance from 0 to: 581 is:  14
-Shortest distance from 0 to: 582 is:  18
-Shortest distance from 0 to: 583 is:  22
-Shortest distance from 0 to: 584 is:  12
-Shortest distance from 0 to: 585 is:  30
+Shortest distance from 0 to: 569 is:  15
+Shortest distance from 0 to: 570 is:  24
+Shortest distance from 0 to: 571 is:  21
+Shortest distance from 0 to: 572 is:  10
+Shortest distance from 0 to: 573 is:  21
+Shortest distance from 0 to: 574 is:  23
+Shortest distance from 0 to: 575 is:  21
+Shortest distance from 0 to: 576 is:  23
+Shortest distance from 0 to: 577 is:  10
+Shortest distance from 0 to: 578 is:  21
+Shortest distance from 0 to: 579 is:  25
+Shortest distance from 0 to: 580 is:  25
+Shortest distance from 0 to: 581 is:  22
+Shortest distance from 0 to: 582 is:  23
+Shortest distance from 0 to: 583 is:  28
+Shortest distance from 0 to: 584 is:  26
+Shortest distance from 0 to: 585 is:  20
 Shortest distance from 0 to: 586 is:  20
-Shortest distance from 0 to: 587 is:  24
-Shortest distance from 0 to: 588 is:  14
-Shortest distance from 0 to: 589 is:  22
-Shortest distance from 0 to: 590 is:  25
+Shortest distance from 0 to: 587 is:  19
+Shortest distance from 0 to: 588 is:  23
+Shortest distance from 0 to: 589 is:  23
+Shortest distance from 0 to: 590 is:  17
 Shortest distance from 0 to: 591 is:  23
-Shortest distance from 0 to: 592 is:  20
-Shortest distance from 0 to: 593 is:  23
-Shortest distance from 0 to: 594 is:  19
-Shortest distance from 0 to: 595 is:  20
-Shortest distance from 0 to: 596 is:  15
-Shortest distance from 0 to: 597 is:  16
-Shortest distance from 0 to: 598 is:  26
-Shortest distance from 0 to: 599 is:  23
-Shortest distance from 0 to: 600 is:  15
-Shortest distance from 0 to: 601 is:  13
-Shortest distance from 0 to: 602 is:  20
-Shortest distance from 0 to: 603 is:  15
-Shortest distance from 0 to: 604 is:  21
-Shortest distance from 0 to: 605 is:  25
-Shortest distance from 0 to: 606 is:  19
-Shortest distance from 0 to: 607 is:  19
-Shortest distance from 0 to: 608 is:  25
-Shortest distance from 0 to: 609 is:  24
-Shortest distance from 0 to: 610 is:  15
-Shortest distance from 0 to: 611 is:  14
-Shortest distance from 0 to: 612 is:  18
-Shortest distance from 0 to: 613 is:  10
-Shortest distance from 0 to: 614 is:  18
-Shortest distance from 0 to: 615 is:  25
-Shortest distance from 0 to: 616 is:  23
-Shortest distance from 0 to: 617 is:  17
-Shortest distance from 0 to: 618 is:  22
-Shortest distance from 0 to: 619 is:  20
+Shortest distance from 0 to: 592 is:  23
+Shortest distance from 0 to: 593 is:  16
+Shortest distance from 0 to: 594 is:  20
+Shortest distance from 0 to: 595 is:  19
+Shortest distance from 0 to: 596 is:  18
+Shortest distance from 0 to: 597 is:  20
+Shortest distance from 0 to: 598 is:  20
+Shortest distance from 0 to: 599 is:  30
+Shortest distance from 0 to: 600 is:  22
+Shortest distance from 0 to: 601 is:  20
+Shortest distance from 0 to: 602 is:  32
+Shortest distance from 0 to: 603 is:  23
+Shortest distance from 0 to: 604 is:  27
+Shortest distance from 0 to: 605 is:  18
+Shortest distance from 0 to: 606 is:  18
+Shortest distance from 0 to: 607 is:  33
+Shortest distance from 0 to: 608 is:  23
+Shortest distance from 0 to: 609 is:  18
+Shortest distance from 0 to: 610 is:  25
+Shortest distance from 0 to: 611 is:  20
+Shortest distance from 0 to: 612 is:  28
+Shortest distance from 0 to: 613 is:  23
+Shortest distance from 0 to: 614 is:  13
+Shortest distance from 0 to: 615 is:  31
+Shortest distance from 0 to: 616 is:  11
+Shortest distance from 0 to: 617 is:  15
+Shortest distance from 0 to: 618 is:  16
+Shortest distance from 0 to: 619 is:  22
 Shortest distance from 0 to: 620 is:  21
-Shortest distance from 0 to: 621 is:  17
-Shortest distance from 0 to: 622 is:  24
-Shortest distance from 0 to: 623 is:  21
-Shortest distance from 0 to: 624 is:  14
-Shortest distance from 0 to: 625 is:  21
-Shortest distance from 0 to: 626 is:  24
-Shortest distance from 0 to: 627 is:  14
-Shortest distance from 0 to: 628 is:  23
+Shortest distance from 0 to: 621 is:  29
+Shortest distance from 0 to: 622 is:  21
+Shortest distance from 0 to: 623 is:  24
+Shortest distance from 0 to: 624 is:  25
+Shortest distance from 0 to: 625 is:  17
+Shortest distance from 0 to: 626 is:  26
+Shortest distance from 0 to: 627 is:  24
+Shortest distance from 0 to: 628 is:  20
 Shortest distance from 0 to: 629 is:  21
-Shortest distance from 0 to: 630 is:  18
-Shortest distance from 0 to: 631 is:  20
-Shortest distance from 0 to: 632 is:  7
-Shortest distance from 0 to: 633 is:  25
-Shortest distance from 0 to: 634 is:  23
-Shortest distance from 0 to: 635 is:  21
-Shortest distance from 0 to: 636 is:  27
-Shortest distance from 0 to: 637 is:  25
-Shortest distance from 0 to: 638 is:  25
-Shortest distance from 0 to: 639 is:  18
-Shortest distance from 0 to: 640 is:  17
-Shortest distance from 0 to: 641 is:  19
-Shortest distance from 0 to: 642 is:  25
-Shortest distance from 0 to: 643 is:  22
-Shortest distance from 0 to: 644 is:  24
-Shortest distance from 0 to: 645 is:  14
-Shortest distance from 0 to: 646 is:  29
-Shortest distance from 0 to: 647 is:  16
-Shortest distance from 0 to: 648 is:  29
-Shortest distance from 0 to: 649 is:  23
-Shortest distance from 0 to: 650 is:  21
-Shortest distance from 0 to: 651 is:  23
-Shortest distance from 0 to: 652 is:  26
+Shortest distance from 0 to: 630 is:  24
+Shortest distance from 0 to: 631 is:  26
+Shortest distance from 0 to: 632 is:  10
+Shortest distance from 0 to: 633 is:  24
+Shortest distance from 0 to: 634 is:  27
+Shortest distance from 0 to: 635 is:  22
+Shortest distance from 0 to: 636 is:  19
+Shortest distance from 0 to: 637 is:  17
+Shortest distance from 0 to: 638 is:  18
+Shortest distance from 0 to: 639 is:  15
+Shortest distance from 0 to: 640 is:  19
+Shortest distance from 0 to: 641 is:  18
+Shortest distance from 0 to: 642 is:  27
+Shortest distance from 0 to: 643 is:  19
+Shortest distance from 0 to: 644 is:  18
+Shortest distance from 0 to: 645 is:  20
+Shortest distance from 0 to: 646 is:  19
+Shortest distance from 0 to: 647 is:  25
+Shortest distance from 0 to: 648 is:  26
+Shortest distance from 0 to: 649 is:  25
+Shortest distance from 0 to: 650 is:  18
+Shortest distance from 0 to: 651 is:  27
+Shortest distance from 0 to: 652 is:  33
 Shortest distance from 0 to: 653 is:  20
-Shortest distance from 0 to: 654 is:  22
-Shortest distance from 0 to: 655 is:  13
+Shortest distance from 0 to: 654 is:  35
+Shortest distance from 0 to: 655 is:  16
 Shortest distance from 0 to: 656 is:  22
-Shortest distance from 0 to: 657 is:  22
-Shortest distance from 0 to: 658 is:  9
-Shortest distance from 0 to: 659 is:  21
-Shortest distance from 0 to: 660 is:  8
-Shortest distance from 0 to: 661 is:  14
+Shortest distance from 0 to: 657 is:  21
+Shortest distance from 0 to: 658 is:  16
+Shortest distance from 0 to: 659 is:  9
+Shortest distance from 0 to: 660 is:  22
+Shortest distance from 0 to: 661 is:  9
 Shortest distance from 0 to: 662 is:  17
-Shortest distance from 0 to: 663 is:  18
-Shortest distance from 0 to: 664 is:  19
-Shortest distance from 0 to: 665 is:  18
-Shortest distance from 0 to: 666 is:  21
-Shortest distance from 0 to: 667 is:  26
-Shortest distance from 0 to: 668 is:  16
-Shortest distance from 0 to: 669 is:  20
-Shortest distance from 0 to: 670 is:  23
-Shortest distance from 0 to: 671 is:  26
-Shortest distance from 0 to: 672 is:  17
-Shortest distance from 0 to: 673 is:  22
-Shortest distance from 0 to: 674 is:  13
-Shortest distance from 0 to: 675 is:  18
-Shortest distance from 0 to: 676 is:  25
-Shortest distance from 0 to: 677 is:  25
-Shortest distance from 0 to: 678 is:  22
-Shortest distance from 0 to: 679 is:  17
-Shortest distance from 0 to: 680 is:  23
-Shortest distance from 0 to: 681 is:  20
-Shortest distance from 0 to: 682 is:  21
-Shortest distance from 0 to: 683 is:  26
-Shortest distance from 0 to: 684 is:  24
-Shortest distance from 0 to: 685 is:  24
-Shortest distance from 0 to: 686 is:  15
-Shortest distance from 0 to: 687 is:  3
-Shortest distance from 0 to: 688 is:  13
-Shortest distance from 0 to: 689 is:  24
-Shortest distance from 0 to: 690 is:  18
-Shortest distance from 0 to: 691 is:  22
-Shortest distance from 0 to: 692 is:  21
-Shortest distance from 0 to: 693 is:  23
-Shortest distance from 0 to: 694 is:  19
-Shortest distance from 0 to: 695 is:  22
-Shortest distance from 0 to: 696 is:  30
-Shortest distance from 0 to: 697 is:  19
-Shortest distance from 0 to: 698 is:  27
-Shortest distance from 0 to: 699 is:  12
-Shortest distance from 0 to: 700 is:  30
-Shortest distance from 0 to: 701 is:  25
-Shortest distance from 0 to: 702 is:  25
-Shortest distance from 0 to: 703 is:  24
-Shortest distance from 0 to: 704 is:  18
-Shortest distance from 0 to: 705 is:  24
-Shortest distance from 0 to: 706 is:  16
-Shortest distance from 0 to: 707 is:  20
-Shortest distance from 0 to: 708 is:  19
-Shortest distance from 0 to: 709 is:  24
-Shortest distance from 0 to: 710 is:  23
-Shortest distance from 0 to: 711 is:  20
-Shortest distance from 0 to: 712 is:  19
-Shortest distance from 0 to: 713 is:  18
-Shortest distance from 0 to: 714 is:  21
-Shortest distance from 0 to: 715 is:  24
-Shortest distance from 0 to: 716 is:  20
-Shortest distance from 0 to: 717 is:  25
-Shortest distance from 0 to: 718 is:  28
-Shortest distance from 0 to: 719 is:  19
-Shortest distance from 0 to: 720 is:  18
-Shortest distance from 0 to: 721 is:  21
-Shortest distance from 0 to: 722 is:  19
-Shortest distance from 0 to: 723 is:  19
-Shortest distance from 0 to: 724 is:  17
-Shortest distance from 0 to: 725 is:  21
-Shortest distance from 0 to: 726 is:  15
-Shortest distance from 0 to: 727 is:  23
-Shortest distance from 0 to: 728 is:  16
-Shortest distance from 0 to: 729 is:  20
-Shortest distance from 0 to: 730 is:  21
-Shortest distance from 0 to: 731 is:  24
-Shortest distance from 0 to: 732 is:  15
-Shortest distance from 0 to: 733 is:  14
+Shortest distance from 0 to: 663 is:  20
+Shortest distance from 0 to: 664 is:  13
+Shortest distance from 0 to: 665 is:  17
+Shortest distance from 0 to: 666 is:  20
+Shortest distance from 0 to: 667 is:  21
+Shortest distance from 0 to: 668 is:  20
+Shortest distance from 0 to: 669 is:  21
+Shortest distance from 0 to: 670 is:  31
+Shortest distance from 0 to: 671 is:  20
+Shortest distance from 0 to: 672 is:  21
+Shortest distance from 0 to: 673 is:  26
+Shortest distance from 0 to: 674 is:  19
+Shortest distance from 0 to: 675 is:  23
+Shortest distance from 0 to: 676 is:  26
+Shortest distance from 0 to: 677 is:  17
+Shortest distance from 0 to: 678 is:  17
+Shortest distance from 0 to: 679 is:  19
+Shortest distance from 0 to: 680 is:  28
+Shortest distance from 0 to: 681 is:  21
+Shortest distance from 0 to: 682 is:  23
+Shortest distance from 0 to: 683 is:  28
+Shortest distance from 0 to: 684 is:  19
+Shortest distance from 0 to: 685 is:  17
+Shortest distance from 0 to: 686 is:  19
+Shortest distance from 0 to: 687 is:  18
+Shortest distance from 0 to: 688 is:  16
+Shortest distance from 0 to: 689 is:  18
+Shortest distance from 0 to: 690 is:  20
+Shortest distance from 0 to: 691 is:  23
+Shortest distance from 0 to: 692 is:  16
+Shortest distance from 0 to: 693 is:  7
+Shortest distance from 0 to: 694 is:  23
+Shortest distance from 0 to: 695 is:  12
+Shortest distance from 0 to: 696 is:  24
+Shortest distance from 0 to: 697 is:  9
+Shortest distance from 0 to: 698 is:  21
+Shortest distance from 0 to: 699 is:  22
+Shortest distance from 0 to: 700 is:  24
+Shortest distance from 0 to: 701 is:  20
+Shortest distance from 0 to: 702 is:  20
+Shortest distance from 0 to: 703 is:  17
+Shortest distance from 0 to: 704 is:  22
+Shortest distance from 0 to: 705 is:  27
+Shortest distance from 0 to: 706 is:  25
+Shortest distance from 0 to: 707 is:  22
+Shortest distance from 0 to: 708 is:  23
+Shortest distance from 0 to: 709 is:  28
+Shortest distance from 0 to: 710 is:  26
+Shortest distance from 0 to: 711 is:  19
+Shortest distance from 0 to: 712 is:  24
+Shortest distance from 0 to: 713 is:  13
+Shortest distance from 0 to: 714 is:  18
+Shortest distance from 0 to: 715 is:  19
+Shortest distance from 0 to: 716 is:  22
+Shortest distance from 0 to: 717 is:  23
+Shortest distance from 0 to: 718 is:  15
+Shortest distance from 0 to: 719 is:  22
+Shortest distance from 0 to: 720 is:  23
+Shortest distance from 0 to: 721 is:  31
+Shortest distance from 0 to: 722 is:  29
+Shortest distance from 0 to: 723 is:  33
+Shortest distance from 0 to: 724 is:  20
+Shortest distance from 0 to: 725 is:  20
+Shortest distance from 0 to: 726 is:  28
+Shortest distance from 0 to: 727 is:  6
+Shortest distance from 0 to: 728 is:  30
+Shortest distance from 0 to: 729 is:  26
+Shortest distance from 0 to: 730 is:  16
+Shortest distance from 0 to: 731 is:  26
+Shortest distance from 0 to: 732 is:  19
+Shortest distance from 0 to: 733 is:  22
 Shortest distance from 0 to: 734 is:  21
-Shortest distance from 0 to: 735 is:  18
-Shortest distance from 0 to: 736 is:  24
-Shortest distance from 0 to: 737 is:  16
-Shortest distance from 0 to: 738 is:  13
-Shortest distance from 0 to: 739 is:  18
+Shortest distance from 0 to: 735 is:  15
+Shortest distance from 0 to: 736 is:  11
+Shortest distance from 0 to: 737 is:  20
+Shortest distance from 0 to: 738 is:  23
+Shortest distance from 0 to: 739 is:  15
 Shortest distance from 0 to: 740 is:  22
-Shortest distance from 0 to: 741 is:  20
-Shortest distance from 0 to: 742 is:  22
-Shortest distance from 0 to: 743 is:  23
-Shortest distance from 0 to: 744 is:  19
-Shortest distance from 0 to: 745 is:  19
-Shortest distance from 0 to: 746 is:  23
-Shortest distance from 0 to: 747 is:  22
-Shortest distance from 0 to: 748 is:  21
-Shortest distance from 0 to: 749 is:  21
-Shortest distance from 0 to: 750 is:  22
-Shortest distance from 0 to: 751 is:  13
-Shortest distance from 0 to: 752 is:  17
-Shortest distance from 0 to: 753 is:  17
-Shortest distance from 0 to: 754 is:  15
-Shortest distance from 0 to: 755 is:  24
-Shortest distance from 0 to: 756 is:  27
-Shortest distance from 0 to: 757 is:  19
-Shortest distance from 0 to: 758 is:  22
+Shortest distance from 0 to: 741 is:  29
+Shortest distance from 0 to: 742 is:  24
+Shortest distance from 0 to: 743 is:  20
+Shortest distance from 0 to: 744 is:  22
+Shortest distance from 0 to: 745 is:  24
+Shortest distance from 0 to: 746 is:  13
+Shortest distance from 0 to: 747 is:  18
+Shortest distance from 0 to: 748 is:  28
+Shortest distance from 0 to: 749 is:  17
+Shortest distance from 0 to: 750 is:  16
+Shortest distance from 0 to: 751 is:  24
+Shortest distance from 0 to: 752 is:  15
+Shortest distance from 0 to: 753 is:  9
+Shortest distance from 0 to: 754 is:  25
+Shortest distance from 0 to: 755 is:  15
+Shortest distance from 0 to: 756 is:  25
+Shortest distance from 0 to: 757 is:  31
+Shortest distance from 0 to: 758 is:  18
 Shortest distance from 0 to: 759 is:  21
 Shortest distance from 0 to: 760 is:  21
-Shortest distance from 0 to: 761 is:  28
-Shortest distance from 0 to: 762 is:  16
-Shortest distance from 0 to: 763 is:  17
-Shortest distance from 0 to: 764 is:  15
-Shortest distance from 0 to: 765 is:  24
-Shortest distance from 0 to: 766 is:  19
-Shortest distance from 0 to: 767 is:  17
-Shortest distance from 0 to: 768 is:  19
-Shortest distance from 0 to: 769 is:  25
-Shortest distance from 0 to: 770 is:  14
-Shortest distance from 0 to: 771 is:  12
-Shortest distance from 0 to: 772 is:  14
-Shortest distance from 0 to: 773 is:  7
-Shortest distance from 0 to: 774 is:  22
-Shortest distance from 0 to: 775 is:  15
-Shortest distance from 0 to: 776 is:  16
-Shortest distance from 0 to: 777 is:  19
-Shortest distance from 0 to: 778 is:  18
-Shortest distance from 0 to: 779 is:  24
-Shortest distance from 0 to: 780 is:  14
+Shortest distance from 0 to: 761 is:  26
+Shortest distance from 0 to: 762 is:  23
+Shortest distance from 0 to: 763 is:  27
+Shortest distance from 0 to: 764 is:  27
+Shortest distance from 0 to: 765 is:  18
+Shortest distance from 0 to: 766 is:  21
+Shortest distance from 0 to: 767 is:  20
+Shortest distance from 0 to: 768 is:  24
+Shortest distance from 0 to: 769 is:  21
+Shortest distance from 0 to: 770 is:  30
+Shortest distance from 0 to: 771 is:  31
+Shortest distance from 0 to: 772 is:  20
+Shortest distance from 0 to: 773 is:  19
+Shortest distance from 0 to: 774 is:  13
+Shortest distance from 0 to: 775 is:  20
+Shortest distance from 0 to: 776 is:  23
+Shortest distance from 0 to: 777 is:  17
+Shortest distance from 0 to: 778 is:  21
+Shortest distance from 0 to: 779 is:  25
+Shortest distance from 0 to: 780 is:  24
 Shortest distance from 0 to: 781 is:  23
-Shortest distance from 0 to: 782 is:  16
-Shortest distance from 0 to: 783 is:  15
-Shortest distance from 0 to: 784 is:  9
-Shortest distance from 0 to: 785 is:  13
+Shortest distance from 0 to: 782 is:  17
+Shortest distance from 0 to: 783 is:  22
+Shortest distance from 0 to: 784 is:  18
+Shortest distance from 0 to: 785 is:  23
 Shortest distance from 0 to: 786 is:  18
-Shortest distance from 0 to: 787 is:  18
-Shortest distance from 0 to: 788 is:  19
-Shortest distance from 0 to: 789 is:  24
-Shortest distance from 0 to: 790 is:  13
-Shortest distance from 0 to: 791 is:  17
-Shortest distance from 0 to: 792 is:  17
-Shortest distance from 0 to: 793 is:  24
-Shortest distance from 0 to: 794 is:  21
-Shortest distance from 0 to: 795 is:  11
-Shortest distance from 0 to: 796 is:  32
-Shortest distance from 0 to: 797 is:  26
-Shortest distance from 0 to: 798 is:  21
-Shortest distance from 0 to: 799 is:  22
-Shortest distance from 0 to: 800 is:  28
-Shortest distance from 0 to: 801 is:  19
-Shortest distance from 0 to: 802 is:  21
-Shortest distance from 0 to: 803 is:  30
-Shortest distance from 0 to: 804 is:  17
-Shortest distance from 0 to: 805 is:  15
-Shortest distance from 0 to: 806 is:  16
-Shortest distance from 0 to: 807 is:  17
-Shortest distance from 0 to: 808 is:  21
-Shortest distance from 0 to: 809 is:  19
-Shortest distance from 0 to: 810 is:  16
+Shortest distance from 0 to: 787 is:  20
+Shortest distance from 0 to: 788 is:  25
+Shortest distance from 0 to: 789 is:  16
+Shortest distance from 0 to: 790 is:  10
+Shortest distance from 0 to: 791 is:  18
+Shortest distance from 0 to: 792 is:  28
+Shortest distance from 0 to: 793 is:  21
+Shortest distance from 0 to: 794 is:  18
+Shortest distance from 0 to: 795 is:  19
+Shortest distance from 0 to: 796 is:  21
+Shortest distance from 0 to: 797 is:  14
+Shortest distance from 0 to: 798 is:  20
+Shortest distance from 0 to: 799 is:  23
+Shortest distance from 0 to: 800 is:  23
+Shortest distance from 0 to: 801 is:  24
+Shortest distance from 0 to: 802 is:  17
+Shortest distance from 0 to: 803 is:  24
+Shortest distance from 0 to: 804 is:  16
+Shortest distance from 0 to: 805 is:  18
+Shortest distance from 0 to: 806 is:  19
+Shortest distance from 0 to: 807 is:  20
+Shortest distance from 0 to: 808 is:  28
+Shortest distance from 0 to: 809 is:  24
+Shortest distance from 0 to: 810 is:  21
 Shortest distance from 0 to: 811 is:  20
-Shortest distance from 0 to: 812 is:  20
-Shortest distance from 0 to: 813 is:  22
-Shortest distance from 0 to: 814 is:  21
+Shortest distance from 0 to: 812 is:  12
+Shortest distance from 0 to: 813 is:  20
+Shortest distance from 0 to: 814 is:  20
 Shortest distance from 0 to: 815 is:  24
-Shortest distance from 0 to: 816 is:  32
-Shortest distance from 0 to: 817 is:  38
-Shortest distance from 0 to: 818 is:  26
-Shortest distance from 0 to: 819 is:  19
-Shortest distance from 0 to: 820 is:  23
-Shortest distance from 0 to: 821 is:  18
+Shortest distance from 0 to: 816 is:  19
+Shortest distance from 0 to: 817 is:  20
+Shortest distance from 0 to: 818 is:  17
+Shortest distance from 0 to: 819 is:  20
+Shortest distance from 0 to: 820 is:  6
+Shortest distance from 0 to: 821 is:  29
 Shortest distance from 0 to: 822 is:  19
-Shortest distance from 0 to: 823 is:  18
-Shortest distance from 0 to: 824 is:  20
-Shortest distance from 0 to: 825 is:  21
-Shortest distance from 0 to: 826 is:  24
-Shortest distance from 0 to: 827 is:  22
-Shortest distance from 0 to: 828 is:  20
-Shortest distance from 0 to: 829 is:  22
-Shortest distance from 0 to: 830 is:  18
-Shortest distance from 0 to: 831 is:  25
-Shortest distance from 0 to: 832 is:  22
-Shortest distance from 0 to: 833 is:  16
-Shortest distance from 0 to: 834 is:  17
-Shortest distance from 0 to: 835 is:  23
-Shortest distance from 0 to: 836 is:  24
-Shortest distance from 0 to: 837 is:  18
-Shortest distance from 0 to: 838 is:  20
-Shortest distance from 0 to: 839 is:  26
-Shortest distance from 0 to: 840 is:  23
+Shortest distance from 0 to: 823 is:  21
+Shortest distance from 0 to: 824 is:  30
+Shortest distance from 0 to: 825 is:  23
+Shortest distance from 0 to: 826 is:  18
+Shortest distance from 0 to: 827 is:  25
+Shortest distance from 0 to: 828 is:  17
+Shortest distance from 0 to: 829 is:  19
+Shortest distance from 0 to: 830 is:  22
+Shortest distance from 0 to: 831 is:  29
+Shortest distance from 0 to: 832 is:  25
+Shortest distance from 0 to: 833 is:  19
+Shortest distance from 0 to: 834 is:  14
+Shortest distance from 0 to: 835 is:  25
+Shortest distance from 0 to: 836 is:  21
+Shortest distance from 0 to: 837 is:  9
+Shortest distance from 0 to: 838 is:  23
+Shortest distance from 0 to: 839 is:  25
+Shortest distance from 0 to: 840 is:  20
 Shortest distance from 0 to: 841 is:  22
 Shortest distance from 0 to: 842 is:  21
-Shortest distance from 0 to: 843 is:  22
-Shortest distance from 0 to: 844 is:  22
-Shortest distance from 0 to: 845 is:  22
-Shortest distance from 0 to: 846 is:  15
-Shortest distance from 0 to: 847 is:  28
+Shortest distance from 0 to: 843 is:  29
+Shortest distance from 0 to: 844 is:  14
+Shortest distance from 0 to: 845 is:  20
+Shortest distance from 0 to: 846 is:  24
+Shortest distance from 0 to: 847 is:  25
 Shortest distance from 0 to: 848 is:  19
-Shortest distance from 0 to: 849 is:  23
-Shortest distance from 0 to: 850 is:  31
-Shortest distance from 0 to: 851 is:  26
-Shortest distance from 0 to: 852 is:  27
-Shortest distance from 0 to: 853 is:  22
-Shortest distance from 0 to: 854 is:  20
-Shortest distance from 0 to: 855 is:  18
-Shortest distance from 0 to: 856 is:  22
-Shortest distance from 0 to: 857 is:  19
-Shortest distance from 0 to: 858 is:  16
-Shortest distance from 0 to: 859 is:  25
-Shortest distance from 0 to: 860 is:  20
+Shortest distance from 0 to: 849 is:  15
+Shortest distance from 0 to: 850 is:  28
+Shortest distance from 0 to: 851 is:  24
+Shortest distance from 0 to: 852 is:  23
+Shortest distance from 0 to: 853 is:  20
+Shortest distance from 0 to: 854 is:  12
+Shortest distance from 0 to: 855 is:  25
+Shortest distance from 0 to: 856 is:  28
+Shortest distance from 0 to: 857 is:  14
+Shortest distance from 0 to: 858 is:  24
+Shortest distance from 0 to: 859 is:  22
+Shortest distance from 0 to: 860 is:  23
 Shortest distance from 0 to: 861 is:  22
-Shortest distance from 0 to: 862 is:  15
-Shortest distance from 0 to: 863 is:  23
-Shortest distance from 0 to: 864 is:  19
-Shortest distance from 0 to: 865 is:  25
-Shortest distance from 0 to: 866 is:  20
-Shortest distance from 0 to: 867 is:  15
-Shortest distance from 0 to: 868 is:  27
-Shortest distance from 0 to: 869 is:  28
-Shortest distance from 0 to: 870 is:  24
-Shortest distance from 0 to: 871 is:  28
-Shortest distance from 0 to: 872 is:  11
-Shortest distance from 0 to: 873 is:  21
+Shortest distance from 0 to: 862 is:  26
+Shortest distance from 0 to: 863 is:  15
+Shortest distance from 0 to: 864 is:  26
+Shortest distance from 0 to: 865 is:  23
+Shortest distance from 0 to: 866 is:  22
+Shortest distance from 0 to: 867 is:  23
+Shortest distance from 0 to: 868 is:  22
+Shortest distance from 0 to: 869 is:  23
+Shortest distance from 0 to: 870 is:  19
+Shortest distance from 0 to: 871 is:  20
+Shortest distance from 0 to: 872 is:  26
+Shortest distance from 0 to: 873 is:  25
 Shortest distance from 0 to: 874 is:  21
-Shortest distance from 0 to: 875 is:  27
-Shortest distance from 0 to: 876 is:  19
-Shortest distance from 0 to: 877 is:  15
-Shortest distance from 0 to: 878 is:  19
-Shortest distance from 0 to: 879 is:  21
-Shortest distance from 0 to: 880 is:  19
-Shortest distance from 0 to: 881 is:  19
-Shortest distance from 0 to: 882 is:  19
-Shortest distance from 0 to: 883 is:  20
-Shortest distance from 0 to: 884 is:  16
-Shortest distance from 0 to: 885 is:  27
-Shortest distance from 0 to: 886 is:  8
-Shortest distance from 0 to: 887 is:  10
-Shortest distance from 0 to: 888 is:  17
-Shortest distance from 0 to: 889 is:  20
+Shortest distance from 0 to: 875 is:  22
+Shortest distance from 0 to: 876 is:  27
+Shortest distance from 0 to: 877 is:  23
+Shortest distance from 0 to: 878 is:  22
+Shortest distance from 0 to: 879 is:  20
+Shortest distance from 0 to: 880 is:  18
+Shortest distance from 0 to: 881 is:  16
+Shortest distance from 0 to: 882 is:  27
+Shortest distance from 0 to: 883 is:  23
+Shortest distance from 0 to: 884 is:  19
+Shortest distance from 0 to: 885 is:  23
+Shortest distance from 0 to: 886 is:  21
+Shortest distance from 0 to: 887 is:  22
+Shortest distance from 0 to: 888 is:  16
+Shortest distance from 0 to: 889 is:  22
 Shortest distance from 0 to: 890 is:  23
 Shortest distance from 0 to: 891 is:  12
-Shortest distance from 0 to: 892 is:  20
-Shortest distance from 0 to: 893 is:  18
-Shortest distance from 0 to: 894 is:  25
-Shortest distance from 0 to: 895 is:  19
-Shortest distance from 0 to: 896 is:  24
-Shortest distance from 0 to: 897 is:  20
-Shortest distance from 0 to: 898 is:  21
-Shortest distance from 0 to: 899 is:  22
-Shortest distance from 0 to: 900 is:  22
-Shortest distance from 0 to: 901 is:  20
-Shortest distance from 0 to: 902 is:  28
-Shortest distance from 0 to: 903 is:  15
-Shortest distance from 0 to: 904 is:  21
-Shortest distance from 0 to: 905 is:  23
+Shortest distance from 0 to: 892 is:  16
+Shortest distance from 0 to: 893 is:  10
+Shortest distance from 0 to: 894 is:  30
+Shortest distance from 0 to: 895 is:  26
+Shortest distance from 0 to: 896 is:  25
+Shortest distance from 0 to: 897 is:  23
+Shortest distance from 0 to: 898 is:  19
+Shortest distance from 0 to: 899 is:  24
+Shortest distance from 0 to: 900 is:  27
+Shortest distance from 0 to: 901 is:  18
+Shortest distance from 0 to: 902 is:  23
+Shortest distance from 0 to: 903 is:  23
+Shortest distance from 0 to: 904 is:  20
+Shortest distance from 0 to: 905 is:  5
 Shortest distance from 0 to: 906 is:  23
-Shortest distance from 0 to: 907 is:  23
-Shortest distance from 0 to: 908 is:  21
-Shortest distance from 0 to: 909 is:  17
-Shortest distance from 0 to: 910 is:  13
-Shortest distance from 0 to: 911 is:  29
-Shortest distance from 0 to: 912 is:  26
-Shortest distance from 0 to: 913 is:  19
-Shortest distance from 0 to: 914 is:  28
-Shortest distance from 0 to: 915 is:  34
-Shortest distance from 0 to: 916 is:  27
-Shortest distance from 0 to: 917 is:  9
-Shortest distance from 0 to: 918 is:  24
+Shortest distance from 0 to: 907 is:  16
+Shortest distance from 0 to: 908 is:  22
+Shortest distance from 0 to: 909 is:  18
+Shortest distance from 0 to: 910 is:  23
+Shortest distance from 0 to: 911 is:  19
+Shortest distance from 0 to: 912 is:  34
+Shortest distance from 0 to: 913 is:  24
+Shortest distance from 0 to: 914 is:  8
+Shortest distance from 0 to: 915 is:  23
+Shortest distance from 0 to: 916 is:  19
+Shortest distance from 0 to: 917 is:  24
+Shortest distance from 0 to: 918 is:  26
 Shortest distance from 0 to: 919 is:  16
-Shortest distance from 0 to: 920 is:  16
-Shortest distance from 0 to: 921 is:  14
-Shortest distance from 0 to: 922 is:  20
-Shortest distance from 0 to: 923 is:  22
-Shortest distance from 0 to: 924 is:  24
-Shortest distance from 0 to: 925 is:  17
-Shortest distance from 0 to: 926 is:  18
-Shortest distance from 0 to: 927 is:  12
+Shortest distance from 0 to: 920 is:  19
+Shortest distance from 0 to: 921 is:  11
+Shortest distance from 0 to: 922 is:  25
+Shortest distance from 0 to: 923 is:  21
+Shortest distance from 0 to: 924 is:  27
+Shortest distance from 0 to: 925 is:  29
+Shortest distance from 0 to: 926 is:  21
+Shortest distance from 0 to: 927 is:  24
 Shortest distance from 0 to: 928 is:  22
-Shortest distance from 0 to: 929 is:  25
-Shortest distance from 0 to: 930 is:  21
-Shortest distance from 0 to: 931 is:  20
-Shortest distance from 0 to: 932 is:  25
-Shortest distance from 0 to: 933 is:  18
-Shortest distance from 0 to: 934 is:  20
-Shortest distance from 0 to: 935 is:  18
-Shortest distance from 0 to: 936 is:  21
-Shortest distance from 0 to: 937 is:  21
-Shortest distance from 0 to: 938 is:  23
-Shortest distance from 0 to: 939 is:  16
-Shortest distance from 0 to: 940 is:  21
-Shortest distance from 0 to: 941 is:  33
-Shortest distance from 0 to: 942 is:  23
-Shortest distance from 0 to: 943 is:  9
-Shortest distance from 0 to: 944 is:  20
-Shortest distance from 0 to: 945 is:  20
-Shortest distance from 0 to: 946 is:  29
-Shortest distance from 0 to: 947 is:  19
-Shortest distance from 0 to: 948 is:  25
-Shortest distance from 0 to: 949 is:  20
-Shortest distance from 0 to: 950 is:  3
-Shortest distance from 0 to: 951 is:  23
-Shortest distance from 0 to: 952 is:  20
-Shortest distance from 0 to: 953 is:  25
-Shortest distance from 0 to: 954 is:  24
-Shortest distance from 0 to: 955 is:  19
-Shortest distance from 0 to: 956 is:  19
+Shortest distance from 0 to: 929 is:  20
+Shortest distance from 0 to: 930 is:  18
+Shortest distance from 0 to: 931 is:  19
+Shortest distance from 0 to: 932 is:  19
+Shortest distance from 0 to: 933 is:  22
+Shortest distance from 0 to: 934 is:  14
+Shortest distance from 0 to: 935 is:  20
+Shortest distance from 0 to: 936 is:  15
+Shortest distance from 0 to: 937 is:  25
+Shortest distance from 0 to: 938 is:  20
+Shortest distance from 0 to: 939 is:  20
+Shortest distance from 0 to: 940 is:  22
+Shortest distance from 0 to: 941 is:  20
+Shortest distance from 0 to: 942 is:  26
+Shortest distance from 0 to: 943 is:  28
+Shortest distance from 0 to: 944 is:  19
+Shortest distance from 0 to: 945 is:  24
+Shortest distance from 0 to: 946 is:  18
+Shortest distance from 0 to: 947 is:  26
+Shortest distance from 0 to: 948 is:  26
+Shortest distance from 0 to: 949 is:  18
+Shortest distance from 0 to: 950 is:  26
+Shortest distance from 0 to: 951 is:  15
+Shortest distance from 0 to: 952 is:  17
+Shortest distance from 0 to: 953 is:  24
+Shortest distance from 0 to: 954 is:  21
+Shortest distance from 0 to: 955 is:  22
+Shortest distance from 0 to: 956 is:  24
 Shortest distance from 0 to: 957 is:  22
-Shortest distance from 0 to: 958 is:  15
-Shortest distance from 0 to: 959 is:  14
-Shortest distance from 0 to: 960 is:  30
-Shortest distance from 0 to: 961 is:  18
-Shortest distance from 0 to: 962 is:  12
-Shortest distance from 0 to: 963 is:  14
-Shortest distance from 0 to: 964 is:  15
-Shortest distance from 0 to: 965 is:  25
-Shortest distance from 0 to: 966 is:  25
-Shortest distance from 0 to: 967 is:  28
-Shortest distance from 0 to: 968 is:  21
-Shortest distance from 0 to: 969 is:  23
-Shortest distance from 0 to: 970 is:  19
-Shortest distance from 0 to: 971 is:  28
-Shortest distance from 0 to: 972 is:  21
-Shortest distance from 0 to: 973 is:  21
-Shortest distance from 0 to: 974 is:  17
-Shortest distance from 0 to: 975 is:  20
-Shortest distance from 0 to: 976 is:  24
-Shortest distance from 0 to: 977 is:  16
-Shortest distance from 0 to: 978 is:  16
-Shortest distance from 0 to: 979 is:  17
+Shortest distance from 0 to: 958 is:  21
+Shortest distance from 0 to: 959 is:  20
+Shortest distance from 0 to: 960 is:  27
+Shortest distance from 0 to: 961 is:  23
+Shortest distance from 0 to: 962 is:  21
+Shortest distance from 0 to: 963 is:  24
+Shortest distance from 0 to: 964 is:  28
+Shortest distance from 0 to: 965 is:  21
+Shortest distance from 0 to: 966 is:  24
+Shortest distance from 0 to: 967 is:  26
+Shortest distance from 0 to: 968 is:  24
+Shortest distance from 0 to: 969 is:  17
+Shortest distance from 0 to: 970 is:  21
+Shortest distance from 0 to: 971 is:  14
+Shortest distance from 0 to: 972 is:  27
+Shortest distance from 0 to: 973 is:  14
+Shortest distance from 0 to: 974 is:  24
+Shortest distance from 0 to: 975 is:  18
+Shortest distance from 0 to: 976 is:  18
+Shortest distance from 0 to: 977 is:  25
+Shortest distance from 0 to: 978 is:  14
+Shortest distance from 0 to: 979 is:  26
 Shortest distance from 0 to: 980 is:  20
-Shortest distance from 0 to: 981 is:  18
-Shortest distance from 0 to: 982 is:  22
-Shortest distance from 0 to: 983 is:  23
-Shortest distance from 0 to: 984 is:  30
-Shortest distance from 0 to: 985 is:  17
-Shortest distance from 0 to: 986 is:  14
-Shortest distance from 0 to: 987 is:  13
-Shortest distance from 0 to: 988 is:  24
-Shortest distance from 0 to: 989 is:  26
-Shortest distance from 0 to: 990 is:  21
-Shortest distance from 0 to: 991 is:  17
-Shortest distance from 0 to: 992 is:  25
-Shortest distance from 0 to: 993 is:  20
-Shortest distance from 0 to: 994 is:  19
-Shortest distance from 0 to: 995 is:  20
-Shortest distance from 0 to: 996 is:  22
+Shortest distance from 0 to: 981 is:  25
+Shortest distance from 0 to: 982 is:  21
+Shortest distance from 0 to: 983 is:  20
+Shortest distance from 0 to: 984 is:  21
+Shortest distance from 0 to: 985 is:  25
+Shortest distance from 0 to: 986 is:  20
+Shortest distance from 0 to: 987 is:  15
+Shortest distance from 0 to: 988 is:  25
+Shortest distance from 0 to: 989 is:  25
+Shortest distance from 0 to: 990 is:  16
+Shortest distance from 0 to: 991 is:  16
+Shortest distance from 0 to: 992 is:  32
+Shortest distance from 0 to: 993 is:  27
+Shortest distance from 0 to: 994 is:  20
+Shortest distance from 0 to: 995 is:  26
+Shortest distance from 0 to: 996 is:  18
 Shortest distance from 0 to: 997 is:  22
-Shortest distance from 0 to: 998 is:  15
-Shortest distance from 0 to: 999 is:  20
+Shortest distance from 0 to: 998 is:  25
+Shortest distance from 0 to: 999 is:  19
 Path distance from 0 to: 0    0 
-Path distance from 0 to: 1    0 687 432 331 773 660 658 411 433 507 726 1 
-Path distance from 0 to: 2    0 687 613 461 2 
-Path distance from 0 to: 3    0 687 432 81 379 575 3 
-Path distance from 0 to: 4    0 687 432 331 773 4 
-Path distance from 0 to: 5    0 174 780 5 
-Path distance from 0 to: 6    0 687 432 81 379 453 543 418 378 297 6 
-Path distance from 0 to: 7    0 950 391 7 
-Path distance from 0 to: 8    0 687 432 81 804 52 8 
-Path distance from 0 to: 9    0 687 432 397 600 9 
-Path distance from 0 to: 10    0 174 617 855 10 
-Path distance from 0 to: 11    0 687 432 81 379 453 543 418 296 11 
-Path distance from 0 to: 12    0 687 613 238 289 12 
-Path distance from 0 to: 13    0 687 320 13 
-Path distance from 0 to: 14    0 174 887 891 14 
-Path distance from 0 to: 15    0 950 632 30 31 383 15 
-Path distance from 0 to: 16    0 174 887 439 161 16 
-Path distance from 0 to: 17    0 687 432 65 294 284 17 
-Path distance from 0 to: 18    0 687 432 872 60 316 18 
-Path distance from 0 to: 19    0 687 943 612 19 
-Path distance from 0 to: 20    0 687 432 872 417 20 
-Path distance from 0 to: 21    0 950 391 7 21 
-Path distance from 0 to: 22    0 174 617 22 
-Path distance from 0 to: 23    0 149 23 
-Path distance from 0 to: 24    0 950 877 153 24 
-Path distance from 0 to: 25    0 687 943 25 
-Path distance from 0 to: 26    0 356 413 235 581 998 484 892 26 
-Path distance from 0 to: 27    0 174 887 311 27 
-Path distance from 0 to: 28    0 687 109 476 444 28 
-Path distance from 0 to: 29    0 687 613 962 790 506 563 247 29 
-Path distance from 0 to: 30    0 950 632 30 
-Path distance from 0 to: 31    0 950 632 30 31 
-Path distance from 0 to: 32    0 356 413 235 581 32 
-Path distance from 0 to: 33    0 687 432 275 33 
-Path distance from 0 to: 34    0 687 432 872 417 830 34 
-Path distance from 0 to: 35    0 687 432 331 35 
-Path distance from 0 to: 36    0 687 432 81 379 178 231 451 36 
-Path distance from 0 to: 37    0 687 432 275 37 
-Path distance from 0 to: 38    0 687 432 65 294 602 173 38 
-Path distance from 0 to: 39    0 687 432 331 773 660 658 411 433 507 726 39 
-Path distance from 0 to: 40    0 687 432 397 588 40 
-Path distance from 0 to: 41    0 687 432 65 294 41 
-Path distance from 0 to: 42    0 687 613 858 42 
-Path distance from 0 to: 43    0 687 109 257 43 
-Path distance from 0 to: 44    0 149 266 482 842 44 
-Path distance from 0 to: 45    0 687 432 331 773 660 658 146 45 
-Path distance from 0 to: 46    0 687 432 872 60 316 219 759 46 
-Path distance from 0 to: 47    0 687 109 476 444 47 
-Path distance from 0 to: 48    0 687 432 81 379 453 543 751 645 48 
-Path distance from 0 to: 49    0 687 613 227 810 49 
-Path distance from 0 to: 50    0 356 179 79 50 
-Path distance from 0 to: 51    0 174 887 439 161 16 51 
-Path distance from 0 to: 52    0 687 432 81 804 52 
-Path distance from 0 to: 53    0 356 584 164 53 
-Path distance from 0 to: 54    0 356 584 437 728 54 
-Path distance from 0 to: 55    0 356 413 235 981 843 55 
-Path distance from 0 to: 56    0 687 432 65 100 475 913 140 56 
-Path distance from 0 to: 57    0 687 432 331 773 456 448 57 
-Path distance from 0 to: 58    0 687 613 674 958 349 58 
-Path distance from 0 to: 59    0 174 555 59 
-Path distance from 0 to: 60    0 687 432 872 60 
-Path distance from 0 to: 61    0 687 432 331 245 597 61 
-Path distance from 0 to: 62    0 687 432 81 379 178 373 550 407 62 
-Path distance from 0 to: 63    0 784 910 733 537 63 
-Path distance from 0 to: 64    0 687 613 227 129 64 
-Path distance from 0 to: 65    0 687 432 65 
-Path distance from 0 to: 66    0 687 432 81 379 453 543 655 116 709 66 
-Path distance from 0 to: 67    0 356 584 443 471 67 
-Path distance from 0 to: 68    0 687 432 872 60 767 68 
-Path distance from 0 to: 69    0 687 423 860 725 69 
-Path distance from 0 to: 70    0 687 432 872 60 70 
-Path distance from 0 to: 71    0 950 632 30 795 71 
-Path distance from 0 to: 72    0 784 72 
-Path distance from 0 to: 73    0 687 432 331 773 660 658 73 
-Path distance from 0 to: 74    0 687 432 872 98 114 74 
-Path distance from 0 to: 75    0 687 432 331 773 660 772 359 123 75 
-Path distance from 0 to: 76    0 687 943 25 228 76 
-Path distance from 0 to: 77    0 687 432 872 417 77 
-Path distance from 0 to: 78    0 687 432 331 773 660 658 78 
-Path distance from 0 to: 79    0 356 179 79 
-Path distance from 0 to: 80    0 356 584 437 925 663 80 
-Path distance from 0 to: 81    0 687 432 81 
-Path distance from 0 to: 82    0 356 584 437 728 450 317 715 82 
-Path distance from 0 to: 83    0 687 432 275 37 643 83 
-Path distance from 0 to: 84    0 950 391 7 21 84 
-Path distance from 0 to: 85    0 687 432 393 661 551 85 
-Path distance from 0 to: 86    0 174 927 86 
-Path distance from 0 to: 87    0 687 613 87 
-Path distance from 0 to: 88    0 687 432 81 974 704 881 88 
-Path distance from 0 to: 89    0 687 432 331 773 660 658 411 433 507 89 
-Path distance from 0 to: 90    0 687 432 397 785 90 
-Path distance from 0 to: 91    0 687 432 81 379 453 543 418 296 806 91 
-Path distance from 0 to: 92    0 356 584 778 92 
-Path distance from 0 to: 93    0 687 432 331 773 660 772 359 93 
-Path distance from 0 to: 94    0 687 432 65 100 475 913 94 
-Path distance from 0 to: 95    0 687 432 534 95 
-Path distance from 0 to: 96    0 687 432 393 237 833 96 
-Path distance from 0 to: 97    0 687 109 97 
-Path distance from 0 to: 98    0 687 432 872 98 
-Path distance from 0 to: 99    0 687 943 25 99 
-Path distance from 0 to: 100    0 687 432 65 100 
-Path distance from 0 to: 101    0 687 109 257 43 675 101 
-Path distance from 0 to: 102    0 687 432 81 379 453 543 751 102 
-Path distance from 0 to: 103    0 174 555 103 
-Path distance from 0 to: 104    0 687 109 257 43 675 101 104 
-Path distance from 0 to: 105    0 356 413 235 581 105 
-Path distance from 0 to: 106    0 356 584 437 728 106 
-Path distance from 0 to: 107    0 687 432 331 773 660 772 359 93 107 
-Path distance from 0 to: 108    0 687 613 962 108 
-Path distance from 0 to: 109    0 687 109 
-Path distance from 0 to: 110    0 886 306 999 110 
-Path distance from 0 to: 111    0 784 910 733 111 
-Path distance from 0 to: 112    0 687 432 65 100 259 348 112 
-Path distance from 0 to: 113    0 687 432 81 379 453 543 418 296 806 352 113 
-Path distance from 0 to: 114    0 687 432 872 98 114 
-Path distance from 0 to: 115    0 687 432 872 60 70 115 
-Path distance from 0 to: 116    0 687 432 81 379 453 543 655 116 
-Path distance from 0 to: 117    0 687 613 674 931 117 
-Path distance from 0 to: 118    0 687 432 331 773 660 658 146 987 665 118 
-Path distance from 0 to: 119    0 687 613 858 119 
-Path distance from 0 to: 120    0 687 432 393 963 120 
-Path distance from 0 to: 121    0 950 632 30 867 121 
-Path distance from 0 to: 122    0 356 413 235 581 122 
-Path distance from 0 to: 123    0 687 432 331 773 660 772 359 123 
-Path distance from 0 to: 124    0 886 306 124 
-Path distance from 0 to: 125    0 687 432 81 379 453 543 655 364 878 452 125 
-Path distance from 0 to: 126    0 687 432 534 95 126 
-Path distance from 0 to: 127    0 687 432 65 204 991 127 
-Path distance from 0 to: 128    0 687 432 81 974 704 128 
-Path distance from 0 to: 129    0 687 613 227 129 
-Path distance from 0 to: 130    0 687 432 81 130 
-Path distance from 0 to: 131    0 950 336 961 131 
-Path distance from 0 to: 132    0 687 432 65 294 908 132 
-Path distance from 0 to: 133    0 950 336 961 131 721 133 
-Path distance from 0 to: 134    0 687 432 397 588 40 134 
-Path distance from 0 to: 135    0 149 266 482 324 412 135 
-Path distance from 0 to: 136    0 687 432 872 98 114 136 
-Path distance from 0 to: 137    0 687 432 65 294 479 137 
-Path distance from 0 to: 138    0 687 432 872 98 738 959 647 138 
-Path distance from 0 to: 139    0 687 613 87 203 139 
-Path distance from 0 to: 140    0 687 432 65 100 475 913 140 
-Path distance from 0 to: 141    0 687 432 81 379 453 543 655 141 
-Path distance from 0 to: 142    0 687 613 227 129 64 142 
-Path distance from 0 to: 143    0 687 432 275 33 518 143 
-Path distance from 0 to: 144    0 687 432 81 379 453 543 144 
-Path distance from 0 to: 145    0 687 432 872 98 848 170 145 
-Path distance from 0 to: 146    0 687 432 331 773 660 658 146 
-Path distance from 0 to: 147    0 950 632 30 31 383 147 
-Path distance from 0 to: 148    0 687 432 81 379 178 231 451 36 148 
-Path distance from 0 to: 149    0 149 
-Path distance from 0 to: 150    0 687 432 81 974 704 128 150 
-Path distance from 0 to: 151    0 687 613 962 790 986 151 
-Path distance from 0 to: 152    0 687 432 331 773 660 333 903 152 
-Path distance from 0 to: 153    0 950 877 153 
-Path distance from 0 to: 154    0 687 432 65 204 154 
-Path distance from 0 to: 155    0 687 943 25 882 936 155 
-Path distance from 0 to: 156    0 687 943 25 882 936 156 
-Path distance from 0 to: 157    0 886 306 157 
-Path distance from 0 to: 158    0 174 780 158 
-Path distance from 0 to: 159    0 687 432 331 773 660 658 146 601 159 
-Path distance from 0 to: 160    0 687 613 227 810 926 160 
-Path distance from 0 to: 161    0 174 887 439 161 
-Path distance from 0 to: 162    0 950 632 30 31 383 466 162 
-Path distance from 0 to: 163    0 687 613 962 240 163 
-Path distance from 0 to: 164    0 356 584 164 
-Path distance from 0 to: 165    0 687 432 872 516 198 165 
-Path distance from 0 to: 166    0 687 432 331 773 660 658 754 166 
-Path distance from 0 to: 167    0 687 432 81 379 178 373 550 524 864 185 167 
-Path distance from 0 to: 168    0 687 432 81 379 178 168 
-Path distance from 0 to: 169    0 356 413 235 581 998 484 169 
-Path distance from 0 to: 170    0 687 432 872 98 848 170 
-Path distance from 0 to: 171    0 174 887 171 
-Path distance from 0 to: 172    0 886 306 124 172 
-Path distance from 0 to: 173    0 687 432 65 294 602 173 
-Path distance from 0 to: 174    0 174 
-Path distance from 0 to: 175    0 687 432 65 360 175 
-Path distance from 0 to: 176    0 687 432 81 379 178 231 176 
-Path distance from 0 to: 177    0 687 432 81 379 453 543 418 177 
-Path distance from 0 to: 178    0 687 432 81 379 178 
-Path distance from 0 to: 179    0 356 179 
-Path distance from 0 to: 180    0 687 613 227 884 890 652 180 
-Path distance from 0 to: 181    0 149 266 686 181 
-Path distance from 0 to: 182    0 950 632 458 639 182 
-Path distance from 0 to: 183    0 917 802 183 
-Path distance from 0 to: 184    0 687 613 962 679 184 
-Path distance from 0 to: 185    0 687 432 81 379 178 373 550 524 864 185 
-Path distance from 0 to: 186    0 950 632 338 186 
-Path distance from 0 to: 187    0 950 632 30 187 
-Path distance from 0 to: 188    0 687 432 331 773 660 772 964 188 
-Path distance from 0 to: 189    0 687 432 872 98 738 189 
-Path distance from 0 to: 190    0 687 432 331 773 660 389 552 190 
-Path distance from 0 to: 191    0 687 432 81 379 191 
-Path distance from 0 to: 192    0 687 432 331 773 660 658 146 601 192 
-Path distance from 0 to: 193    0 950 632 30 596 193 
-Path distance from 0 to: 194    0 687 109 257 43 675 194 
-Path distance from 0 to: 195    0 687 432 81 379 453 426 498 195 
-Path distance from 0 to: 196    0 950 391 7 21 196 
-Path distance from 0 to: 197    0 687 432 81 379 453 454 465 197 
-Path distance from 0 to: 198    0 687 432 872 516 198 
-Path distance from 0 to: 199    0 687 432 397 785 199 
-Path distance from 0 to: 200    0 687 432 81 379 453 454 200 
-Path distance from 0 to: 201    0 174 780 201 
-Path distance from 0 to: 202    0 687 432 331 773 660 333 748 202 
-Path distance from 0 to: 203    0 687 613 87 203 
-Path distance from 0 to: 204    0 687 432 65 204 
-Path distance from 0 to: 205    0 687 432 331 773 456 205 
-Path distance from 0 to: 206    0 687 109 97 640 206 
-Path distance from 0 to: 207    0 687 613 461 207 
-Path distance from 0 to: 208    0 687 432 81 706 556 271 208 
-Path distance from 0 to: 209    0 149 23 209 
-Path distance from 0 to: 210    0 950 865 210 
-Path distance from 0 to: 211    0 687 432 331 245 211 
-Path distance from 0 to: 212    0 687 432 331 773 660 658 73 212 
-Path distance from 0 to: 213    0 687 432 331 773 660 213 
-Path distance from 0 to: 214    0 687 432 331 773 660 658 73 212 214 
-Path distance from 0 to: 215    0 687 432 331 773 660 658 411 433 483 215 
-Path distance from 0 to: 216    0 687 432 872 98 114 74 819 216 
-Path distance from 0 to: 217    0 687 432 65 204 154 708 217 
-Path distance from 0 to: 218    0 687 432 81 290 218 
-Path distance from 0 to: 219    0 687 432 872 60 316 219 
-Path distance from 0 to: 220    0 687 432 81 379 178 231 451 36 220 
-Path distance from 0 to: 221    0 174 374 735 221 
-Path distance from 0 to: 222    0 784 222 
-Path distance from 0 to: 223    0 687 432 397 600 9 223 
-Path distance from 0 to: 224    0 174 555 224 
-Path distance from 0 to: 225    0 687 432 397 588 388 225 
-Path distance from 0 to: 226    0 687 432 65 100 259 348 226 
-Path distance from 0 to: 227    0 687 613 227 
-Path distance from 0 to: 228    0 687 943 25 228 
-Path distance from 0 to: 229    0 687 432 65 919 229 
-Path distance from 0 to: 230    0 687 432 331 773 660 230 
-Path distance from 0 to: 231    0 687 432 81 379 178 231 
-Path distance from 0 to: 232    0 687 432 275 261 232 
-Path distance from 0 to: 233    0 687 432 397 600 233 
-Path distance from 0 to: 234    0 687 613 227 810 234 
-Path distance from 0 to: 235    0 356 413 235 
-Path distance from 0 to: 236    0 149 266 236 
-Path distance from 0 to: 237    0 687 432 393 237 
-Path distance from 0 to: 238    0 687 613 238 
-Path distance from 0 to: 239    0 784 910 733 358 239 
-Path distance from 0 to: 240    0 687 613 962 240 
-Path distance from 0 to: 241    0 687 432 65 360 241 
-Path distance from 0 to: 242    0 687 432 872 400 621 242 
-Path distance from 0 to: 243    0 687 432 534 764 856 243 
-Path distance from 0 to: 244    0 687 432 393 510 244 
-Path distance from 0 to: 245    0 687 432 331 245 
-Path distance from 0 to: 246    0 687 432 397 785 199 246 
-Path distance from 0 to: 247    0 687 613 962 790 506 563 247 
-Path distance from 0 to: 248    0 687 432 331 773 4 322 248 
-Path distance from 0 to: 249    0 687 432 393 237 833 249 
-Path distance from 0 to: 250    0 687 250 
-Path distance from 0 to: 251    0 950 391 7 251 
-Path distance from 0 to: 252    0 687 432 331 773 660 658 540 252 
-Path distance from 0 to: 253    0 356 413 235 581 998 484 253 
-Path distance from 0 to: 254    0 687 432 81 379 191 606 254 
-Path distance from 0 to: 255    0 687 432 872 417 830 396 255 
-Path distance from 0 to: 256    0 687 432 81 379 191 256 
-Path distance from 0 to: 257    0 687 109 257 
-Path distance from 0 to: 258    0 687 432 275 258 
-Path distance from 0 to: 259    0 687 432 65 100 259 
-Path distance from 0 to: 260    0 950 877 260 
-Path distance from 0 to: 261    0 687 432 275 261 
-Path distance from 0 to: 262    0 687 432 81 706 262 
-Path distance from 0 to: 263    0 687 432 331 773 660 658 146 987 665 263 
-Path distance from 0 to: 264    0 687 432 81 379 453 543 418 264 
-Path distance from 0 to: 265    0 687 432 331 245 597 265 
-Path distance from 0 to: 266    0 149 266 
-Path distance from 0 to: 267    0 687 432 872 98 114 136 267 
-Path distance from 0 to: 268    0 687 432 331 773 660 772 359 463 268 
-Path distance from 0 to: 269    0 950 632 30 187 752 269 
-Path distance from 0 to: 270    0 950 627 325 270 
-Path distance from 0 to: 271    0 687 432 81 706 556 271 
-Path distance from 0 to: 272    0 950 632 272 
-Path distance from 0 to: 273    0 174 780 5 273 
-Path distance from 0 to: 274    0 950 632 30 460 820 470 274 
-Path distance from 0 to: 275    0 687 432 275 
-Path distance from 0 to: 276    0 687 613 962 240 921 276 
-Path distance from 0 to: 277    0 174 780 277 
-Path distance from 0 to: 278    0 687 432 534 764 888 278 
-Path distance from 0 to: 279    0 687 432 331 773 660 389 552 279 
-Path distance from 0 to: 280    0 687 432 331 990 280 
-Path distance from 0 to: 281    0 687 432 872 516 198 281 
-Path distance from 0 to: 282    0 687 432 81 720 282 
-Path distance from 0 to: 283    0 687 432 872 417 335 283 
-Path distance from 0 to: 284    0 687 432 65 294 284 
-Path distance from 0 to: 285    0 784 72 666 285 
-Path distance from 0 to: 286    0 687 432 331 773 660 658 73 286 
-Path distance from 0 to: 287    0 356 584 287 
-Path distance from 0 to: 288    0 687 432 81 379 453 543 418 378 288 
-Path distance from 0 to: 289    0 687 613 238 289 
-Path distance from 0 to: 290    0 687 432 81 290 
-Path distance from 0 to: 291    0 687 432 397 600 291 
-Path distance from 0 to: 292    0 687 613 238 292 
-Path distance from 0 to: 293    0 687 432 81 379 453 543 751 102 293 
-Path distance from 0 to: 294    0 687 432 65 294 
-Path distance from 0 to: 295    0 356 413 235 581 295 
-Path distance from 0 to: 296    0 687 432 81 379 453 543 418 296 
-Path distance from 0 to: 297    0 687 432 81 379 453 543 418 378 297 
-Path distance from 0 to: 298    0 687 613 674 298 
-Path distance from 0 to: 299    0 687 613 299 
-Path distance from 0 to: 300    0 950 877 260 300 
-Path distance from 0 to: 301    0 687 613 962 240 301 
-Path distance from 0 to: 302    0 356 584 443 673 302 
-Path distance from 0 to: 303    0 687 432 872 417 830 303 
-Path distance from 0 to: 304    0 356 179 304 
-Path distance from 0 to: 305    0 687 432 872 60 767 305 
-Path distance from 0 to: 306    0 886 306 
-Path distance from 0 to: 307    0 687 943 25 947 307 
-Path distance from 0 to: 308    0 687 432 81 379 453 543 655 364 308 
-Path distance from 0 to: 309    0 687 432 872 98 114 74 309 
-Path distance from 0 to: 310    0 687 432 331 245 597 474 310 
-Path distance from 0 to: 311    0 174 887 311 
-Path distance from 0 to: 312    0 687 432 81 379 453 543 655 364 312 
-Path distance from 0 to: 313    0 687 613 962 790 986 898 313 
-Path distance from 0 to: 314    0 356 413 235 581 998 484 314 
-Path distance from 0 to: 315    0 315 
-Path distance from 0 to: 316    0 687 432 872 60 316 
-Path distance from 0 to: 317    0 356 584 437 728 450 317 
-Path distance from 0 to: 318    0 687 432 331 773 660 389 318 
-Path distance from 0 to: 319    0 687 613 227 319 
-Path distance from 0 to: 320    0 687 320 
-Path distance from 0 to: 321    0 687 613 962 790 986 321 
-Path distance from 0 to: 322    0 687 432 331 773 4 322 
-Path distance from 0 to: 323    0 687 613 962 996 323 
-Path distance from 0 to: 324    0 149 266 482 324 
-Path distance from 0 to: 325    0 950 627 325 
-Path distance from 0 to: 326    0 356 413 326 
-Path distance from 0 to: 327    0 687 943 25 228 901 327 
-Path distance from 0 to: 328    0 356 413 235 328 
-Path distance from 0 to: 329    0 356 584 287 788 329 
-Path distance from 0 to: 330    0 687 109 97 330 
-Path distance from 0 to: 331    0 687 432 331 
-Path distance from 0 to: 332    0 174 887 891 332 
-Path distance from 0 to: 333    0 687 432 331 773 660 333 
-Path distance from 0 to: 334    0 687 432 393 661 334 
-Path distance from 0 to: 335    0 687 432 872 417 335 
-Path distance from 0 to: 336    0 950 336 
-Path distance from 0 to: 337    0 687 613 461 207 337 
-Path distance from 0 to: 338    0 950 632 338 
-Path distance from 0 to: 339    0 687 613 674 339 
-Path distance from 0 to: 340    0 687 432 872 98 723 988 340 
-Path distance from 0 to: 341    0 950 877 341 
-Path distance from 0 to: 342    0 687 432 275 33 518 342 
-Path distance from 0 to: 343    0 950 632 30 31 343 
-Path distance from 0 to: 344    0 687 432 331 773 660 658 411 344 
-Path distance from 0 to: 345    0 687 943 612 19 345 
-Path distance from 0 to: 346    0 687 432 397 346 
-Path distance from 0 to: 347    0 687 613 962 108 347 
-Path distance from 0 to: 348    0 687 432 65 100 259 348 
-Path distance from 0 to: 349    0 687 613 674 958 349 
-Path distance from 0 to: 350    0 687 432 81 379 575 350 
-Path distance from 0 to: 351    0 687 613 227 351 
-Path distance from 0 to: 352    0 687 432 81 379 453 543 418 296 806 352 
-Path distance from 0 to: 353    0 174 887 891 353 
-Path distance from 0 to: 354    0 687 432 331 245 211 354 
-Path distance from 0 to: 355    0 687 432 81 379 178 521 497 489 355 
-Path distance from 0 to: 356    0 356 
-Path distance from 0 to: 357    0 950 632 458 357 
-Path distance from 0 to: 358    0 784 910 733 358 
-Path distance from 0 to: 359    0 687 432 331 773 660 772 359 
-Path distance from 0 to: 360    0 687 432 65 360 
-Path distance from 0 to: 361    0 687 432 872 417 335 557 361 
-Path distance from 0 to: 362    0 687 432 81 379 178 373 362 
-Path distance from 0 to: 363    0 356 179 823 363 
-Path distance from 0 to: 364    0 687 432 81 379 453 543 655 364 
-Path distance from 0 to: 365    0 687 109 97 640 365 
-Path distance from 0 to: 366    0 687 613 962 240 301 366 
-Path distance from 0 to: 367    0 174 617 855 631 367 
-Path distance from 0 to: 368    0 687 432 81 706 556 271 420 368 
-Path distance from 0 to: 369    0 687 432 81 379 453 543 418 296 806 91 369 
-Path distance from 0 to: 370    0 687 432 81 974 370 
-Path distance from 0 to: 371    0 687 432 275 261 494 398 371 
-Path distance from 0 to: 372    0 687 432 331 773 660 658 146 601 805 372 
-Path distance from 0 to: 373    0 687 432 81 379 178 373 
-Path distance from 0 to: 374    0 174 374 
-Path distance from 0 to: 375    0 687 432 872 400 621 242 586 375 
-Path distance from 0 to: 376    0 149 266 686 181 376 
-Path distance from 0 to: 377    0 174 927 377 
-Path distance from 0 to: 378    0 687 432 81 379 453 543 418 378 
-Path distance from 0 to: 379    0 687 432 81 379 
-Path distance from 0 to: 380    0 687 432 872 60 767 68 380 
-Path distance from 0 to: 381    0 687 432 872 98 381 
-Path distance from 0 to: 382    0 687 432 81 379 453 543 418 378 288 382 
-Path distance from 0 to: 383    0 950 632 30 31 383 
-Path distance from 0 to: 384    0 687 432 81 379 384 
-Path distance from 0 to: 385    0 687 432 81 379 453 543 418 378 297 385 
-Path distance from 0 to: 386    0 687 613 227 810 386 
-Path distance from 0 to: 387    0 784 72 387 
-Path distance from 0 to: 388    0 687 432 397 588 388 
-Path distance from 0 to: 389    0 687 432 331 773 660 389 
-Path distance from 0 to: 390    0 687 432 872 98 738 959 647 390 
-Path distance from 0 to: 391    0 950 391 
-Path distance from 0 to: 392    0 687 392 
-Path distance from 0 to: 393    0 687 432 393 
-Path distance from 0 to: 394    0 687 432 81 379 453 543 655 364 481 502 394 
-Path distance from 0 to: 395    0 687 943 612 395 
-Path distance from 0 to: 396    0 687 432 872 417 830 396 
-Path distance from 0 to: 397    0 687 432 397 
-Path distance from 0 to: 398    0 687 432 275 261 494 398 
-Path distance from 0 to: 399    0 687 432 81 379 575 399 
-Path distance from 0 to: 400    0 687 432 872 400 
-Path distance from 0 to: 401    0 687 432 65 360 401 
-Path distance from 0 to: 402    0 687 432 81 379 575 3 402 
-Path distance from 0 to: 403    0 149 266 482 324 403 
-Path distance from 0 to: 404    0 687 432 331 773 660 658 411 433 483 821 801 404 
-Path distance from 0 to: 405    0 687 432 331 773 660 658 411 433 507 726 1 832 405 
-Path distance from 0 to: 406    0 687 432 872 98 723 406 
-Path distance from 0 to: 407    0 687 432 81 379 178 373 550 407 
-Path distance from 0 to: 408    0 687 408 
-Path distance from 0 to: 409    0 687 432 331 773 660 658 146 601 159 409 
-Path distance from 0 to: 410    0 950 336 961 410 
-Path distance from 0 to: 411    0 687 432 331 773 660 658 411 
-Path distance from 0 to: 412    0 149 266 482 324 412 
-Path distance from 0 to: 413    0 356 413 
-Path distance from 0 to: 414    0 950 632 30 31 383 466 414 
-Path distance from 0 to: 415    0 149 266 482 324 412 415 
-Path distance from 0 to: 416    0 687 432 65 294 479 137 416 
-Path distance from 0 to: 417    0 687 432 872 417 
-Path distance from 0 to: 418    0 687 432 81 379 453 543 418 
-Path distance from 0 to: 419    0 687 320 419 
-Path distance from 0 to: 420    0 687 432 81 706 556 271 420 
-Path distance from 0 to: 421    0 687 432 331 773 660 772 421 
-Path distance from 0 to: 422    0 149 266 482 630 422 
-Path distance from 0 to: 423    0 687 423 
-Path distance from 0 to: 424    0 687 613 962 424 
-Path distance from 0 to: 425    0 687 432 65 360 175 425 
-Path distance from 0 to: 426    0 687 432 81 379 453 426 
-Path distance from 0 to: 427    0 356 584 437 427 
-Path distance from 0 to: 428    0 886 306 157 428 
-Path distance from 0 to: 429    0 687 109 611 429 
-Path distance from 0 to: 430    0 687 432 331 773 660 333 430 
-Path distance from 0 to: 431    0 174 617 431 
-Path distance from 0 to: 432    0 687 432 
-Path distance from 0 to: 433    0 687 432 331 773 660 658 411 433 
-Path distance from 0 to: 434    0 950 632 933 768 434 
-Path distance from 0 to: 435    0 687 432 65 294 479 137 435 
-Path distance from 0 to: 436    0 687 432 331 773 660 658 411 688 889 436 
-Path distance from 0 to: 437    0 356 584 437 
-Path distance from 0 to: 438    0 687 432 65 294 438 
-Path distance from 0 to: 439    0 174 887 439 
-Path distance from 0 to: 440    0 687 432 81 440 
-Path distance from 0 to: 441    0 687 432 397 785 90 441 
-Path distance from 0 to: 442    0 687 613 227 810 386 442 
-Path distance from 0 to: 443    0 356 584 443 
-Path distance from 0 to: 444    0 687 109 476 444 
-Path distance from 0 to: 445    0 687 432 81 379 453 543 655 364 445 
-Path distance from 0 to: 446    0 687 432 65 294 446 
-Path distance from 0 to: 447    0 687 432 872 98 723 447 
-Path distance from 0 to: 448    0 687 432 331 773 456 448 
-Path distance from 0 to: 449    0 687 432 872 516 198 449 
-Path distance from 0 to: 450    0 356 584 437 728 450 
-Path distance from 0 to: 451    0 687 432 81 379 178 231 451 
-Path distance from 0 to: 452    0 687 432 81 379 453 543 655 364 878 452 
-Path distance from 0 to: 453    0 687 432 81 379 453 
-Path distance from 0 to: 454    0 687 432 81 379 453 454 
-Path distance from 0 to: 455    0 950 627 455 
-Path distance from 0 to: 456    0 687 432 331 773 456 
-Path distance from 0 to: 457    0 687 613 962 679 184 457 
-Path distance from 0 to: 458    0 950 632 458 
-Path distance from 0 to: 459    0 687 432 81 974 459 
-Path distance from 0 to: 460    0 950 632 30 460 
-Path distance from 0 to: 461    0 687 613 461 
-Path distance from 0 to: 462    0 687 432 331 773 660 658 411 433 483 462 
-Path distance from 0 to: 463    0 687 432 331 773 660 772 359 463 
-Path distance from 0 to: 464    0 784 464 
-Path distance from 0 to: 465    0 687 432 81 379 453 454 465 
-Path distance from 0 to: 466    0 950 632 30 31 383 466 
-Path distance from 0 to: 467    0 687 432 275 261 494 467 
-Path distance from 0 to: 468    0 687 432 331 35 952 468 
-Path distance from 0 to: 469    0 687 943 791 469 
-Path distance from 0 to: 470    0 950 632 30 460 820 470 
-Path distance from 0 to: 471    0 356 584 443 471 
-Path distance from 0 to: 472    0 174 374 472 
-Path distance from 0 to: 473    0 687 432 331 773 456 448 729 473 
-Path distance from 0 to: 474    0 687 432 331 245 597 474 
-Path distance from 0 to: 475    0 687 432 65 100 475 
-Path distance from 0 to: 476    0 687 109 476 
-Path distance from 0 to: 477    0 950 877 341 477 
-Path distance from 0 to: 478    0 950 632 338 186 846 478 
-Path distance from 0 to: 479    0 687 432 65 294 479 
-Path distance from 0 to: 480    0 950 391 7 21 84 755 480 
-Path distance from 0 to: 481    0 687 432 81 379 453 543 655 364 481 
-Path distance from 0 to: 482    0 149 266 482 
-Path distance from 0 to: 483    0 687 432 331 773 660 658 411 433 483 
-Path distance from 0 to: 484    0 356 413 235 581 998 484 
-Path distance from 0 to: 485    0 687 432 81 379 453 543 655 364 485 
-Path distance from 0 to: 486    0 687 432 872 98 114 136 520 486 
-Path distance from 0 to: 487    0 356 413 235 581 998 484 487 
-Path distance from 0 to: 488    0 886 306 999 488 
-Path distance from 0 to: 489    0 687 432 81 379 178 521 497 489 
-Path distance from 0 to: 490    0 356 413 490 
-Path distance from 0 to: 491    0 687 432 81 379 453 543 144 491 
-Path distance from 0 to: 492    0 687 943 612 19 345 492 
-Path distance from 0 to: 493    0 687 613 858 493 
-Path distance from 0 to: 494    0 687 432 275 261 494 
-Path distance from 0 to: 495    0 687 432 81 379 453 543 834 495 
-Path distance from 0 to: 496    0 950 877 153 496 
-Path distance from 0 to: 497    0 687 432 81 379 178 521 497 
-Path distance from 0 to: 498    0 687 432 81 379 453 426 498 
-Path distance from 0 to: 499    0 687 432 331 773 660 658 73 499 
-Path distance from 0 to: 500    0 687 432 275 33 518 500 
-Path distance from 0 to: 501    0 687 432 872 98 848 501 
-Path distance from 0 to: 502    0 687 432 81 379 453 543 655 364 481 502 
-Path distance from 0 to: 503    0 687 432 872 98 738 959 647 503 
-Path distance from 0 to: 504    0 687 432 81 379 178 231 451 36 504 
-Path distance from 0 to: 505    0 687 432 81 379 178 373 550 524 505 
-Path distance from 0 to: 506    0 687 613 962 790 506 
-Path distance from 0 to: 507    0 687 432 331 773 660 658 411 433 507 
-Path distance from 0 to: 508    0 687 432 331 773 660 389 508 
-Path distance from 0 to: 509    0 687 613 962 679 509 
-Path distance from 0 to: 510    0 687 432 393 510 
-Path distance from 0 to: 511    0 950 877 341 511 
-Path distance from 0 to: 512    0 174 927 770 582 659 562 512 
-Path distance from 0 to: 513    0 950 632 338 186 513 
-Path distance from 0 to: 514    0 687 432 331 773 660 772 359 514 
-Path distance from 0 to: 515    0 687 432 331 773 660 658 411 433 483 672 866 515 
-Path distance from 0 to: 516    0 687 432 872 516 
-Path distance from 0 to: 517    0 950 632 30 31 624 517 
-Path distance from 0 to: 518    0 687 432 275 33 518 
-Path distance from 0 to: 519    0 687 432 275 261 494 398 371 900 519 
-Path distance from 0 to: 520    0 687 432 872 98 114 136 520 
-Path distance from 0 to: 521    0 687 432 81 379 178 521 
-Path distance from 0 to: 522    0 687 613 674 339 576 522 
-Path distance from 0 to: 523    0 687 432 81 706 531 650 523 
-Path distance from 0 to: 524    0 687 432 81 379 178 373 550 524 
-Path distance from 0 to: 525    0 174 617 855 631 367 525 
-Path distance from 0 to: 526    0 687 432 393 237 833 526 
-Path distance from 0 to: 527    0 687 432 331 773 456 448 766 527 
-Path distance from 0 to: 528    0 356 413 326 528 
-Path distance from 0 to: 529    0 687 432 331 245 597 474 705 529 
-Path distance from 0 to: 530    0 687 432 81 290 734 530 
-Path distance from 0 to: 531    0 687 432 81 706 531 
-Path distance from 0 to: 532    0 687 432 872 417 830 396 532 
-Path distance from 0 to: 533    0 687 432 872 60 316 533 
-Path distance from 0 to: 534    0 687 432 534 
-Path distance from 0 to: 535    0 687 432 65 100 535 
-Path distance from 0 to: 536    0 950 632 30 31 383 536 
-Path distance from 0 to: 537    0 784 910 733 537 
-Path distance from 0 to: 538    0 687 613 962 240 921 538 
-Path distance from 0 to: 539    0 687 432 65 294 539 
-Path distance from 0 to: 540    0 687 432 331 773 660 658 540 
-Path distance from 0 to: 541    0 687 432 81 379 453 543 655 364 878 541 
-Path distance from 0 to: 542    0 687 432 81 379 453 543 809 542 
-Path distance from 0 to: 543    0 687 432 81 379 453 543 
-Path distance from 0 to: 544    0 687 432 81 720 544 
-Path distance from 0 to: 545    0 687 432 331 773 660 658 411 433 507 89 545 
-Path distance from 0 to: 546    0 687 613 962 790 986 898 313 546 
-Path distance from 0 to: 547    0 687 432 81 379 453 543 655 141 547 
-Path distance from 0 to: 548    0 687 432 872 417 20 548 
-Path distance from 0 to: 549    0 687 432 331 773 660 389 549 
-Path distance from 0 to: 550    0 687 432 81 379 178 373 550 
-Path distance from 0 to: 551    0 687 432 393 661 551 
-Path distance from 0 to: 552    0 687 432 331 773 660 389 552 
-Path distance from 0 to: 553    0 687 943 612 19 553 
-Path distance from 0 to: 554    0 687 109 476 444 28 554 
-Path distance from 0 to: 555    0 174 555 
-Path distance from 0 to: 556    0 687 432 81 706 556 
-Path distance from 0 to: 557    0 687 432 872 417 335 557 
-Path distance from 0 to: 558    0 687 432 872 417 335 283 558 
-Path distance from 0 to: 559    0 687 613 962 790 986 559 
-Path distance from 0 to: 560    0 687 432 397 346 560 
-Path distance from 0 to: 561    0 950 632 30 596 193 561 
-Path distance from 0 to: 562    0 174 927 770 582 659 562 
-Path distance from 0 to: 563    0 687 613 962 790 506 563 
-Path distance from 0 to: 564    0 687 432 331 773 660 389 564 
-Path distance from 0 to: 565    0 687 432 331 773 660 772 359 123 565 
-Path distance from 0 to: 566    0 687 613 674 958 566 
-Path distance from 0 to: 567    0 174 617 855 567 
-Path distance from 0 to: 568    0 687 432 393 237 712 568 
-Path distance from 0 to: 569    0 687 432 331 773 660 389 552 744 569 
-Path distance from 0 to: 570    0 687 613 674 958 737 570 
-Path distance from 0 to: 571    0 687 432 81 379 453 454 571 
-Path distance from 0 to: 572    0 687 432 65 294 572 
-Path distance from 0 to: 573    0 356 584 443 471 67 573 
-Path distance from 0 to: 574    0 687 432 331 773 660 772 359 574 
-Path distance from 0 to: 575    0 687 432 81 379 575 
-Path distance from 0 to: 576    0 687 613 674 339 576 
-Path distance from 0 to: 577    0 356 413 490 577 
-Path distance from 0 to: 578    0 687 432 65 204 991 578 
-Path distance from 0 to: 579    0 687 579 
-Path distance from 0 to: 580    0 174 887 439 580 
-Path distance from 0 to: 581    0 356 413 235 581 
-Path distance from 0 to: 582    0 174 927 770 582 
-Path distance from 0 to: 583    0 687 423 860 725 583 
-Path distance from 0 to: 584    0 356 584 
-Path distance from 0 to: 585    0 687 613 962 790 986 321 585 
-Path distance from 0 to: 586    0 687 432 872 400 621 242 586 
-Path distance from 0 to: 587    0 687 432 872 98 848 501 587 
-Path distance from 0 to: 588    0 687 432 397 588 
-Path distance from 0 to: 589    0 687 250 589 
-Path distance from 0 to: 590    0 687 432 81 379 178 231 862 590 
-Path distance from 0 to: 591    0 950 632 338 186 846 478 774 591 
-Path distance from 0 to: 592    0 687 109 476 592 
-Path distance from 0 to: 593    0 687 432 872 98 738 959 880 593 
-Path distance from 0 to: 594    0 174 887 771 594 
-Path distance from 0 to: 595    0 687 109 595 
-Path distance from 0 to: 596    0 950 632 30 596 
-Path distance from 0 to: 597    0 687 432 331 245 597 
-Path distance from 0 to: 598    0 784 464 598 
-Path distance from 0 to: 599    0 687 432 81 379 453 543 418 378 288 599 
-Path distance from 0 to: 600    0 687 432 397 600 
-Path distance from 0 to: 601    0 687 432 331 773 660 658 146 601 
-Path distance from 0 to: 602    0 687 432 65 294 602 
-Path distance from 0 to: 603    0 687 432 331 773 660 333 603 
-Path distance from 0 to: 604    0 950 632 30 867 121 604 
-Path distance from 0 to: 605    0 174 887 311 605 
-Path distance from 0 to: 606    0 687 432 81 379 191 606 
-Path distance from 0 to: 607    0 174 887 891 607 
-Path distance from 0 to: 608    0 687 432 397 588 608 
-Path distance from 0 to: 609    0 687 613 227 351 609 
-Path distance from 0 to: 610    0 687 432 331 773 660 658 146 987 610 
-Path distance from 0 to: 611    0 687 109 611 
-Path distance from 0 to: 612    0 687 943 612 
-Path distance from 0 to: 613    0 687 613 
-Path distance from 0 to: 614    0 950 877 341 614 
-Path distance from 0 to: 615    0 687 432 872 60 615 
-Path distance from 0 to: 616    0 687 613 962 240 921 538 828 616 
-Path distance from 0 to: 617    0 174 617 
-Path distance from 0 to: 618    0 811 904 618 
-Path distance from 0 to: 619    0 149 266 482 324 403 619 
-Path distance from 0 to: 620    0 687 432 81 379 575 3 620 
-Path distance from 0 to: 621    0 687 432 872 400 621 
-Path distance from 0 to: 622    0 687 109 257 43 622 
-Path distance from 0 to: 623    0 687 432 275 623 
-Path distance from 0 to: 624    0 950 632 30 31 624 
-Path distance from 0 to: 625    0 687 432 331 773 660 333 603 625 
-Path distance from 0 to: 626    0 784 910 626 
-Path distance from 0 to: 627    0 950 627 
-Path distance from 0 to: 628    0 149 266 686 181 628 
-Path distance from 0 to: 629    0 687 432 81 379 453 543 655 364 481 629 
-Path distance from 0 to: 630    0 149 266 482 630 
-Path distance from 0 to: 631    0 174 617 855 631 
-Path distance from 0 to: 632    0 950 632 
-Path distance from 0 to: 633    0 687 432 275 33 633 
-Path distance from 0 to: 634    0 784 910 733 807 634 
-Path distance from 0 to: 635    0 356 584 437 728 106 635 
-Path distance from 0 to: 636    0 687 432 872 400 621 242 586 636 
-Path distance from 0 to: 637    0 687 432 65 294 539 637 
-Path distance from 0 to: 638    0 784 910 638 
-Path distance from 0 to: 639    0 950 632 458 639 
-Path distance from 0 to: 640    0 687 109 97 640 
-Path distance from 0 to: 641    0 687 432 331 245 597 641 
-Path distance from 0 to: 642    0 687 432 872 98 738 642 
-Path distance from 0 to: 643    0 687 432 275 37 643 
-Path distance from 0 to: 644    0 687 613 962 790 986 898 313 644 
-Path distance from 0 to: 645    0 687 432 81 379 453 543 751 645 
-Path distance from 0 to: 646    0 950 632 30 31 646 
-Path distance from 0 to: 647    0 687 432 872 98 738 959 647 
-Path distance from 0 to: 648    0 687 432 534 648 
-Path distance from 0 to: 649    0 149 23 209 649 
-Path distance from 0 to: 650    0 687 432 81 706 531 650 
-Path distance from 0 to: 651    0 950 632 30 187 752 651 
-Path distance from 0 to: 652    0 687 613 227 884 890 652 
-Path distance from 0 to: 653    0 886 306 157 653 
-Path distance from 0 to: 654    0 687 432 81 974 704 881 88 654 
-Path distance from 0 to: 655    0 687 432 81 379 453 543 655 
-Path distance from 0 to: 656    0 950 632 30 31 383 15 656 
-Path distance from 0 to: 657    0 356 413 235 328 657 
-Path distance from 0 to: 658    0 687 432 331 773 660 658 
-Path distance from 0 to: 659    0 174 927 770 582 659 
-Path distance from 0 to: 660    0 687 432 331 773 660 
-Path distance from 0 to: 661    0 687 432 393 661 
-Path distance from 0 to: 662    0 687 432 331 245 597 662 
-Path distance from 0 to: 663    0 356 584 437 925 663 
-Path distance from 0 to: 664    0 687 432 872 98 738 959 647 664 
-Path distance from 0 to: 665    0 687 432 331 773 660 658 146 987 665 
-Path distance from 0 to: 666    0 784 72 666 
-Path distance from 0 to: 667    0 687 613 962 790 986 898 313 644 667 
-Path distance from 0 to: 668    0 950 632 30 31 383 668 
-Path distance from 0 to: 669    0 687 432 81 974 669 
-Path distance from 0 to: 670    0 315 670 
-Path distance from 0 to: 671    0 784 910 733 671 
-Path distance from 0 to: 672    0 687 432 331 773 660 658 411 433 483 672 
-Path distance from 0 to: 673    0 356 584 443 673 
-Path distance from 0 to: 674    0 687 613 674 
-Path distance from 0 to: 675    0 687 109 257 43 675 
-Path distance from 0 to: 676    0 356 676 
-Path distance from 0 to: 677    0 950 391 677 
-Path distance from 0 to: 678    0 687 432 534 764 888 278 678 
-Path distance from 0 to: 679    0 687 613 962 679 
-Path distance from 0 to: 680    0 687 432 81 974 704 680 
-Path distance from 0 to: 681    0 687 432 81 706 681 
-Path distance from 0 to: 682    0 687 432 81 290 218 682 
-Path distance from 0 to: 683    0 687 109 257 43 675 101 838 683 
-Path distance from 0 to: 684    0 687 432 65 294 284 17 684 
-Path distance from 0 to: 685    0 174 617 855 685 
-Path distance from 0 to: 686    0 149 266 686 
-Path distance from 0 to: 687    0 687 
-Path distance from 0 to: 688    0 687 432 331 773 660 658 411 688 
-Path distance from 0 to: 689    0 687 432 331 773 660 772 359 463 689 
-Path distance from 0 to: 690    0 687 432 331 773 660 772 964 690 
-Path distance from 0 to: 691    0 687 432 331 773 660 658 411 433 507 691 
-Path distance from 0 to: 692    0 356 584 437 728 106 692 
-Path distance from 0 to: 693    0 687 423 860 725 693 
-Path distance from 0 to: 694    0 687 432 81 379 178 231 176 694 
-Path distance from 0 to: 695    0 687 432 81 379 453 543 834 695 
-Path distance from 0 to: 696    0 687 432 81 379 178 231 862 590 696 
-Path distance from 0 to: 697    0 950 632 30 697 
-Path distance from 0 to: 698    0 687 432 872 516 198 449 698 
-Path distance from 0 to: 699    0 687 432 699 
-Path distance from 0 to: 700    0 687 432 872 98 114 136 700 
-Path distance from 0 to: 701    0 687 109 701 
-Path distance from 0 to: 702    0 687 432 331 773 660 658 411 433 507 726 1 702 
-Path distance from 0 to: 703    0 687 432 331 773 660 658 411 688 889 703 
-Path distance from 0 to: 704    0 687 432 81 974 704 
-Path distance from 0 to: 705    0 687 432 331 245 597 474 705 
-Path distance from 0 to: 706    0 687 432 81 706 
-Path distance from 0 to: 707    0 687 432 81 379 178 373 550 524 707 
-Path distance from 0 to: 708    0 687 432 65 204 154 708 
-Path distance from 0 to: 709    0 687 432 81 379 453 543 655 116 709 
-Path distance from 0 to: 710    0 950 336 961 710 
-Path distance from 0 to: 711    0 687 432 331 773 660 389 552 711 
-Path distance from 0 to: 712    0 687 432 393 237 712 
-Path distance from 0 to: 713    0 687 432 81 379 575 3 713 
-Path distance from 0 to: 714    0 174 617 855 631 714 
-Path distance from 0 to: 715    0 356 584 437 728 450 317 715 
-Path distance from 0 to: 716    0 687 613 238 716 
-Path distance from 0 to: 717    0 950 632 30 460 798 717 
-Path distance from 0 to: 718    0 687 432 872 516 718 
-Path distance from 0 to: 719    0 687 432 65 100 475 719 
-Path distance from 0 to: 720    0 687 432 81 720 
-Path distance from 0 to: 721    0 950 336 961 131 721 
-Path distance from 0 to: 722    0 950 632 338 186 846 478 722 
-Path distance from 0 to: 723    0 687 432 872 98 723 
-Path distance from 0 to: 724    0 687 432 81 379 178 231 451 782 724 
-Path distance from 0 to: 725    0 687 423 860 725 
-Path distance from 0 to: 726    0 687 432 331 773 660 658 411 433 507 726 
-Path distance from 0 to: 727    0 687 432 65 100 475 727 
-Path distance from 0 to: 728    0 356 584 437 728 
-Path distance from 0 to: 729    0 687 432 331 773 456 448 729 
-Path distance from 0 to: 730    0 687 432 81 379 453 543 418 730 
-Path distance from 0 to: 731    0 687 943 25 228 901 731 
-Path distance from 0 to: 732    0 356 732 
-Path distance from 0 to: 733    0 784 910 733 
-Path distance from 0 to: 734    0 687 432 81 290 734 
-Path distance from 0 to: 735    0 174 374 735 
-Path distance from 0 to: 736    0 687 432 81 379 763 736 
-Path distance from 0 to: 737    0 687 613 674 958 737 
-Path distance from 0 to: 738    0 687 432 872 98 738 
-Path distance from 0 to: 739    0 687 432 331 773 660 658 146 939 739 
-Path distance from 0 to: 740    0 950 632 30 596 193 561 879 740 
-Path distance from 0 to: 741    0 687 432 331 773 660 213 741 
-Path distance from 0 to: 742    0 687 432 534 95 126 742 
-Path distance from 0 to: 743    0 950 632 30 187 743 
-Path distance from 0 to: 744    0 687 432 331 773 660 389 552 744 
-Path distance from 0 to: 745    0 687 392 745 
-Path distance from 0 to: 746    0 687 250 746 
-Path distance from 0 to: 747    0 356 584 437 728 106 747 
-Path distance from 0 to: 748    0 687 432 331 773 660 333 748 
-Path distance from 0 to: 749    0 687 432 331 773 660 658 146 987 610 749 
-Path distance from 0 to: 750    0 356 584 443 471 757 750 
-Path distance from 0 to: 751    0 687 432 81 379 453 543 751 
-Path distance from 0 to: 752    0 950 632 30 187 752 
-Path distance from 0 to: 753    0 784 753 
-Path distance from 0 to: 754    0 687 432 331 773 660 658 754 
-Path distance from 0 to: 755    0 950 391 7 21 84 755 
-Path distance from 0 to: 756    0 687 432 81 974 459 756 
-Path distance from 0 to: 757    0 356 584 443 471 757 
-Path distance from 0 to: 758    0 687 432 81 379 453 543 655 364 481 629 758 
-Path distance from 0 to: 759    0 687 432 872 60 316 219 759 
-Path distance from 0 to: 760    0 356 584 164 760 
-Path distance from 0 to: 761    0 687 613 227 810 786 761 
-Path distance from 0 to: 762    0 687 432 65 360 762 
-Path distance from 0 to: 763    0 687 432 81 379 763 
-Path distance from 0 to: 764    0 687 432 534 764 
-Path distance from 0 to: 765    0 149 23 765 
-Path distance from 0 to: 766    0 687 432 331 773 456 448 766 
-Path distance from 0 to: 767    0 687 432 872 60 767 
-Path distance from 0 to: 768    0 950 632 933 768 
-Path distance from 0 to: 769    0 687 432 81 379 453 426 769 
-Path distance from 0 to: 770    0 174 927 770 
-Path distance from 0 to: 771    0 174 887 771 
-Path distance from 0 to: 772    0 687 432 331 773 660 772 
-Path distance from 0 to: 773    0 687 432 331 773 
-Path distance from 0 to: 774    0 950 632 338 186 846 478 774 
-Path distance from 0 to: 775    0 950 632 338 186 775 
-Path distance from 0 to: 776    0 784 72 776 
-Path distance from 0 to: 777    0 687 432 331 773 660 333 603 777 
-Path distance from 0 to: 778    0 356 584 778 
-Path distance from 0 to: 779    0 687 432 331 773 660 658 411 779 
-Path distance from 0 to: 780    0 174 780 
-Path distance from 0 to: 781    0 687 432 872 98 848 170 781 
-Path distance from 0 to: 782    0 687 432 81 379 178 231 451 782 
-Path distance from 0 to: 783    0 687 943 783 
-Path distance from 0 to: 784    0 784 
-Path distance from 0 to: 785    0 687 432 397 785 
-Path distance from 0 to: 786    0 687 613 227 810 786 
-Path distance from 0 to: 787    0 687 432 331 787 
-Path distance from 0 to: 788    0 356 584 287 788 
-Path distance from 0 to: 789    0 174 617 855 567 938 789 
-Path distance from 0 to: 790    0 687 613 962 790 
-Path distance from 0 to: 791    0 687 943 791 
-Path distance from 0 to: 792    0 356 179 792 
-Path distance from 0 to: 793    0 687 432 65 294 41 793 
-Path distance from 0 to: 794    0 687 943 25 228 901 794 
-Path distance from 0 to: 795    0 950 632 30 795 
-Path distance from 0 to: 796    0 687 432 393 963 796 
-Path distance from 0 to: 797    0 687 943 25 228 797 
-Path distance from 0 to: 798    0 950 632 30 460 798 
-Path distance from 0 to: 799    0 687 432 81 379 453 543 418 799 
-Path distance from 0 to: 800    0 356 584 437 728 800 
-Path distance from 0 to: 801    0 687 432 331 773 660 658 411 433 483 821 801 
-Path distance from 0 to: 802    0 917 802 
-Path distance from 0 to: 803    0 687 432 81 379 453 543 418 378 288 803 
-Path distance from 0 to: 804    0 687 432 81 804 
-Path distance from 0 to: 805    0 687 432 331 773 660 658 146 601 805 
-Path distance from 0 to: 806    0 687 432 81 379 453 543 418 296 806 
-Path distance from 0 to: 807    0 784 910 733 807 
-Path distance from 0 to: 808    0 687 432 81 379 453 543 418 296 806 808 
-Path distance from 0 to: 809    0 687 432 81 379 453 543 809 
-Path distance from 0 to: 810    0 687 613 227 810 
-Path distance from 0 to: 811    0 811 
-Path distance from 0 to: 812    0 687 613 962 790 506 812 
-Path distance from 0 to: 813    0 784 753 813 
-Path distance from 0 to: 814    0 687 432 275 261 494 398 814 
-Path distance from 0 to: 815    0 950 632 30 187 824 815 
-Path distance from 0 to: 816    0 687 432 393 963 993 816 
-Path distance from 0 to: 817    0 687 613 461 2 817 
-Path distance from 0 to: 818    0 687 613 962 790 986 818 
-Path distance from 0 to: 819    0 687 432 872 98 114 74 819 
-Path distance from 0 to: 820    0 950 632 30 460 820 
-Path distance from 0 to: 821    0 687 432 331 773 660 658 411 433 483 821 
-Path distance from 0 to: 822    0 149 23 822 
-Path distance from 0 to: 823    0 356 179 823 
-Path distance from 0 to: 824    0 950 632 30 187 824 
-Path distance from 0 to: 825    0 687 613 461 825 
-Path distance from 0 to: 826    0 356 584 287 788 329 826 
-Path distance from 0 to: 827    0 687 432 331 773 660 389 827 
-Path distance from 0 to: 828    0 687 613 962 240 921 538 828 
-Path distance from 0 to: 829    0 687 432 393 661 551 829 
-Path distance from 0 to: 830    0 687 432 872 417 830 
-Path distance from 0 to: 831    0 687 432 397 785 90 831 
-Path distance from 0 to: 832    0 687 432 331 773 660 658 411 433 507 726 1 832 
-Path distance from 0 to: 833    0 687 432 393 237 833 
-Path distance from 0 to: 834    0 687 432 81 379 453 543 834 
-Path distance from 0 to: 835    0 687 432 872 98 848 957 835 
-Path distance from 0 to: 836    0 784 910 883 836 
-Path distance from 0 to: 837    0 687 432 872 400 621 837 
-Path distance from 0 to: 838    0 687 109 257 43 675 101 838 
-Path distance from 0 to: 839    0 174 887 439 161 839 
-Path distance from 0 to: 840    0 149 266 840 
-Path distance from 0 to: 841    0 356 413 235 581 998 484 487 841 
-Path distance from 0 to: 842    0 149 266 482 842 
-Path distance from 0 to: 843    0 356 413 235 981 843 
-Path distance from 0 to: 844    0 950 627 325 844 
-Path distance from 0 to: 845    0 950 632 30 795 845 
-Path distance from 0 to: 846    0 950 632 338 186 846 
-Path distance from 0 to: 847    0 356 584 778 847 
-Path distance from 0 to: 848    0 687 432 872 98 848 
-Path distance from 0 to: 849    0 687 432 331 773 660 658 411 433 849 
-Path distance from 0 to: 850    0 687 432 81 379 178 231 451 850 
-Path distance from 0 to: 851    0 687 432 81 720 851 
-Path distance from 0 to: 852    0 687 432 331 773 660 772 359 93 107 852 
-Path distance from 0 to: 853    0 687 432 81 379 178 373 550 853 
-Path distance from 0 to: 854    0 687 432 81 379 453 543 751 645 854 
-Path distance from 0 to: 855    0 174 617 855 
-Path distance from 0 to: 856    0 687 432 534 764 856 
-Path distance from 0 to: 857    0 784 753 857 
-Path distance from 0 to: 858    0 687 613 858 
-Path distance from 0 to: 859    0 687 432 397 588 388 859 
-Path distance from 0 to: 860    0 687 423 860 
-Path distance from 0 to: 861    0 687 432 81 706 531 861 
-Path distance from 0 to: 862    0 687 432 81 379 178 231 862 
-Path distance from 0 to: 863    0 356 413 235 581 32 863 
-Path distance from 0 to: 864    0 687 432 81 379 178 373 550 524 864 
-Path distance from 0 to: 865    0 950 865 
-Path distance from 0 to: 866    0 687 432 331 773 660 658 411 433 483 672 866 
-Path distance from 0 to: 867    0 950 632 30 867 
-Path distance from 0 to: 868    0 687 432 872 98 738 959 868 
-Path distance from 0 to: 869    0 687 432 872 98 723 406 869 
-Path distance from 0 to: 870    0 687 432 331 773 660 389 508 870 
-Path distance from 0 to: 871    0 687 613 238 871 
-Path distance from 0 to: 872    0 687 432 872 
-Path distance from 0 to: 873    0 687 432 331 773 660 658 411 433 483 672 866 873 
-Path distance from 0 to: 874    0 950 632 30 596 193 561 874 
-Path distance from 0 to: 875    0 784 72 776 948 875 
-Path distance from 0 to: 876    0 784 753 876 
-Path distance from 0 to: 877    0 950 877 
-Path distance from 0 to: 878    0 687 432 81 379 453 543 655 364 878 
-Path distance from 0 to: 879    0 950 632 30 596 193 561 879 
-Path distance from 0 to: 880    0 687 432 872 98 738 959 880 
-Path distance from 0 to: 881    0 687 432 81 974 704 881 
-Path distance from 0 to: 882    0 687 943 25 882 
-Path distance from 0 to: 883    0 784 910 883 
-Path distance from 0 to: 884    0 687 613 227 884 
-Path distance from 0 to: 885    0 687 432 81 804 52 885 
-Path distance from 0 to: 886    0 886 
-Path distance from 0 to: 887    0 174 887 
-Path distance from 0 to: 888    0 687 432 534 764 888 
-Path distance from 0 to: 889    0 687 432 331 773 660 658 411 688 889 
-Path distance from 0 to: 890    0 687 613 227 884 890 
-Path distance from 0 to: 891    0 174 887 891 
-Path distance from 0 to: 892    0 356 413 235 581 998 484 892 
-Path distance from 0 to: 893    0 687 432 331 245 597 893 
-Path distance from 0 to: 894    0 687 432 331 245 597 894 
-Path distance from 0 to: 895    0 687 432 534 895 
-Path distance from 0 to: 896    0 950 632 30 31 624 896 
-Path distance from 0 to: 897    0 356 413 235 581 105 897 
-Path distance from 0 to: 898    0 687 613 962 790 986 898 
-Path distance from 0 to: 899    0 687 432 331 773 660 658 411 433 483 215 899 
-Path distance from 0 to: 900    0 687 432 275 261 494 398 371 900 
-Path distance from 0 to: 901    0 687 943 25 228 901 
-Path distance from 0 to: 902    0 687 613 674 958 349 58 902 
-Path distance from 0 to: 903    0 687 432 331 773 660 333 903 
-Path distance from 0 to: 904    0 811 904 
-Path distance from 0 to: 905    0 687 392 905 
-Path distance from 0 to: 906    0 174 927 770 582 906 
-Path distance from 0 to: 907    0 687 109 257 43 675 101 838 907 
-Path distance from 0 to: 908    0 687 432 65 294 908 
-Path distance from 0 to: 909    0 784 72 776 909 
-Path distance from 0 to: 910    0 784 910 
-Path distance from 0 to: 911    0 687 943 612 19 345 492 911 
-Path distance from 0 to: 912    0 687 432 65 294 479 137 912 
-Path distance from 0 to: 913    0 687 432 65 100 475 913 
-Path distance from 0 to: 914    0 174 927 770 914 
-Path distance from 0 to: 915    0 687 320 13 915 
-Path distance from 0 to: 916    0 174 617 855 631 916 
-Path distance from 0 to: 917    0 917 
-Path distance from 0 to: 918    0 687 432 65 294 479 137 416 918 
-Path distance from 0 to: 919    0 687 432 65 919 
-Path distance from 0 to: 920    0 687 432 699 920 
-Path distance from 0 to: 921    0 687 613 962 240 921 
-Path distance from 0 to: 922    0 950 391 7 922 
-Path distance from 0 to: 923    0 687 432 275 33 518 143 923 
-Path distance from 0 to: 924    0 687 432 534 764 924 
-Path distance from 0 to: 925    0 356 584 437 925 
-Path distance from 0 to: 926    0 687 613 227 810 926 
-Path distance from 0 to: 927    0 174 927 
-Path distance from 0 to: 928    0 687 432 331 773 660 658 146 939 739 928 
-Path distance from 0 to: 929    0 687 432 65 294 438 929 
-Path distance from 0 to: 930    0 950 632 30 867 121 930 
-Path distance from 0 to: 931    0 687 613 674 931 
-Path distance from 0 to: 932    0 149 266 482 324 403 968 932 
-Path distance from 0 to: 933    0 950 632 933 
-Path distance from 0 to: 934    0 950 632 272 934 
-Path distance from 0 to: 935    0 687 432 81 379 178 231 451 36 935 
-Path distance from 0 to: 936    0 687 943 25 882 936 
-Path distance from 0 to: 937    0 687 432 81 379 575 3 402 937 
-Path distance from 0 to: 938    0 174 617 855 567 938 
-Path distance from 0 to: 939    0 687 432 331 773 660 658 146 939 
-Path distance from 0 to: 940    0 950 632 933 768 940 
-Path distance from 0 to: 941    0 356 413 941 
-Path distance from 0 to: 942    0 687 432 331 942 
-Path distance from 0 to: 943    0 687 943 
-Path distance from 0 to: 944    0 886 306 157 944 
-Path distance from 0 to: 945    0 687 613 962 790 986 559 945 
-Path distance from 0 to: 946    0 149 266 482 324 403 946 
-Path distance from 0 to: 947    0 687 943 25 947 
-Path distance from 0 to: 948    0 784 72 776 948 
-Path distance from 0 to: 949    0 687 432 81 379 178 373 550 524 864 949 
-Path distance from 0 to: 950    0 950 
-Path distance from 0 to: 951    0 951 
-Path distance from 0 to: 952    0 687 432 331 35 952 
-Path distance from 0 to: 953    0 687 432 81 379 178 373 550 524 505 953 
-Path distance from 0 to: 954    0 687 432 331 245 597 61 954 
-Path distance from 0 to: 955    0 174 374 955 
-Path distance from 0 to: 956    0 687 432 81 379 453 543 418 378 956 
-Path distance from 0 to: 957    0 687 432 872 98 848 957 
-Path distance from 0 to: 958    0 687 613 674 958 
-Path distance from 0 to: 959    0 687 432 872 98 738 959 
-Path distance from 0 to: 960    0 687 613 674 958 349 960 
-Path distance from 0 to: 961    0 950 336 961 
-Path distance from 0 to: 962    0 687 613 962 
-Path distance from 0 to: 963    0 687 432 393 963 
-Path distance from 0 to: 964    0 687 432 331 773 660 772 964 
-Path distance from 0 to: 965    0 687 109 97 640 206 965 
-Path distance from 0 to: 966    0 687 432 331 773 660 333 603 966 
-Path distance from 0 to: 967    0 687 432 534 95 126 742 967 
-Path distance from 0 to: 968    0 149 266 482 324 403 968 
-Path distance from 0 to: 969    0 811 969 
-Path distance from 0 to: 970    0 687 432 81 379 453 543 655 364 970 
-Path distance from 0 to: 971    0 687 432 331 773 660 333 603 966 971 
-Path distance from 0 to: 972    0 687 432 81 379 178 373 362 972 
-Path distance from 0 to: 973    0 950 877 153 496 973 
-Path distance from 0 to: 974    0 687 432 81 974 
-Path distance from 0 to: 975    0 356 732 975 
-Path distance from 0 to: 976    0 687 613 962 790 506 563 247 976 
-Path distance from 0 to: 977    0 687 432 81 977 
-Path distance from 0 to: 978    0 950 627 978 
-Path distance from 0 to: 979    0 687 432 65 360 979 
-Path distance from 0 to: 980    0 687 432 65 100 980 
-Path distance from 0 to: 981    0 356 413 235 981 
-Path distance from 0 to: 982    0 687 432 65 100 980 982 
-Path distance from 0 to: 983    0 687 432 331 773 660 658 411 433 483 672 866 983 
-Path distance from 0 to: 984    0 687 432 331 773 4 322 984 
-Path distance from 0 to: 985    0 687 432 331 773 4 985 
-Path distance from 0 to: 986    0 687 613 962 790 986 
-Path distance from 0 to: 987    0 687 432 331 773 660 658 146 987 
-Path distance from 0 to: 988    0 687 432 872 98 723 988 
-Path distance from 0 to: 989    0 687 432 331 773 660 658 146 987 610 989 
-Path distance from 0 to: 990    0 687 432 331 990 
-Path distance from 0 to: 991    0 687 432 65 204 991 
-Path distance from 0 to: 992    0 149 266 482 324 403 968 992 
-Path distance from 0 to: 993    0 687 432 393 963 993 
-Path distance from 0 to: 994    0 687 432 331 773 660 658 994 
-Path distance from 0 to: 995    0 687 432 331 773 456 205 995 
-Path distance from 0 to: 996    0 687 613 962 996 
-Path distance from 0 to: 997    0 687 432 872 98 114 136 520 997 
-Path distance from 0 to: 998    0 356 413 235 581 998 
-Path distance from 0 to: 999    0 886 306 999 
+Path distance from 0 to: 1    0 905 914 837 464 834 1 
+Path distance from 0 to: 2    0 413 171 921 515 2 
+Path distance from 0 to: 3    0 413 171 812 569 201 366 3 
+Path distance from 0 to: 4    0 413 695 4 
+Path distance from 0 to: 5    0 820 310 632 428 5 
+Path distance from 0 to: 6    0 820 693 262 6 
+Path distance from 0 to: 7    0 820 421 746 7 
+Path distance from 0 to: 8    0 820 421 207 8 
+Path distance from 0 to: 9    0 820 693 558 9 
+Path distance from 0 to: 10    0 905 439 10 
+Path distance from 0 to: 11    0 820 566 616 220 11 
+Path distance from 0 to: 12    0 905 914 180 211 561 12 
+Path distance from 0 to: 13    0 258 727 703 13 
+Path distance from 0 to: 14    0 413 171 921 14 
+Path distance from 0 to: 15    0 820 790 345 466 84 15 
+Path distance from 0 to: 16    0 753 434 679 896 16 
+Path distance from 0 to: 17    0 820 500 863 678 17 
+Path distance from 0 to: 18    0 905 914 837 791 551 874 18 
+Path distance from 0 to: 19    0 820 421 854 504 19 
+Path distance from 0 to: 20    0 820 310 632 428 23 644 20 
+Path distance from 0 to: 21    0 258 727 120 21 
+Path distance from 0 to: 22    0 820 310 632 428 5 90 22 
+Path distance from 0 to: 23    0 820 310 632 428 23 
+Path distance from 0 to: 24    0 820 790 24 
+Path distance from 0 to: 25    0 753 382 115 25 
+Path distance from 0 to: 26    0 820 566 26 
+Path distance from 0 to: 27    0 905 439 27 
+Path distance from 0 to: 28    0 413 695 797 198 28 
+Path distance from 0 to: 29    0 413 171 812 243 993 47 29 
+Path distance from 0 to: 30    0 905 439 54 650 473 30 
+Path distance from 0 to: 31    0 905 914 837 526 31 
+Path distance from 0 to: 32    0 820 310 264 61 975 686 32 
+Path distance from 0 to: 33    0 820 566 203 33 
+Path distance from 0 to: 34    0 820 566 203 458 34 
+Path distance from 0 to: 35    0 905 914 837 464 418 372 784 35 
+Path distance from 0 to: 36    0 905 128 472 288 620 36 
+Path distance from 0 to: 37    0 119 197 93 37 
+Path distance from 0 to: 38    0 820 566 616 361 38 
+Path distance from 0 to: 39    0 820 693 39 
+Path distance from 0 to: 40    0 905 914 837 464 834 40 
+Path distance from 0 to: 41    0 820 421 41 
+Path distance from 0 to: 42    0 905 439 54 42 
+Path distance from 0 to: 43    0 905 914 180 318 936 43 
+Path distance from 0 to: 44    0 413 171 921 471 444 210 44 
+Path distance from 0 to: 45    0 820 421 661 45 
+Path distance from 0 to: 46    0 753 382 480 324 46 
+Path distance from 0 to: 47    0 413 171 812 243 993 47 
+Path distance from 0 to: 48    0 820 566 616 361 107 48 
+Path distance from 0 to: 49    0 820 500 49 
+Path distance from 0 to: 50    0 820 790 844 101 50 
+Path distance from 0 to: 51    0 905 914 837 51 
+Path distance from 0 to: 52    0 820 310 264 61 975 686 52 
+Path distance from 0 to: 53    0 413 171 921 515 53 
+Path distance from 0 to: 54    0 905 439 54 
+Path distance from 0 to: 55    0 820 421 661 486 352 55 
+Path distance from 0 to: 56    0 905 914 180 318 936 56 
+Path distance from 0 to: 57    0 820 693 262 294 57 
+Path distance from 0 to: 58    0 413 695 797 892 58 
+Path distance from 0 to: 59    0 820 310 632 428 59 
+Path distance from 0 to: 60    0 258 727 120 697 195 393 60 
+Path distance from 0 to: 61    0 820 310 264 61 
+Path distance from 0 to: 62    0 905 453 978 62 
+Path distance from 0 to: 63    0 820 310 632 503 63 
+Path distance from 0 to: 64    0 905 914 64 
+Path distance from 0 to: 65    0 413 171 812 569 65 
+Path distance from 0 to: 66    0 413 572 256 951 66 
+Path distance from 0 to: 67    0 820 421 854 131 67 
+Path distance from 0 to: 68    0 258 727 120 68 
+Path distance from 0 to: 69    0 413 171 921 14 69 
+Path distance from 0 to: 70    0 820 790 345 70 
+Path distance from 0 to: 71    0 905 128 472 971 965 71 
+Path distance from 0 to: 72    0 258 893 321 735 72 
+Path distance from 0 to: 73    0 413 572 256 73 
+Path distance from 0 to: 74    0 905 914 659 138 74 
+Path distance from 0 to: 75    0 905 359 400 75 
+Path distance from 0 to: 76    0 905 914 659 138 934 76 
+Path distance from 0 to: 77    0 820 421 854 131 617 77 
+Path distance from 0 to: 78    0 820 790 891 215 881 78 
+Path distance from 0 to: 79    0 119 79 
+Path distance from 0 to: 80    0 905 439 54 911 80 
+Path distance from 0 to: 81    0 905 914 837 464 477 618 244 507 81 
+Path distance from 0 to: 82    0 258 727 120 68 82 
+Path distance from 0 to: 83    0 905 914 837 464 477 618 83 
+Path distance from 0 to: 84    0 820 790 345 466 84 
+Path distance from 0 to: 85    0 258 727 120 697 195 730 85 
+Path distance from 0 to: 86    0 258 727 703 711 86 
+Path distance from 0 to: 87    0 258 727 120 697 577 888 87 
+Path distance from 0 to: 88    0 905 128 472 88 
+Path distance from 0 to: 89    0 258 727 120 68 468 272 514 89 
+Path distance from 0 to: 90    0 820 310 632 428 5 90 
+Path distance from 0 to: 91    0 820 566 616 361 38 91 
+Path distance from 0 to: 92    0 905 914 837 791 551 92 
+Path distance from 0 to: 93    0 119 197 93 
+Path distance from 0 to: 94    0 820 421 207 8 94 
+Path distance from 0 to: 95    0 820 421 95 
+Path distance from 0 to: 96    0 820 421 661 596 96 
+Path distance from 0 to: 97    0 258 893 595 392 97 
+Path distance from 0 to: 98    0 258 727 120 387 479 98 
+Path distance from 0 to: 99    0 905 128 857 898 99 
+Path distance from 0 to: 100    0 820 385 957 100 
+Path distance from 0 to: 101    0 820 790 844 101 
+Path distance from 0 to: 102    0 905 914 659 138 102 
+Path distance from 0 to: 103    0 258 893 321 103 
+Path distance from 0 to: 104    0 258 727 120 104 
+Path distance from 0 to: 105    0 258 893 321 735 105 
+Path distance from 0 to: 106    0 820 385 140 106 
+Path distance from 0 to: 107    0 820 566 616 361 107 
+Path distance from 0 to: 108    0 119 108 
+Path distance from 0 to: 109    0 258 893 321 735 329 109 
+Path distance from 0 to: 110    0 413 171 812 296 110 
+Path distance from 0 to: 111    0 413 695 797 430 156 111 
+Path distance from 0 to: 112    0 905 128 713 112 
+Path distance from 0 to: 113    0 820 790 345 466 113 
+Path distance from 0 to: 114    0 413 171 812 339 789 114 
+Path distance from 0 to: 115    0 753 382 115 
+Path distance from 0 to: 116    0 905 439 54 911 80 116 
+Path distance from 0 to: 117    0 905 453 978 761 117 
+Path distance from 0 to: 118    0 905 914 837 464 418 372 784 974 118 
+Path distance from 0 to: 119    0 119 
+Path distance from 0 to: 120    0 258 727 120 
+Path distance from 0 to: 121    0 820 310 632 428 5 90 121 
+Path distance from 0 to: 122    0 820 385 122 
+Path distance from 0 to: 123    0 820 310 264 61 975 123 
+Path distance from 0 to: 124    0 820 693 262 294 57 805 822 124 
+Path distance from 0 to: 125    0 258 727 120 697 195 125 
+Path distance from 0 to: 126    0 820 693 262 294 57 805 822 126 
+Path distance from 0 to: 127    0 820 421 854 919 491 127 
+Path distance from 0 to: 128    0 905 128 
+Path distance from 0 to: 129    0 258 727 703 129 
+Path distance from 0 to: 130    0 905 914 837 464 418 315 130 
+Path distance from 0 to: 131    0 820 421 854 131 
+Path distance from 0 to: 132    0 905 453 978 132 
+Path distance from 0 to: 133    0 820 790 345 466 954 133 
+Path distance from 0 to: 134    0 820 566 616 361 134 
+Path distance from 0 to: 135    0 820 385 135 
+Path distance from 0 to: 136    0 905 914 659 138 934 136 
+Path distance from 0 to: 137    0 258 727 120 697 577 517 216 462 137 
+Path distance from 0 to: 138    0 905 914 659 138 
+Path distance from 0 to: 139    0 905 914 659 138 74 139 
+Path distance from 0 to: 140    0 820 385 140 
+Path distance from 0 to: 141    0 905 914 837 464 477 141 
+Path distance from 0 to: 142    0 413 171 921 471 444 210 231 206 142 
+Path distance from 0 to: 143    0 258 893 321 735 329 109 143 
+Path distance from 0 to: 144    0 905 914 837 464 477 618 244 508 144 
+Path distance from 0 to: 145    0 258 727 120 697 577 517 216 462 137 145 
+Path distance from 0 to: 146    0 258 727 120 697 195 377 348 436 146 
+Path distance from 0 to: 147    0 753 434 679 896 147 
+Path distance from 0 to: 148    0 258 727 120 697 195 377 348 436 672 148 
+Path distance from 0 to: 149    0 753 434 149 
+Path distance from 0 to: 150    0 820 693 262 294 57 677 284 150 
+Path distance from 0 to: 151    0 413 572 256 151 
+Path distance from 0 to: 152    0 905 914 837 464 834 849 251 152 
+Path distance from 0 to: 153    0 820 421 207 714 153 
+Path distance from 0 to: 154    0 820 790 891 279 154 
+Path distance from 0 to: 155    0 258 727 120 21 155 
+Path distance from 0 to: 156    0 413 695 797 430 156 
+Path distance from 0 to: 157    0 820 790 157 
+Path distance from 0 to: 158    0 820 500 664 336 506 158 
+Path distance from 0 to: 159    0 820 566 616 361 107 159 
+Path distance from 0 to: 160    0 905 128 472 971 920 160 
+Path distance from 0 to: 161    0 905 914 659 138 934 161 
+Path distance from 0 to: 162    0 258 727 120 697 577 888 209 162 
+Path distance from 0 to: 163    0 820 421 854 504 333 163 
+Path distance from 0 to: 164    0 820 310 632 428 23 644 999 164 
+Path distance from 0 to: 165    0 905 914 837 464 477 618 165 
+Path distance from 0 to: 166    0 905 128 613 394 166 
+Path distance from 0 to: 167    0 905 914 837 464 834 167 
+Path distance from 0 to: 168    0 258 727 120 697 577 517 216 658 168 
+Path distance from 0 to: 169    0 820 421 854 919 169 
+Path distance from 0 to: 170    0 258 727 120 697 195 730 609 170 
+Path distance from 0 to: 171    0 413 171 
+Path distance from 0 to: 172    0 119 108 172 
+Path distance from 0 to: 173    0 820 421 746 7 786 581 835 173 
+Path distance from 0 to: 174    0 413 695 797 430 261 174 
+Path distance from 0 to: 175    0 258 727 703 711 175 
+Path distance from 0 to: 176    0 905 914 837 464 418 372 189 176 
+Path distance from 0 to: 177    0 413 572 256 692 765 177 
+Path distance from 0 to: 178    0 820 736 178 
+Path distance from 0 to: 179    0 820 500 863 179 
+Path distance from 0 to: 180    0 905 914 180 
+Path distance from 0 to: 181    0 820 421 854 504 663 181 
+Path distance from 0 to: 182    0 413 171 921 14 69 931 182 
+Path distance from 0 to: 183    0 258 727 703 13 183 
+Path distance from 0 to: 184    0 905 914 837 794 389 285 184 
+Path distance from 0 to: 185    0 413 695 797 198 28 528 185 
+Path distance from 0 to: 186    0 820 421 854 131 617 483 186 
+Path distance from 0 to: 187    0 258 727 120 697 577 517 216 302 187 
+Path distance from 0 to: 188    0 820 500 664 336 871 188 
+Path distance from 0 to: 189    0 905 914 837 464 418 372 189 
+Path distance from 0 to: 190    0 820 310 632 428 190 
+Path distance from 0 to: 191    0 905 914 739 247 826 816 541 191 
+Path distance from 0 to: 192    0 413 171 921 471 614 969 192 
+Path distance from 0 to: 193    0 905 128 713 112 193 
+Path distance from 0 to: 194    0 413 171 921 471 444 210 231 206 194 
+Path distance from 0 to: 195    0 258 727 120 697 195 
+Path distance from 0 to: 196    0 413 171 812 569 481 196 
+Path distance from 0 to: 197    0 119 197 
+Path distance from 0 to: 198    0 413 695 797 198 
+Path distance from 0 to: 199    0 820 790 891 215 470 904 357 199 
+Path distance from 0 to: 200    0 413 171 749 200 
+Path distance from 0 to: 201    0 413 171 812 569 201 
+Path distance from 0 to: 202    0 258 727 120 697 195 730 202 
+Path distance from 0 to: 203    0 820 566 203 
+Path distance from 0 to: 204    0 258 727 120 697 577 517 216 302 641 204 
+Path distance from 0 to: 205    0 905 914 659 138 934 161 205 
+Path distance from 0 to: 206    0 413 171 921 471 444 210 231 206 
+Path distance from 0 to: 207    0 820 421 207 
+Path distance from 0 to: 208    0 413 171 812 569 65 208 
+Path distance from 0 to: 209    0 258 727 120 697 577 888 209 
+Path distance from 0 to: 210    0 413 171 921 471 444 210 
+Path distance from 0 to: 211    0 905 914 180 211 
+Path distance from 0 to: 212    0 905 128 472 88 212 
+Path distance from 0 to: 213    0 905 914 659 138 213 
+Path distance from 0 to: 214    0 905 914 837 747 214 
+Path distance from 0 to: 215    0 820 790 891 215 
+Path distance from 0 to: 216    0 258 727 120 697 577 517 216 
+Path distance from 0 to: 217    0 905 359 400 75 751 217 
+Path distance from 0 to: 218    0 413 171 812 243 218 
+Path distance from 0 to: 219    0 820 566 616 361 639 219 
+Path distance from 0 to: 220    0 820 566 616 220 
+Path distance from 0 to: 221    0 905 439 54 650 221 
+Path distance from 0 to: 222    0 258 222 
+Path distance from 0 to: 223    0 413 171 921 14 69 655 223 
+Path distance from 0 to: 224    0 820 310 264 224 
+Path distance from 0 to: 225    0 905 914 659 138 934 136 225 
+Path distance from 0 to: 226    0 820 310 632 428 59 226 
+Path distance from 0 to: 227    0 820 385 547 227 
+Path distance from 0 to: 228    0 820 421 854 504 333 163 228 
+Path distance from 0 to: 229    0 905 128 229 
+Path distance from 0 to: 230    0 413 572 698 230 
+Path distance from 0 to: 231    0 413 171 921 471 444 210 231 
+Path distance from 0 to: 232    0 820 421 854 919 491 232 
+Path distance from 0 to: 233    0 905 914 837 464 834 849 233 
+Path distance from 0 to: 234    0 820 790 891 303 234 
+Path distance from 0 to: 235    0 413 572 256 151 941 235 
+Path distance from 0 to: 236    0 753 434 810 236 
+Path distance from 0 to: 237    0 820 421 854 237 
+Path distance from 0 to: 238    0 905 914 659 138 74 238 
+Path distance from 0 to: 239    0 820 736 178 239 
+Path distance from 0 to: 240    0 905 914 739 240 
+Path distance from 0 to: 241    0 820 310 264 61 975 123 241 
+Path distance from 0 to: 242    0 905 914 837 464 834 40 242 
+Path distance from 0 to: 243    0 413 171 812 243 
+Path distance from 0 to: 244    0 905 914 837 464 477 618 244 
+Path distance from 0 to: 245    0 413 695 797 430 261 245 
+Path distance from 0 to: 246    0 905 914 659 138 934 161 996 246 
+Path distance from 0 to: 247    0 905 914 739 247 
+Path distance from 0 to: 248    0 905 439 54 911 248 
+Path distance from 0 to: 249    0 820 693 262 249 
+Path distance from 0 to: 250    0 905 524 250 
+Path distance from 0 to: 251    0 905 914 837 464 834 849 251 
+Path distance from 0 to: 252    0 820 790 345 466 809 252 
+Path distance from 0 to: 253    0 820 310 632 428 23 644 253 
+Path distance from 0 to: 254    0 820 421 854 504 333 163 254 
+Path distance from 0 to: 255    0 258 727 120 697 195 255 
+Path distance from 0 to: 256    0 413 572 256 
+Path distance from 0 to: 257    0 905 914 180 257 
+Path distance from 0 to: 258    0 258 
+Path distance from 0 to: 259    0 905 259 
+Path distance from 0 to: 260    0 119 197 944 628 553 260 
+Path distance from 0 to: 261    0 413 695 797 430 261 
+Path distance from 0 to: 262    0 820 693 262 
+Path distance from 0 to: 263    0 820 790 891 215 881 78 263 
+Path distance from 0 to: 264    0 820 310 264 
+Path distance from 0 to: 265    0 413 171 921 515 2 840 265 
+Path distance from 0 to: 266    0 413 695 266 
+Path distance from 0 to: 267    0 905 439 27 576 267 
+Path distance from 0 to: 268    0 820 693 262 294 57 677 284 268 
+Path distance from 0 to: 269    0 413 695 797 430 261 269 
+Path distance from 0 to: 270    0 905 914 659 270 
+Path distance from 0 to: 271    0 820 693 39 773 271 
+Path distance from 0 to: 272    0 258 727 120 68 468 272 
+Path distance from 0 to: 273    0 820 500 273 
+Path distance from 0 to: 274    0 905 439 54 42 994 274 
+Path distance from 0 to: 275    0 413 171 921 471 275 
+Path distance from 0 to: 276    0 905 439 276 
+Path distance from 0 to: 277    0 413 695 797 892 277 
+Path distance from 0 to: 278    0 905 914 180 318 936 411 278 
+Path distance from 0 to: 279    0 820 790 891 279 
+Path distance from 0 to: 280    0 820 693 262 665 280 
+Path distance from 0 to: 281    0 820 385 140 281 
+Path distance from 0 to: 282    0 820 421 854 237 282 
+Path distance from 0 to: 283    0 283 
+Path distance from 0 to: 284    0 820 693 262 294 57 677 284 
+Path distance from 0 to: 285    0 905 914 837 794 389 285 
+Path distance from 0 to: 286    0 905 914 180 257 286 
+Path distance from 0 to: 287    0 820 310 632 428 190 287 
+Path distance from 0 to: 288    0 905 128 472 288 
+Path distance from 0 to: 289    0 119 197 944 422 289 
+Path distance from 0 to: 290    0 905 290 
+Path distance from 0 to: 291    0 820 421 746 638 349 291 
+Path distance from 0 to: 292    0 905 914 180 318 533 292 
+Path distance from 0 to: 293    0 905 914 180 257 293 
+Path distance from 0 to: 294    0 820 693 262 294 
+Path distance from 0 to: 295    0 413 171 921 471 444 210 44 295 
+Path distance from 0 to: 296    0 413 171 812 296 
+Path distance from 0 to: 297    0 905 453 978 132 297 
+Path distance from 0 to: 298    0 413 171 921 515 2 840 298 
+Path distance from 0 to: 299    0 413 695 797 430 299 
+Path distance from 0 to: 300    0 820 421 746 7 778 860 300 
+Path distance from 0 to: 301    0 820 500 863 374 301 
+Path distance from 0 to: 302    0 258 727 120 697 577 517 216 302 
+Path distance from 0 to: 303    0 820 790 891 303 
+Path distance from 0 to: 304    0 905 914 659 304 
+Path distance from 0 to: 305    0 905 914 64 305 
+Path distance from 0 to: 306    0 820 566 616 361 107 306 
+Path distance from 0 to: 307    0 820 310 264 61 975 512 307 
+Path distance from 0 to: 308    0 258 727 120 697 577 517 308 
+Path distance from 0 to: 309    0 258 727 120 697 577 376 309 
+Path distance from 0 to: 310    0 820 310 
+Path distance from 0 to: 311    0 905 914 180 318 936 411 278 311 
+Path distance from 0 to: 312    0 258 727 120 697 195 730 560 488 312 
+Path distance from 0 to: 313    0 413 171 812 296 110 313 
+Path distance from 0 to: 314    0 820 421 854 131 617 77 314 
+Path distance from 0 to: 315    0 905 914 837 464 418 315 
+Path distance from 0 to: 316    0 905 128 857 898 388 316 
+Path distance from 0 to: 317    0 820 310 632 503 317 
+Path distance from 0 to: 318    0 905 914 180 318 
+Path distance from 0 to: 319    0 820 790 844 666 319 
+Path distance from 0 to: 320    0 905 914 837 464 834 320 
+Path distance from 0 to: 321    0 258 893 321 
+Path distance from 0 to: 322    0 820 736 178 322 
+Path distance from 0 to: 323    0 905 914 659 270 323 
+Path distance from 0 to: 324    0 753 382 480 324 
+Path distance from 0 to: 325    0 905 914 180 318 936 411 325 
+Path distance from 0 to: 326    0 820 421 854 131 326 
+Path distance from 0 to: 327    0 258 727 120 697 577 517 775 327 
+Path distance from 0 to: 328    0 820 421 854 131 617 77 328 
+Path distance from 0 to: 329    0 258 893 321 735 329 
+Path distance from 0 to: 330    0 258 893 595 330 
+Path distance from 0 to: 331    0 413 171 812 569 481 196 331 
+Path distance from 0 to: 332    0 905 128 857 332 
+Path distance from 0 to: 333    0 820 421 854 504 333 
+Path distance from 0 to: 334    0 413 171 921 515 2 840 425 334 
+Path distance from 0 to: 335    0 820 566 616 440 335 
+Path distance from 0 to: 336    0 820 500 664 336 
+Path distance from 0 to: 337    0 413 171 812 569 481 337 
+Path distance from 0 to: 338    0 820 790 891 777 338 
+Path distance from 0 to: 339    0 413 171 812 339 
+Path distance from 0 to: 340    0 820 790 345 466 84 15 340 
+Path distance from 0 to: 341    0 820 736 341 
+Path distance from 0 to: 342    0 820 421 854 504 333 163 228 342 
+Path distance from 0 to: 343    0 905 128 713 112 343 
+Path distance from 0 to: 344    0 820 421 746 7 778 860 344 
+Path distance from 0 to: 345    0 820 790 345 
+Path distance from 0 to: 346    0 258 727 120 973 346 
+Path distance from 0 to: 347    0 905 914 659 138 74 139 347 
+Path distance from 0 to: 348    0 258 727 120 697 195 377 348 
+Path distance from 0 to: 349    0 820 421 746 638 349 
+Path distance from 0 to: 350    0 820 350 
+Path distance from 0 to: 351    0 258 727 120 68 468 272 351 
+Path distance from 0 to: 352    0 820 421 661 486 352 
+Path distance from 0 to: 353    0 820 566 616 361 134 909 353 
+Path distance from 0 to: 354    0 820 385 547 375 354 
+Path distance from 0 to: 355    0 753 382 480 324 369 355 
+Path distance from 0 to: 356    0 413 171 812 525 356 
+Path distance from 0 to: 357    0 820 790 891 215 470 904 357 
+Path distance from 0 to: 358    0 820 310 632 428 59 358 
+Path distance from 0 to: 359    0 905 359 
+Path distance from 0 to: 360    0 413 171 921 471 614 360 
+Path distance from 0 to: 361    0 820 566 616 361 
+Path distance from 0 to: 362    0 820 385 547 227 362 
+Path distance from 0 to: 363    0 820 693 262 363 
+Path distance from 0 to: 364    0 820 790 345 466 954 364 
+Path distance from 0 to: 365    0 258 727 120 697 195 730 560 488 365 
+Path distance from 0 to: 366    0 413 171 812 569 201 366 
+Path distance from 0 to: 367    0 413 171 921 14 69 655 367 
+Path distance from 0 to: 368    0 820 421 435 368 
+Path distance from 0 to: 369    0 753 382 480 324 369 
+Path distance from 0 to: 370    0 258 727 703 711 370 
+Path distance from 0 to: 371    0 753 382 480 543 485 371 
+Path distance from 0 to: 372    0 905 914 837 464 418 372 
+Path distance from 0 to: 373    0 905 914 837 526 373 
+Path distance from 0 to: 374    0 820 500 863 374 
+Path distance from 0 to: 375    0 820 385 547 375 
+Path distance from 0 to: 376    0 258 727 120 697 577 376 
+Path distance from 0 to: 377    0 258 727 120 697 195 377 
+Path distance from 0 to: 378    0 905 439 54 845 696 378 
+Path distance from 0 to: 379    0 258 727 120 697 195 377 348 436 379 
+Path distance from 0 to: 380    0 905 914 837 464 418 315 130 380 
+Path distance from 0 to: 381    0 753 982 381 
+Path distance from 0 to: 382    0 753 382 
+Path distance from 0 to: 383    0 905 914 837 791 551 874 383 
+Path distance from 0 to: 384    0 413 695 797 430 261 384 
+Path distance from 0 to: 385    0 820 385 
+Path distance from 0 to: 386    0 820 790 345 466 113 386 
+Path distance from 0 to: 387    0 258 727 120 387 
+Path distance from 0 to: 388    0 905 128 857 898 388 
+Path distance from 0 to: 389    0 905 914 837 794 389 
+Path distance from 0 to: 390    0 258 727 120 390 
+Path distance from 0 to: 391    0 905 914 180 318 936 391 
+Path distance from 0 to: 392    0 258 893 595 392 
+Path distance from 0 to: 393    0 258 727 120 697 195 393 
+Path distance from 0 to: 394    0 905 128 613 394 
+Path distance from 0 to: 395    0 413 171 921 471 275 395 
+Path distance from 0 to: 396    0 820 385 140 106 396 
+Path distance from 0 to: 397    0 258 727 120 68 82 397 
+Path distance from 0 to: 398    0 905 914 180 257 637 398 
+Path distance from 0 to: 399    0 258 727 120 387 399 
+Path distance from 0 to: 400    0 905 359 400 
+Path distance from 0 to: 401    0 258 727 120 697 577 888 401 
+Path distance from 0 to: 402    0 905 914 659 138 102 402 
+Path distance from 0 to: 403    0 820 310 632 428 59 884 403 
+Path distance from 0 to: 404    0 753 382 404 
+Path distance from 0 to: 405    0 820 790 345 466 84 405 
+Path distance from 0 to: 406    0 820 350 684 406 
+Path distance from 0 to: 407    0 413 171 812 569 481 407 
+Path distance from 0 to: 408    0 820 790 891 215 881 408 
+Path distance from 0 to: 409    0 905 453 978 915 409 
+Path distance from 0 to: 410    0 258 727 120 387 479 410 
+Path distance from 0 to: 411    0 905 914 180 318 936 411 
+Path distance from 0 to: 412    0 413 572 256 692 765 412 
+Path distance from 0 to: 413    0 413 
+Path distance from 0 to: 414    0 413 171 921 471 614 969 414 
+Path distance from 0 to: 415    0 905 914 180 211 415 
+Path distance from 0 to: 416    0 820 421 207 416 
+Path distance from 0 to: 417    0 820 310 264 224 417 
+Path distance from 0 to: 418    0 905 914 837 464 418 
+Path distance from 0 to: 419    0 820 421 854 237 282 419 
+Path distance from 0 to: 420    0 905 914 180 318 936 43 906 420 
+Path distance from 0 to: 421    0 820 421 
+Path distance from 0 to: 422    0 119 197 944 422 
+Path distance from 0 to: 423    0 820 421 207 416 930 811 423 
+Path distance from 0 to: 424    0 258 727 120 697 577 517 928 424 
+Path distance from 0 to: 425    0 413 171 921 515 2 840 425 
+Path distance from 0 to: 426    0 820 693 907 426 
+Path distance from 0 to: 427    0 413 171 921 14 69 655 367 427 
+Path distance from 0 to: 428    0 820 310 632 428 
+Path distance from 0 to: 429    0 820 421 854 131 617 77 861 429 
+Path distance from 0 to: 430    0 413 695 797 430 
+Path distance from 0 to: 431    0 258 727 120 697 577 517 216 431 
+Path distance from 0 to: 432    0 905 914 837 526 373 432 
+Path distance from 0 to: 433    0 820 790 844 101 433 
+Path distance from 0 to: 434    0 753 434 
+Path distance from 0 to: 435    0 820 421 435 
+Path distance from 0 to: 436    0 258 727 120 697 195 377 348 436 
+Path distance from 0 to: 437    0 905 439 27 991 437 
+Path distance from 0 to: 438    0 258 727 120 697 195 730 560 724 438 
+Path distance from 0 to: 439    0 905 439 
+Path distance from 0 to: 440    0 820 566 616 440 
+Path distance from 0 to: 441    0 905 914 837 464 418 441 
+Path distance from 0 to: 442    0 258 727 120 697 577 517 216 658 168 442 
+Path distance from 0 to: 443    0 820 421 746 443 
+Path distance from 0 to: 444    0 413 171 921 471 444 
+Path distance from 0 to: 445    0 413 171 812 339 789 445 
+Path distance from 0 to: 446    0 820 790 844 446 
+Path distance from 0 to: 447    0 820 790 844 101 433 484 681 447 
+Path distance from 0 to: 448    0 905 128 646 448 
+Path distance from 0 to: 449    0 905 914 837 464 834 167 449 
+Path distance from 0 to: 450    0 905 914 180 450 
+Path distance from 0 to: 451    0 413 695 797 451 
+Path distance from 0 to: 452    0 258 727 120 697 577 888 209 162 452 
+Path distance from 0 to: 453    0 905 453 
+Path distance from 0 to: 454    0 905 914 180 211 561 12 766 582 454 
+Path distance from 0 to: 455    0 820 421 746 754 455 
+Path distance from 0 to: 456    0 413 171 921 515 2 456 
+Path distance from 0 to: 457    0 820 566 203 33 457 
+Path distance from 0 to: 458    0 820 566 203 458 
+Path distance from 0 to: 459    0 905 128 472 288 459 
+Path distance from 0 to: 460    0 413 695 797 198 28 460 
+Path distance from 0 to: 461    0 905 128 557 940 461 
+Path distance from 0 to: 462    0 258 727 120 697 577 517 216 462 
+Path distance from 0 to: 463    0 905 463 
+Path distance from 0 to: 464    0 905 914 837 464 
+Path distance from 0 to: 465    0 258 727 120 697 577 517 465 
+Path distance from 0 to: 466    0 820 790 345 466 
+Path distance from 0 to: 467    0 413 695 797 430 685 467 
+Path distance from 0 to: 468    0 258 727 120 68 468 
+Path distance from 0 to: 469    0 413 171 921 471 444 494 469 
+Path distance from 0 to: 470    0 820 790 891 215 470 
+Path distance from 0 to: 471    0 413 171 921 471 
+Path distance from 0 to: 472    0 905 128 472 
+Path distance from 0 to: 473    0 905 439 54 650 473 
+Path distance from 0 to: 474    0 905 439 27 474 
+Path distance from 0 to: 475    0 820 310 632 428 5 475 
+Path distance from 0 to: 476    0 905 914 837 476 
+Path distance from 0 to: 477    0 905 914 837 464 477 
+Path distance from 0 to: 478    0 820 500 273 478 
+Path distance from 0 to: 479    0 258 727 120 387 479 
+Path distance from 0 to: 480    0 753 382 480 
+Path distance from 0 to: 481    0 413 171 812 569 481 
+Path distance from 0 to: 482    0 905 128 472 971 482 
+Path distance from 0 to: 483    0 820 421 854 131 617 483 
+Path distance from 0 to: 484    0 820 790 844 101 433 484 
+Path distance from 0 to: 485    0 753 382 480 543 485 
+Path distance from 0 to: 486    0 820 421 661 486 
+Path distance from 0 to: 487    0 413 171 921 471 444 210 231 206 142 487 
+Path distance from 0 to: 488    0 258 727 120 697 195 730 560 488 
+Path distance from 0 to: 489    0 905 914 180 318 875 489 
+Path distance from 0 to: 490    0 820 790 891 215 470 904 490 
+Path distance from 0 to: 491    0 820 421 854 919 491 
+Path distance from 0 to: 492    0 820 421 435 368 492 
+Path distance from 0 to: 493    0 820 693 907 426 493 
+Path distance from 0 to: 494    0 413 171 921 471 444 494 
+Path distance from 0 to: 495    0 413 171 812 569 495 
+Path distance from 0 to: 496    0 496 
+Path distance from 0 to: 497    0 820 310 632 428 23 644 20 497 
+Path distance from 0 to: 498    0 413 695 797 451 498 
+Path distance from 0 to: 499    0 820 500 863 499 
+Path distance from 0 to: 500    0 820 500 
+Path distance from 0 to: 501    0 905 914 837 464 418 501 
+Path distance from 0 to: 502    0 258 727 120 697 195 730 502 
+Path distance from 0 to: 503    0 820 310 632 503 
+Path distance from 0 to: 504    0 820 421 854 504 
+Path distance from 0 to: 505    0 258 727 120 505 
+Path distance from 0 to: 506    0 820 500 664 336 506 
+Path distance from 0 to: 507    0 905 914 837 464 477 618 244 507 
+Path distance from 0 to: 508    0 905 914 837 464 477 618 244 508 
+Path distance from 0 to: 509    0 753 990 509 
+Path distance from 0 to: 510    0 820 421 435 368 510 
+Path distance from 0 to: 511    0 258 727 120 697 195 511 
+Path distance from 0 to: 512    0 820 310 264 61 975 512 
+Path distance from 0 to: 513    0 258 727 120 68 468 513 
+Path distance from 0 to: 514    0 258 727 120 68 468 272 514 
+Path distance from 0 to: 515    0 413 171 921 515 
+Path distance from 0 to: 516    0 905 524 516 
+Path distance from 0 to: 517    0 258 727 120 697 577 517 
+Path distance from 0 to: 518    0 413 171 812 569 611 518 
+Path distance from 0 to: 519    0 905 914 180 257 293 772 519 
+Path distance from 0 to: 520    0 820 790 844 446 520 
+Path distance from 0 to: 521    0 820 693 262 294 57 805 822 124 521 
+Path distance from 0 to: 522    0 413 171 812 296 593 522 
+Path distance from 0 to: 523    0 258 727 120 697 577 517 216 302 804 523 
+Path distance from 0 to: 524    0 905 524 
+Path distance from 0 to: 525    0 413 171 812 525 
+Path distance from 0 to: 526    0 905 914 837 526 
+Path distance from 0 to: 527    0 905 914 180 318 527 
+Path distance from 0 to: 528    0 413 695 797 198 28 528 
+Path distance from 0 to: 529    0 820 310 529 
+Path distance from 0 to: 530    0 820 500 863 678 530 
+Path distance from 0 to: 531    0 820 790 345 466 84 15 586 531 
+Path distance from 0 to: 532    0 905 914 64 532 
+Path distance from 0 to: 533    0 905 914 180 318 533 
+Path distance from 0 to: 534    0 258 727 120 68 468 513 534 
+Path distance from 0 to: 535    0 413 171 921 515 2 840 425 535 
+Path distance from 0 to: 536    0 820 421 854 131 617 536 
+Path distance from 0 to: 537    0 627 537 
+Path distance from 0 to: 538    0 820 421 854 131 326 702 538 
+Path distance from 0 to: 539    0 820 385 547 227 362 539 
+Path distance from 0 to: 540    0 905 128 713 540 
+Path distance from 0 to: 541    0 905 914 739 247 826 816 541 
+Path distance from 0 to: 542    0 905 914 180 257 637 542 
+Path distance from 0 to: 543    0 753 382 480 543 
+Path distance from 0 to: 544    0 820 310 632 428 5 475 544 
+Path distance from 0 to: 545    0 905 914 739 247 545 
+Path distance from 0 to: 546    0 258 727 546 
+Path distance from 0 to: 547    0 820 385 547 
+Path distance from 0 to: 548    0 905 914 180 257 286 548 
+Path distance from 0 to: 549    0 258 727 120 697 577 517 216 302 549 
+Path distance from 0 to: 550    0 905 914 180 318 875 550 
+Path distance from 0 to: 551    0 905 914 837 791 551 
+Path distance from 0 to: 552    0 905 128 646 552 
+Path distance from 0 to: 553    0 119 197 944 628 553 
+Path distance from 0 to: 554    0 413 171 921 471 444 587 554 
+Path distance from 0 to: 555    0 119 197 944 628 555 
+Path distance from 0 to: 556    0 820 421 854 131 67 556 
+Path distance from 0 to: 557    0 905 128 557 
+Path distance from 0 to: 558    0 820 693 558 
+Path distance from 0 to: 559    0 753 382 480 324 369 559 
+Path distance from 0 to: 560    0 258 727 120 697 195 730 560 
+Path distance from 0 to: 561    0 905 914 180 211 561 
+Path distance from 0 to: 562    0 258 727 120 697 195 730 560 488 365 562 
+Path distance from 0 to: 563    0 820 385 563 
+Path distance from 0 to: 564    0 820 310 264 61 975 829 564 
+Path distance from 0 to: 565    0 820 310 565 
+Path distance from 0 to: 566    0 820 566 
+Path distance from 0 to: 567    0 820 693 558 567 
+Path distance from 0 to: 568    0 820 310 264 61 975 686 32 568 
+Path distance from 0 to: 569    0 413 171 812 569 
+Path distance from 0 to: 570    0 413 695 797 430 570 
+Path distance from 0 to: 571    0 905 439 10 571 
+Path distance from 0 to: 572    0 413 572 
+Path distance from 0 to: 573    0 258 893 321 735 105 573 
+Path distance from 0 to: 574    0 905 914 180 318 574 
+Path distance from 0 to: 575    0 413 171 921 14 69 575 
+Path distance from 0 to: 576    0 905 439 27 576 
+Path distance from 0 to: 577    0 258 727 120 697 577 
+Path distance from 0 to: 578    0 820 310 632 428 5 606 578 
+Path distance from 0 to: 579    0 258 727 703 711 86 579 
+Path distance from 0 to: 580    0 413 171 921 471 614 969 414 580 
+Path distance from 0 to: 581    0 820 421 746 7 786 581 
+Path distance from 0 to: 582    0 905 914 180 211 561 12 766 582 
+Path distance from 0 to: 583    0 258 727 120 697 195 125 583 
+Path distance from 0 to: 584    0 905 914 659 138 934 136 584 
+Path distance from 0 to: 585    0 820 566 616 361 134 585 
+Path distance from 0 to: 586    0 820 790 345 466 84 15 586 
+Path distance from 0 to: 587    0 413 171 921 471 444 587 
+Path distance from 0 to: 588    0 905 439 54 42 590 704 588 
+Path distance from 0 to: 589    0 820 310 632 428 23 644 999 589 
+Path distance from 0 to: 590    0 905 439 54 42 590 
+Path distance from 0 to: 591    0 820 500 863 374 591 
+Path distance from 0 to: 592    0 905 128 472 971 592 
+Path distance from 0 to: 593    0 413 171 812 296 593 
+Path distance from 0 to: 594    0 820 310 632 428 5 475 594 
+Path distance from 0 to: 595    0 258 893 595 
+Path distance from 0 to: 596    0 820 421 661 596 
+Path distance from 0 to: 597    0 820 310 632 503 63 597 
+Path distance from 0 to: 598    0 820 421 854 237 598 
+Path distance from 0 to: 599    0 905 914 659 270 323 599 
+Path distance from 0 to: 600    0 820 790 345 466 600 
+Path distance from 0 to: 601    0 905 914 180 211 561 601 
+Path distance from 0 to: 602    0 820 790 345 70 602 
+Path distance from 0 to: 603    0 905 453 978 62 986 603 
+Path distance from 0 to: 604    0 753 604 
+Path distance from 0 to: 605    0 820 500 863 605 
+Path distance from 0 to: 606    0 820 310 632 428 5 606 
+Path distance from 0 to: 607    0 413 171 812 339 607 
+Path distance from 0 to: 608    0 258 727 120 697 577 517 216 431 608 
+Path distance from 0 to: 609    0 258 727 120 697 195 730 609 
+Path distance from 0 to: 610    0 413 171 921 471 275 395 610 
+Path distance from 0 to: 611    0 413 171 812 569 611 
+Path distance from 0 to: 612    0 905 914 837 791 612 
+Path distance from 0 to: 613    0 905 128 613 
+Path distance from 0 to: 614    0 413 171 921 471 614 
+Path distance from 0 to: 615    0 820 350 684 406 615 
+Path distance from 0 to: 616    0 820 566 616 
+Path distance from 0 to: 617    0 820 421 854 131 617 
+Path distance from 0 to: 618    0 905 914 837 464 477 618 
+Path distance from 0 to: 619    0 905 259 619 
+Path distance from 0 to: 620    0 905 128 472 288 620 
+Path distance from 0 to: 621    0 753 990 509 621 
+Path distance from 0 to: 622    0 753 382 480 543 622 
+Path distance from 0 to: 623    0 905 914 64 305 623 
+Path distance from 0 to: 624    0 820 693 907 624 
+Path distance from 0 to: 625    0 258 727 120 973 625 
+Path distance from 0 to: 626    0 413 695 797 198 28 528 626 
+Path distance from 0 to: 627    0 627 
+Path distance from 0 to: 628    0 119 197 944 628 
+Path distance from 0 to: 629    0 258 727 120 697 195 393 636 629 
+Path distance from 0 to: 630    0 820 310 632 428 5 606 578 630 
+Path distance from 0 to: 631    0 820 566 997 631 
+Path distance from 0 to: 632    0 820 310 632 
+Path distance from 0 to: 633    0 258 727 120 697 577 888 209 162 452 633 
+Path distance from 0 to: 634    0 820 310 632 503 63 634 
+Path distance from 0 to: 635    0 820 790 891 215 881 635 
+Path distance from 0 to: 636    0 258 727 120 697 195 393 636 
+Path distance from 0 to: 637    0 905 914 180 257 637 
+Path distance from 0 to: 638    0 820 421 746 638 
+Path distance from 0 to: 639    0 820 566 616 361 639 
+Path distance from 0 to: 640    0 820 790 345 640 
+Path distance from 0 to: 641    0 258 727 120 697 577 517 216 302 641 
+Path distance from 0 to: 642    0 258 727 120 387 848 642 
+Path distance from 0 to: 643    0 820 790 345 643 
+Path distance from 0 to: 644    0 820 310 632 428 23 644 
+Path distance from 0 to: 645    0 905 453 978 132 645 
+Path distance from 0 to: 646    0 905 128 646 
+Path distance from 0 to: 647    0 820 421 854 919 491 232 647 
+Path distance from 0 to: 648    0 820 310 264 61 975 686 32 568 648 
+Path distance from 0 to: 649    0 753 382 480 543 485 371 649 
+Path distance from 0 to: 650    0 905 439 54 650 
+Path distance from 0 to: 651    0 820 421 661 486 352 651 
+Path distance from 0 to: 652    0 258 727 120 697 195 730 560 488 365 700 652 
+Path distance from 0 to: 653    0 413 171 749 653 
+Path distance from 0 to: 654    0 413 171 812 569 481 407 654 
+Path distance from 0 to: 655    0 413 171 921 14 69 655 
+Path distance from 0 to: 656    0 905 128 472 288 656 
+Path distance from 0 to: 657    0 258 727 120 697 195 393 636 657 
+Path distance from 0 to: 658    0 258 727 120 697 577 517 216 658 
+Path distance from 0 to: 659    0 905 914 659 
+Path distance from 0 to: 660    0 258 727 120 697 577 888 87 660 
+Path distance from 0 to: 661    0 820 421 661 
+Path distance from 0 to: 662    0 820 736 662 
+Path distance from 0 to: 663    0 820 421 854 504 663 
+Path distance from 0 to: 664    0 820 500 664 
+Path distance from 0 to: 665    0 820 693 262 665 
+Path distance from 0 to: 666    0 820 790 844 666 
+Path distance from 0 to: 667    0 820 421 854 131 326 702 667 
+Path distance from 0 to: 668    0 905 914 837 464 418 668 
+Path distance from 0 to: 669    0 820 693 907 426 669 
+Path distance from 0 to: 670    0 258 727 120 387 479 410 670 
+Path distance from 0 to: 671    0 258 727 120 697 577 888 671 
+Path distance from 0 to: 672    0 258 727 120 697 195 377 348 436 672 
+Path distance from 0 to: 673    0 820 310 632 428 5 606 673 
+Path distance from 0 to: 674    0 820 421 746 443 674 
+Path distance from 0 to: 675    0 413 171 921 471 444 210 44 675 
+Path distance from 0 to: 676    0 905 453 676 
+Path distance from 0 to: 677    0 820 693 262 294 57 677 
+Path distance from 0 to: 678    0 820 500 863 678 
+Path distance from 0 to: 679    0 753 434 679 
+Path distance from 0 to: 680    0 820 310 632 428 5 475 680 
+Path distance from 0 to: 681    0 820 790 844 101 433 484 681 
+Path distance from 0 to: 682    0 820 310 632 428 59 226 682 
+Path distance from 0 to: 683    0 820 350 684 406 683 
+Path distance from 0 to: 684    0 820 350 684 
+Path distance from 0 to: 685    0 413 695 797 430 685 
+Path distance from 0 to: 686    0 820 310 264 61 975 686 
+Path distance from 0 to: 687    0 820 310 632 428 59 687 
+Path distance from 0 to: 688    0 820 421 746 688 
+Path distance from 0 to: 689    0 905 914 837 464 477 618 689 
+Path distance from 0 to: 690    0 905 128 472 971 690 
+Path distance from 0 to: 691    0 905 914 837 464 477 618 244 507 691 
+Path distance from 0 to: 692    0 413 572 256 692 
+Path distance from 0 to: 693    0 820 693 
+Path distance from 0 to: 694    0 820 790 345 466 84 15 694 
+Path distance from 0 to: 695    0 413 695 
+Path distance from 0 to: 696    0 905 439 54 845 696 
+Path distance from 0 to: 697    0 258 727 120 697 
+Path distance from 0 to: 698    0 413 572 698 
+Path distance from 0 to: 699    0 413 572 256 151 699 
+Path distance from 0 to: 700    0 258 727 120 697 195 730 560 488 365 700 
+Path distance from 0 to: 701    0 413 171 921 471 444 987 701 
+Path distance from 0 to: 702    0 820 421 854 131 326 702 
+Path distance from 0 to: 703    0 258 727 703 
+Path distance from 0 to: 704    0 905 439 54 42 590 704 
+Path distance from 0 to: 705    0 258 727 120 68 468 272 351 705 
+Path distance from 0 to: 706    0 820 310 264 61 719 706 
+Path distance from 0 to: 707    0 413 171 812 707 
+Path distance from 0 to: 708    0 905 914 837 526 708 
+Path distance from 0 to: 709    0 413 171 921 471 614 709 
+Path distance from 0 to: 710    0 258 727 120 697 577 517 216 302 641 204 710 
+Path distance from 0 to: 711    0 258 727 703 711 
+Path distance from 0 to: 712    0 258 727 120 697 577 517 216 302 549 712 
+Path distance from 0 to: 713    0 905 128 713 
+Path distance from 0 to: 714    0 820 421 207 714 
+Path distance from 0 to: 715    0 413 171 715 
+Path distance from 0 to: 716    0 905 128 713 716 
+Path distance from 0 to: 717    0 820 500 664 336 871 717 
+Path distance from 0 to: 718    0 820 500 718 
+Path distance from 0 to: 719    0 820 310 264 61 719 
+Path distance from 0 to: 720    0 413 695 720 
+Path distance from 0 to: 721    0 905 914 180 318 936 43 906 721 
+Path distance from 0 to: 722    0 905 914 837 464 418 315 130 722 
+Path distance from 0 to: 723    0 820 421 746 723 
+Path distance from 0 to: 724    0 258 727 120 697 195 730 560 724 
+Path distance from 0 to: 725    0 820 500 664 336 725 
+Path distance from 0 to: 726    0 413 171 921 471 444 987 726 
+Path distance from 0 to: 727    0 258 727 
+Path distance from 0 to: 728    0 119 728 
+Path distance from 0 to: 729    0 820 421 854 131 617 77 729 
+Path distance from 0 to: 730    0 258 727 120 697 195 730 
+Path distance from 0 to: 731    0 820 790 345 466 84 15 586 731 
+Path distance from 0 to: 732    0 413 171 921 515 732 
+Path distance from 0 to: 733    0 905 914 659 733 
+Path distance from 0 to: 734    0 413 572 256 692 765 734 
+Path distance from 0 to: 735    0 258 893 321 735 
+Path distance from 0 to: 736    0 820 736 
+Path distance from 0 to: 737    0 820 421 207 416 930 737 
+Path distance from 0 to: 738    0 258 727 120 68 468 513 738 
+Path distance from 0 to: 739    0 905 914 739 
+Path distance from 0 to: 740    0 820 500 740 
+Path distance from 0 to: 741    0 820 566 616 440 741 
+Path distance from 0 to: 742    0 413 695 797 198 28 528 185 742 
+Path distance from 0 to: 743    0 905 914 180 318 936 43 743 
+Path distance from 0 to: 744    0 905 914 837 464 418 668 744 
+Path distance from 0 to: 745    0 820 421 746 443 745 
+Path distance from 0 to: 746    0 820 421 746 
+Path distance from 0 to: 747    0 905 914 837 747 
+Path distance from 0 to: 748    0 905 914 837 464 834 849 251 748 
+Path distance from 0 to: 749    0 413 171 749 
+Path distance from 0 to: 750    0 905 914 837 464 834 750 
+Path distance from 0 to: 751    0 905 359 400 75 751 
+Path distance from 0 to: 752    0 258 893 752 
+Path distance from 0 to: 753    0 753 
+Path distance from 0 to: 754    0 820 421 746 754 
+Path distance from 0 to: 755    0 119 79 755 
+Path distance from 0 to: 756    0 905 128 472 971 965 756 
+Path distance from 0 to: 757    0 905 914 180 318 757 
+Path distance from 0 to: 758    0 905 453 774 758 
+Path distance from 0 to: 759    0 820 566 759 
+Path distance from 0 to: 760    0 753 434 760 
+Path distance from 0 to: 761    0 905 453 978 761 
+Path distance from 0 to: 762    0 413 171 921 14 69 575 762 
+Path distance from 0 to: 763    0 820 310 264 61 975 829 564 763 
+Path distance from 0 to: 764    0 258 727 120 697 195 764 
+Path distance from 0 to: 765    0 413 572 256 692 765 
+Path distance from 0 to: 766    0 905 914 180 211 561 12 766 
+Path distance from 0 to: 767    0 820 790 844 101 433 767 
+Path distance from 0 to: 768    0 820 566 616 361 134 909 768 
+Path distance from 0 to: 769    0 258 727 120 505 769 
+Path distance from 0 to: 770    0 905 453 978 62 770 
+Path distance from 0 to: 771    0 905 914 180 318 771 
+Path distance from 0 to: 772    0 905 914 180 257 293 772 
+Path distance from 0 to: 773    0 820 693 39 773 
+Path distance from 0 to: 774    0 905 453 774 
+Path distance from 0 to: 775    0 258 727 120 697 577 517 775 
+Path distance from 0 to: 776    0 258 727 120 697 577 376 776 
+Path distance from 0 to: 777    0 820 790 891 777 
+Path distance from 0 to: 778    0 820 421 746 7 778 
+Path distance from 0 to: 779    0 820 421 779 
+Path distance from 0 to: 780    0 820 421 854 131 617 77 780 
+Path distance from 0 to: 781    0 820 421 661 486 352 55 781 
+Path distance from 0 to: 782    0 820 421 782 
+Path distance from 0 to: 783    0 820 421 661 486 352 55 783 
+Path distance from 0 to: 784    0 905 914 837 464 418 372 784 
+Path distance from 0 to: 785    0 413 171 921 14 69 655 223 785 
+Path distance from 0 to: 786    0 820 421 746 7 786 
+Path distance from 0 to: 787    0 413 171 921 471 444 787 
+Path distance from 0 to: 788    0 905 453 978 62 788 
+Path distance from 0 to: 789    0 413 171 812 339 789 
+Path distance from 0 to: 790    0 820 790 
+Path distance from 0 to: 791    0 905 914 837 791 
+Path distance from 0 to: 792    0 905 128 472 971 482 792 
+Path distance from 0 to: 793    0 820 566 203 880 793 
+Path distance from 0 to: 794    0 905 914 837 794 
+Path distance from 0 to: 795    0 820 310 264 61 975 795 
+Path distance from 0 to: 796    0 820 500 863 179 796 
+Path distance from 0 to: 797    0 413 695 797 
+Path distance from 0 to: 798    0 753 990 798 
+Path distance from 0 to: 799    0 413 171 812 296 799 
+Path distance from 0 to: 800    0 413 171 921 471 275 800 
+Path distance from 0 to: 801    0 413 171 921 515 801 
+Path distance from 0 to: 802    0 905 914 180 318 802 
+Path distance from 0 to: 803    0 820 421 854 131 617 803 
+Path distance from 0 to: 804    0 258 727 120 697 577 517 216 302 804 
+Path distance from 0 to: 805    0 820 693 262 294 57 805 
+Path distance from 0 to: 806    0 413 572 256 951 806 
+Path distance from 0 to: 807    0 820 566 203 33 807 
+Path distance from 0 to: 808    0 820 385 547 227 808 
+Path distance from 0 to: 809    0 820 790 345 466 809 
+Path distance from 0 to: 810    0 753 434 810 
+Path distance from 0 to: 811    0 820 421 207 416 930 811 
+Path distance from 0 to: 812    0 413 171 812 
+Path distance from 0 to: 813    0 905 128 472 971 920 813 
+Path distance from 0 to: 814    0 820 310 632 428 59 814 
+Path distance from 0 to: 815    0 413 171 812 569 65 208 815 
+Path distance from 0 to: 816    0 905 914 739 247 826 816 
+Path distance from 0 to: 817    0 905 128 557 817 
+Path distance from 0 to: 818    0 905 914 659 138 213 818 
+Path distance from 0 to: 819    0 413 171 812 819 
+Path distance from 0 to: 820    0 820 
+Path distance from 0 to: 821    0 753 990 509 821 
+Path distance from 0 to: 822    0 820 693 262 294 57 805 822 
+Path distance from 0 to: 823    0 820 310 264 61 823 
+Path distance from 0 to: 824    0 905 128 613 937 824 
+Path distance from 0 to: 825    0 820 421 661 596 825 
+Path distance from 0 to: 826    0 905 914 739 247 826 
+Path distance from 0 to: 827    0 753 382 480 324 827 
+Path distance from 0 to: 828    0 905 914 837 464 834 750 828 
+Path distance from 0 to: 829    0 820 310 264 61 975 829 
+Path distance from 0 to: 830    0 413 572 256 951 66 879 830 
+Path distance from 0 to: 831    0 905 128 472 971 965 71 831 
+Path distance from 0 to: 832    0 905 914 739 247 832 
+Path distance from 0 to: 833    0 413 695 797 198 28 460 833 
+Path distance from 0 to: 834    0 905 914 837 464 834 
+Path distance from 0 to: 835    0 820 421 746 7 786 581 835 
+Path distance from 0 to: 836    0 905 914 837 464 418 372 836 
+Path distance from 0 to: 837    0 905 914 837 
+Path distance from 0 to: 838    0 258 727 120 68 838 
+Path distance from 0 to: 839    0 413 171 921 471 444 987 701 839 
+Path distance from 0 to: 840    0 413 171 921 515 2 840 
+Path distance from 0 to: 841    0 820 421 854 131 841 
+Path distance from 0 to: 842    0 820 310 632 428 59 842 
+Path distance from 0 to: 843    0 753 604 843 
+Path distance from 0 to: 844    0 820 790 844 
+Path distance from 0 to: 845    0 905 439 54 845 
+Path distance from 0 to: 846    0 820 790 24 846 
+Path distance from 0 to: 847    0 820 310 632 428 5 90 22 847 
+Path distance from 0 to: 848    0 258 727 120 387 848 
+Path distance from 0 to: 849    0 905 914 837 464 834 849 
+Path distance from 0 to: 850    0 820 693 558 567 850 
+Path distance from 0 to: 851    0 413 572 256 951 851 
+Path distance from 0 to: 852    0 258 727 120 697 195 730 560 488 852 
+Path distance from 0 to: 853    0 820 421 746 443 853 
+Path distance from 0 to: 854    0 820 421 854 
+Path distance from 0 to: 855    0 258 727 120 387 848 855 
+Path distance from 0 to: 856    0 258 727 703 711 86 856 
+Path distance from 0 to: 857    0 905 128 857 
+Path distance from 0 to: 858    0 258 893 321 735 105 858 
+Path distance from 0 to: 859    0 258 727 120 697 195 730 859 
+Path distance from 0 to: 860    0 820 421 746 7 778 860 
+Path distance from 0 to: 861    0 820 421 854 131 617 77 861 
+Path distance from 0 to: 862    0 905 128 557 817 862 
+Path distance from 0 to: 863    0 820 500 863 
+Path distance from 0 to: 864    0 413 171 921 471 444 987 701 864 
+Path distance from 0 to: 865    0 820 500 865 
+Path distance from 0 to: 866    0 905 914 659 138 934 866 
+Path distance from 0 to: 867    0 753 867 
+Path distance from 0 to: 868    0 258 727 120 697 577 888 209 916 868 
+Path distance from 0 to: 869    0 820 500 273 869 
+Path distance from 0 to: 870    0 753 382 480 543 870 
+Path distance from 0 to: 871    0 820 500 664 336 871 
+Path distance from 0 to: 872    0 820 500 664 872 
+Path distance from 0 to: 873    0 820 310 264 61 975 873 
+Path distance from 0 to: 874    0 905 914 837 791 551 874 
+Path distance from 0 to: 875    0 905 914 180 318 875 
+Path distance from 0 to: 876    0 820 310 632 428 190 876 
+Path distance from 0 to: 877    0 820 310 632 428 59 884 877 
+Path distance from 0 to: 878    0 820 310 632 428 59 226 878 
+Path distance from 0 to: 879    0 413 572 256 951 66 879 
+Path distance from 0 to: 880    0 820 566 203 880 
+Path distance from 0 to: 881    0 820 790 891 215 881 
+Path distance from 0 to: 882    0 413 171 812 243 218 882 
+Path distance from 0 to: 883    0 905 914 837 464 418 372 883 
+Path distance from 0 to: 884    0 820 310 632 428 59 884 
+Path distance from 0 to: 885    0 820 421 854 919 885 
+Path distance from 0 to: 886    0 820 421 746 638 349 886 
+Path distance from 0 to: 887    0 905 439 10 571 887 
+Path distance from 0 to: 888    0 258 727 120 697 577 888 
+Path distance from 0 to: 889    0 905 914 739 247 826 816 889 
+Path distance from 0 to: 890    0 413 171 812 243 890 
+Path distance from 0 to: 891    0 820 790 891 
+Path distance from 0 to: 892    0 413 695 797 892 
+Path distance from 0 to: 893    0 258 893 
+Path distance from 0 to: 894    0 413 171 921 14 995 894 
+Path distance from 0 to: 895    0 119 108 172 899 895 
+Path distance from 0 to: 896    0 753 434 679 896 
+Path distance from 0 to: 897    0 413 171 812 339 897 
+Path distance from 0 to: 898    0 905 128 857 898 
+Path distance from 0 to: 899    0 119 108 172 899 
+Path distance from 0 to: 900    0 258 727 120 697 577 888 209 900 
+Path distance from 0 to: 901    0 905 914 837 901 
+Path distance from 0 to: 902    0 820 693 262 294 57 677 902 
+Path distance from 0 to: 903    0 905 914 180 318 936 43 903 
+Path distance from 0 to: 904    0 820 790 891 215 470 904 
+Path distance from 0 to: 905    0 905 
+Path distance from 0 to: 906    0 905 914 180 318 936 43 906 
+Path distance from 0 to: 907    0 820 693 907 
+Path distance from 0 to: 908    0 820 310 264 61 975 686 908 
+Path distance from 0 to: 909    0 820 566 616 361 134 909 
+Path distance from 0 to: 910    0 905 290 910 
+Path distance from 0 to: 911    0 905 439 54 911 
+Path distance from 0 to: 912    0 905 914 837 464 834 40 912 
+Path distance from 0 to: 913    0 413 572 256 151 941 235 913 
+Path distance from 0 to: 914    0 905 914 
+Path distance from 0 to: 915    0 905 453 978 915 
+Path distance from 0 to: 916    0 258 727 120 697 577 888 209 916 
+Path distance from 0 to: 917    0 820 566 203 33 457 917 
+Path distance from 0 to: 918    0 905 918 
+Path distance from 0 to: 919    0 820 421 854 919 
+Path distance from 0 to: 920    0 905 128 472 971 920 
+Path distance from 0 to: 921    0 413 171 921 
+Path distance from 0 to: 922    0 753 434 679 922 
+Path distance from 0 to: 923    0 905 923 
+Path distance from 0 to: 924    0 905 439 54 650 473 924 
+Path distance from 0 to: 925    0 258 727 120 697 195 377 925 
+Path distance from 0 to: 926    0 905 914 837 464 477 618 926 
+Path distance from 0 to: 927    0 258 727 120 697 577 888 209 162 452 927 
+Path distance from 0 to: 928    0 258 727 120 697 577 517 928 
+Path distance from 0 to: 929    0 820 310 632 428 5 606 929 
+Path distance from 0 to: 930    0 820 421 207 416 930 
+Path distance from 0 to: 931    0 413 171 921 14 69 931 
+Path distance from 0 to: 932    0 258 727 120 697 577 517 216 302 804 932 
+Path distance from 0 to: 933    0 258 727 120 697 577 517 216 658 168 933 
+Path distance from 0 to: 934    0 905 914 659 138 934 
+Path distance from 0 to: 935    0 905 439 54 42 935 
+Path distance from 0 to: 936    0 905 914 180 318 936 
+Path distance from 0 to: 937    0 905 128 613 937 
+Path distance from 0 to: 938    0 820 938 
+Path distance from 0 to: 939    0 820 790 891 215 470 939 
+Path distance from 0 to: 940    0 905 128 557 940 
+Path distance from 0 to: 941    0 413 572 256 151 941 
+Path distance from 0 to: 942    0 413 695 942 
+Path distance from 0 to: 943    0 905 914 659 138 976 943 
+Path distance from 0 to: 944    0 119 197 944 
+Path distance from 0 to: 945    0 413 695 797 451 945 
+Path distance from 0 to: 946    0 905 914 739 247 946 
+Path distance from 0 to: 947    0 905 439 10 571 947 
+Path distance from 0 to: 948    0 905 914 837 464 948 
+Path distance from 0 to: 949    0 820 790 891 777 949 
+Path distance from 0 to: 950    0 820 790 844 666 950 
+Path distance from 0 to: 951    0 413 572 256 951 
+Path distance from 0 to: 952    0 820 421 207 952 
+Path distance from 0 to: 953    0 905 914 837 464 418 372 953 
+Path distance from 0 to: 954    0 820 790 345 466 954 
+Path distance from 0 to: 955    0 258 727 120 697 195 730 955 
+Path distance from 0 to: 956    0 905 914 837 526 708 956 
+Path distance from 0 to: 957    0 820 385 957 
+Path distance from 0 to: 958    0 413 171 812 958 
+Path distance from 0 to: 959    0 258 893 321 959 
+Path distance from 0 to: 960    0 905 914 739 960 
+Path distance from 0 to: 961    0 905 439 54 911 961 
+Path distance from 0 to: 962    0 820 310 632 428 5 475 962 
+Path distance from 0 to: 963    0 905 914 180 257 293 963 
+Path distance from 0 to: 964    0 820 310 632 428 59 814 964 
+Path distance from 0 to: 965    0 905 128 472 971 965 
+Path distance from 0 to: 966    0 820 421 661 486 966 
+Path distance from 0 to: 967    0 820 421 661 486 352 55 967 
+Path distance from 0 to: 968    0 820 421 854 504 663 181 968 
+Path distance from 0 to: 969    0 413 171 921 471 614 969 
+Path distance from 0 to: 970    0 905 914 837 464 418 372 970 
+Path distance from 0 to: 971    0 905 128 472 971 
+Path distance from 0 to: 972    0 820 421 661 486 352 55 972 
+Path distance from 0 to: 973    0 258 727 120 973 
+Path distance from 0 to: 974    0 905 914 837 464 418 372 784 974 
+Path distance from 0 to: 975    0 820 310 264 61 975 
+Path distance from 0 to: 976    0 905 914 659 138 976 
+Path distance from 0 to: 977    0 905 914 180 211 561 12 766 977 
+Path distance from 0 to: 978    0 905 453 978 
+Path distance from 0 to: 979    0 820 790 891 215 881 78 263 979 
+Path distance from 0 to: 980    0 258 727 120 697 577 888 401 980 
+Path distance from 0 to: 981    0 413 981 
+Path distance from 0 to: 982    0 753 982 
+Path distance from 0 to: 983    0 820 310 264 61 975 983 
+Path distance from 0 to: 984    0 905 128 472 971 482 984 
+Path distance from 0 to: 985    0 258 727 120 68 468 513 738 985 
+Path distance from 0 to: 986    0 905 453 978 62 986 
+Path distance from 0 to: 987    0 413 171 921 471 444 987 
+Path distance from 0 to: 988    0 258 727 120 505 988 
+Path distance from 0 to: 989    0 413 572 256 692 989 
+Path distance from 0 to: 990    0 753 990 
+Path distance from 0 to: 991    0 905 439 27 991 
+Path distance from 0 to: 992    0 413 171 921 515 732 992 
+Path distance from 0 to: 993    0 413 171 812 243 993 
+Path distance from 0 to: 994    0 905 439 54 42 994 
+Path distance from 0 to: 995    0 413 171 921 14 995 
+Path distance from 0 to: 996    0 905 914 659 138 934 161 996 
+Path distance from 0 to: 997    0 820 566 997 
+Path distance from 0 to: 998    0 820 385 998 
+Path distance from 0 to: 999    0 820 310 632 428 23 644 999 
