@@ -1,7 +1,8 @@
 #pragma once
 
 #include <stdlib.h>
-#include <time.h>
+//#include <time.h>
+#include <ctime>
 #include<iostream>
 #include <assert.h>
 

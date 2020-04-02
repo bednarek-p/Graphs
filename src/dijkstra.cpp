@@ -20,10 +20,8 @@ int minimal_distance(const Graph &graph,int *distance, bool *is_shortest_way)
 return minimum_index;
 }
 
-void printPath(int parent[], int j)
+void printPath(int *parent, int j)
 {
-
-
     if (parent[j] == - 1) // IF ITS IS SOURCE
         return;
 
@@ -59,9 +57,8 @@ void print_utility(const Graph &graph,int *dist,int * path)
 }
 
 
-void dijkstra(const Graph & graph,int start_point)
+void dijkstra(const Graph & graph,int start_point,int test_number)
 {
-
     int* distance= new int [graph.size()];
     bool* is_shortest_way= new bool [graph.size()];
     int* path= new int[graph.size()];
@@ -74,7 +71,8 @@ void dijkstra(const Graph & graph,int start_point)
     }
     distance[start_point]=0;
 
-
+    Timer time;
+    time.start();
 
     for(int i=0;i<graph.size()-1;i++)
     {
@@ -89,15 +87,54 @@ void dijkstra(const Graph & graph,int start_point)
             }
         }
     }
+    time.stop();
+    time.print_time_duration();
+    //print_utility(graph,distance,path);
+    print_data_to_file("./data/test_"+std::to_string(test_number)+".txt",data_to_string(graph,distance,path));
+    //std::cout<<data_to_string(graph,distance,path);
+    delete [] distance;
+    delete [] is_shortest_way;
+    delete [] path;
+}
 
-      //  std::cout<<std::endl;        std::cout<<std::endl;
+void path_to_string(int*parent, int j,std::string & name)
+{
 
-   print_utility(graph,distance,path);
+    if (parent[j] == - 1) // IF ITS IS SOURCE
+        return ;
 
-delete [] distance;
-delete [] is_shortest_way;
-delete [] path;
+    path_to_string(parent, parent[j],name);
+     name+=std::to_string(j)+" ";
 
+}
+
+
+std::string data_to_string(const Graph &graph, int *dist, int *path)
+{
+    std::string name="";
+    std::string data_string="";
+    for (int i=0;i<graph.size();i++)
+    {
+        data_string+="Shortest distance from 0 to: "+ std::to_string(i)+" is:  "+std::to_string(dist[i])+"\n";
+    }
+
+
+    for (int i=0;i<graph.size();i++)
+    {
+        if(dist[i]==INT_MAX)
+        {
+        data_string+="Path distance from 0 to: " + std::to_string(i) + "    No connection!\n";
+        }else
+        {
+        data_string+="Path distance from 0 to: "+ std::to_string(i) +"    0 ";
+        name="";
+        path_to_string(path,i,name);
+        data_string+=name;
+        data_string+="\n";
+        }
+    }
+
+    return data_string;
 }
 
 

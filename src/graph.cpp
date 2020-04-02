@@ -112,7 +112,7 @@ void Graph::fill_graph_with_random( Graph & graph,const int number_of_vertices, 
     {
         graph.add_vertex(i);
     }
-    srand (time(NULL));
+    srand(time(NULL));
 
 
     int edge = (graph_density*number_of_vertices*(number_of_vertices-1))/200;
@@ -125,7 +125,7 @@ int random_target;
 int random_weight;
     for (int i=0;i<edge;i++)
     {
-        random_weight = rand() % 100 + 1;
+        random_weight = rand() % 1000 + 1;
         do
         {
             random_source=rand() % number_of_vertices;

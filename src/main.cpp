@@ -2,15 +2,11 @@
 
 #include "../inc/graph.h"
 #include "../inc/dijkstra.h"
-
+#include "../inc/tests.h"
 
 int main()
 {
-    Graph graph;
-
-
-    graph.fill_graph_with_random(graph,1000,100);
-    dijkstra(graph,0);
-
+//srand (time (NULL));
+    test();
     return 0;
 }
