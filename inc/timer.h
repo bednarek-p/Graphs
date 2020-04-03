@@ -22,6 +22,10 @@ class Timer {
     {
         std::cout<<"This Function took: "<<std::chrono::duration_cast<std::chrono::microseconds>(stop_time - start_time).count()<<" Microseconds."<<std::endl;
     }
+    int return_time_duration()
+    {
+        return std::chrono::duration_cast<std::chrono::microseconds>(stop_time - start_time).count();
+    }
 
 };
 

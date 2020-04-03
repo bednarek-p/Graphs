@@ -78,7 +78,7 @@ void Graph::fill_graph_with_random( Graph & graph,const int number_of_vertices, 
 
 
     int edge = (graph_density*number_of_vertices*(number_of_vertices-1))/200;
-std::cout<<edge<<std::endl;
+    std::cout<<edge<<std::endl;
 
 
 
@@ -99,6 +99,35 @@ int random_weight=0;
 
 
 }
+
+std::string Graph::generate_random_graph_data(const int number_of_vertices, const int graph_density,const int start_vertex)
+{
+    std::string data="";
+    int edge = (graph_density*number_of_vertices*(number_of_vertices-1))/200;
+    data+=std::to_string(edge)+" "+std::to_string(number_of_vertices)+" "+std::to_string(start_vertex)+"\n";
+
+
+
+int random_source=0;
+int random_target=0;
+int random_weight=0;
+    for (int i=0;i<edge;i++)
+    {
+        random_weight = std::rand() % 1000 + 1;
+        do
+        {
+            random_source=rand() % number_of_vertices + 0;
+            random_target=rand() % number_of_vertices + 0;
+        } while( random_target==random_source );
+        data+=std::to_string(random_source)+" "+std::to_string(random_target)+" "+std::to_string(random_weight)+"\n";
+        //graph.add_connection(random_source,random_target,random_weight);
+    }
+
+
+
+    return data;
+}
+
 
 int Graph::size()const
 {

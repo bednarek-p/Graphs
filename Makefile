@@ -20,3 +20,4 @@ tests.o: ./src/tests.cpp
 
 clean:
 	rm -f *.o *~ 
+	rm -f ./data/*

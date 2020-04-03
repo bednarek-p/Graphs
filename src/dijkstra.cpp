@@ -90,6 +90,7 @@ void dijkstra(const Graph & graph,int start_point,int test_number)
     time.stop();
     time.print_time_duration();
     //print_utility(graph,distance,path);
+    append_data_to_file("./data/all_timers.txt",std::to_string(time.return_time_duration())+"\n");
     print_data_to_file("./data/test_"+std::to_string(test_number)+".txt",data_to_string(graph,distance,path));
     //std::cout<<data_to_string(graph,distance,path);
     delete [] distance;
