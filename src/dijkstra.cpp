@@ -57,7 +57,7 @@ void print_utility(const Graph &graph,int *dist,int * path)
 }
 
 
-void dijkstra(const Graph & graph,int start_point,int test_number)
+void dijkstra(const Graph & graph,int start_point,int test_number,int density,int test_variation)
 {
     int* distance= new int [graph.size()];
     bool* is_shortest_way= new bool [graph.size()];
@@ -91,7 +91,7 @@ void dijkstra(const Graph & graph,int start_point,int test_number)
     time.print_time_duration();
     //print_utility(graph,distance,path);
     append_data_to_file("./data/all_timers.txt",std::to_string(time.return_time_duration())+"\n");
-    print_data_to_file("./data/test_"+std::to_string(test_number)+".txt",data_to_string(graph,distance,path));
+    print_data_to_file("./data/"+std::to_string(density)+"/results_"+std::to_string(test_variation)+"_"+std::to_string(test_number)+".txt",data_to_string(graph,distance,path));
     //std::cout<<data_to_string(graph,distance,path);
     delete [] distance;
     delete [] is_shortest_way;

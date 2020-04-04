@@ -11,7 +11,7 @@
 
 int minimal_distance(const Graph &graph,int *distance, bool *is_shortest_way);
 void printPath(int parent[], int j);
-void dijkstra(const Graph & graph,int start_point,int test_number);
+void dijkstra(const Graph & graph,int start_point,int test_number,int density,int test_variation);
 
 
 void print_utility(const Graph &graph,int *dist,int * path);
