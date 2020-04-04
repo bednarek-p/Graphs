@@ -35,5 +35,4 @@
 *.layout
 /bin
 /obj
-/data
 exe

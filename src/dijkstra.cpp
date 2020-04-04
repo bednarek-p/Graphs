@@ -56,6 +56,25 @@ void print_utility(const Graph &graph,int *dist,int * path)
 
 }
 
+void dijkstra_agorithm(const Graph & graph,int *dist,bool *is_shortest_way,int * path_data,Timer & time)
+{
+    time.start();
+   for(int i=0;i<graph.size()-1;i++)
+    {
+        int u = minimal_distance(graph,dist,is_shortest_way);
+        is_shortest_way[u] =true;
+        for(int v=0; v<graph.size();v++)
+        {
+            if(!is_shortest_way[v] && graph.get_value(u,v) && dist[u]!= INT_MAX && dist[u]+graph.get_value(u,v)<dist[v])
+            {
+                dist[v]=dist[u]+graph.get_value(u,v);
+                path_data[v] = u;
+            }
+        }
+    }
+    time.stop();
+}
+
 
 void dijkstra(const Graph & graph,int start_point,int test_number,int density,int test_variation)
 {
@@ -72,27 +91,12 @@ void dijkstra(const Graph & graph,int start_point,int test_number,int density,in
     distance[start_point]=0;
 
     Timer time;
-    time.start();
-
-    for(int i=0;i<graph.size()-1;i++)
-    {
-        int u = minimal_distance(graph,distance,is_shortest_way);
-        is_shortest_way[u] =true;
-        for(int v=0; v<graph.size();v++)
-        {
-            if(!is_shortest_way[v] && graph.get_value(u,v) && distance[u]!= INT_MAX && distance[u]+graph.get_value(u,v)<distance[v])
-            {
-                distance[v]=distance[u]+graph.get_value(u,v);
-                path[v] = u;
-            }
-        }
-    }
-    time.stop();
+    dijkstra_agorithm(graph,distance,is_shortest_way,path,time);
     time.print_time_duration();
-    //print_utility(graph,distance,path);
-    append_data_to_file("./data/all_timers.txt",std::to_string(time.return_time_duration())+"\n");
-    print_data_to_file("./data/"+std::to_string(density)+"/results_"+std::to_string(test_variation)+"_"+std::to_string(test_number)+".txt",data_to_string(graph,distance,path));
-    //std::cout<<data_to_string(graph,distance,path);
+
+    append_data_to_file("Matrix_timers_dijkstra.txt",std::to_string(time.return_time_duration())+"\n");
+    print_data_to_file("MATRIX/"+std::to_string(density)+"/results_"+std::to_string(test_variation)+"_"+std::to_string(test_number)+".txt",data_to_string(graph,distance,path));
+
     delete [] distance;
     delete [] is_shortest_way;
     delete [] path;

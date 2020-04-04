@@ -21,7 +21,7 @@ tests.o: ./src/tests.cpp
 clean:
 	rm -f *.o *~ 
 	rm -f ./data/*.txt
-	rm -f ./data/25/*.txt
-	rm -f ./data/50/*.txt
-	rm -f ./data/75/*.txt
-	rm -f ./data/100/*.txt
+	rm -f ./data/MATRIX/25/*.txt
+	rm -f ./data/MATRIX/50/*.txt
+	rm -f ./data/MATRIX/75/*.txt
+	rm -f ./data/MATRIX/100/*.txt

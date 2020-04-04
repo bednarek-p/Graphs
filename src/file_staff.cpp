@@ -2,7 +2,7 @@
 
 void print_data_to_file(std::string file_name, std::string text)
 {
-  std::ofstream file (file_name, std::ofstream::out);
+  std::ofstream file ("./data/"+file_name, std::ofstream::out);
   file << text;
   file.close();
   return ;
@@ -83,7 +83,7 @@ delete [] weight;
 
 void append_data_to_file(std::string file_name, std::string text)
 {
-  std::ofstream file (file_name, std::ofstream::app);
+  std::ofstream file ("./data/"+file_name, std::ofstream::app);
   file << text;
   file.close();
   return ;
