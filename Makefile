@@ -25,3 +25,4 @@ clean:
 	rm -f ./data/MATRIX/50/*.txt
 	rm -f ./data/MATRIX/75/*.txt
 	rm -f ./data/MATRIX/100/*.txt
+	mkdir -p ./data/MATRIX/25 ./data/MATRIX/50 ./data/MATRIX/75 ./data/MATRIX/100 
