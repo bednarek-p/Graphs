@@ -1,7 +1,7 @@
 all: exe clean
 
-exe: main.o graph.o dijkstra.o file_staff.o tests.o
-	g++  main.o graph.o dijkstra.o file_staff.o tests.o  -o exe
+exe: main.o graph.o dijkstra.o file_staff.o tests.o list_graph.o
+	g++  main.o graph.o dijkstra.o file_staff.o tests.o list_graph.o  -o exe
 
 main.o: ./src/main.cpp
 	g++ -c ./src/main.cpp
@@ -17,6 +17,9 @@ file_staff.o: ./src/file_staff.cpp
 
 tests.o: ./src/tests.cpp
 	g++ -c ./src/tests.cpp
+
+list_graph.o: ./src/list_graph.cpp
+	g++ -c ./src/list_graph.cpp
 
 clean:
 	rm -f *.o *~ 

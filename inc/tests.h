@@ -3,4 +3,4 @@
 #include "graph.h"
 #include "dijkstra.h"
 
-void test();
+void test_dijkstra_for_matrix();

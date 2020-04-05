@@ -1,6 +1,6 @@
 #include "../inc/tests.h"
 
-void test()
+void test_dijkstra_for_matrix()
 {
 int * tab = new int [5];
 tab[0]=10;
