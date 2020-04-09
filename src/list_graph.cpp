@@ -34,6 +34,7 @@ void List_graph::add_connection(int source, int target, int weight)
 {
         Node* newNode = get_adj_list_node(target, head[source],weight);
         head[source] = newNode;
+        Node_number++;
 }
 
 void List_graph::print_graph_list_data(Node * ptr)
@@ -45,3 +46,13 @@ void List_graph::print_graph_list_data(Node * ptr)
     }
     std::cout<<std::endl;
 }
+
+int List_graph::size() const
+{
+    return Node_number;
+}
+
+
+
+
+

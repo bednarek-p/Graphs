@@ -31,7 +31,6 @@ public:
     int connection_weight (int source,int target);
 
     int get_value(int i,int j)const;
-    void fill_test_array(Graph & graph);
     void fill_graph_with_random( Graph & graph,const int number_of_vertices, const int graph_density);
     std::string generate_random_graph_data(const int number_of_vertices, const int graph_density,const int start_vertex);
 };
