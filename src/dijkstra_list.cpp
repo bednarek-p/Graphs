@@ -6,8 +6,9 @@
 
 struct Minimal_heap_node* new_minimal_heap_node(int v, int distance)
 {
-    struct Minimal_heap_node* Minimal_heap_node =
-           (struct Minimal_heap_node*) malloc(sizeof(struct Minimal_heap_node));
+    //struct Minimal_heap_node* Minimal_heap_node =
+    //       (struct Minimal_heap_node*) malloc(sizeof(struct Minimal_heap_node));
+    struct Minimal_heap_node* Minimal_heap_node = new struct Minimal_heap_node;
     Minimal_heap_node->v = v;
     Minimal_heap_node->distance = distance;
     return Minimal_heap_node;
@@ -16,13 +17,17 @@ struct Minimal_heap_node* new_minimal_heap_node(int v, int distance)
 // to create a Min Heap
 struct Minimal_heap* create_minimal_heap(int capacity)
 {
-    struct Minimal_heap* Minimal_heap =
-         (struct Minimal_heap*) malloc(sizeof(struct Minimal_heap));
-    Minimal_heap->pos = (int *)malloc(capacity * sizeof(int));
+    //struct Minimal_heap* Minimal_heap =
+    //     (struct Minimal_heap*) malloc(sizeof(struct Minimal_heap));
+    struct Minimal_heap* Minimal_heap = new struct Minimal_heap;
+
+   // Minimal_heap->pos = (int *)malloc(capacity * sizeof(int));
+    Minimal_heap->pos = new int [capacity];
     Minimal_heap->size = 0;
     Minimal_heap->capacity = capacity;
-    Minimal_heap->arr =
-         (struct Minimal_heap_node**) malloc(capacity * sizeof(struct Minimal_heap_node*));
+   // Minimal_heap->arr =
+    //     (struct Minimal_heap_node**) malloc(capacity * sizeof(struct Minimal_heap_node*));
+    Minimal_heap->arr = new struct Minimal_heap_node*[capacity];
     return Minimal_heap;
 }
 
@@ -128,11 +133,24 @@ bool is_in_minimal_heap(struct Minimal_heap *Minimal_heap, int v)
 }
 
 
-void printArr(int distance[], int n)
+int print_utility(int dist[], int n,  int parent[])
 {
-    printf("Vertex   Distance from Source\n");
-    for (int i = 0; i < n; ++i)
-        printf("%d \t\t %d\n", i, distance[i]);
+    int src = 0;
+    std::cout<<"Vertex      Distance        Path";
+
+    for (int i = 1; i < n; i++)
+    {
+        std::cout<<std::endl<<src<<" -> "<<i<<"         "<<dist[i]<<"           "<<src;
+        print_path_list(parent, i);
+    }
+}
+void print_path_list(int parent[], int j)
+{
+    if (parent[j] == 0)
+        return;
+
+    print_path_list(parent, parent[j]);
+    std::cout<<" "<<j<<" ";
 }
 
 
@@ -141,7 +159,7 @@ void dijkstra_for_list( List_graph graph, int source,int V)
 
     int path_data[V];
     int distance[V];
-
+    int parent[V];
     struct Minimal_heap* Minimal_heap = create_minimal_heap(V);
 
 
@@ -167,7 +185,7 @@ void dijkstra_for_list( List_graph graph, int source,int V)
 
         struct Minimal_heap_node* Minimal_heap_node = extractMin(Minimal_heap);
         int u = Minimal_heap_node->v; // Store the extracted vertex number
-
+        delete Minimal_heap_node;
         struct Node* pCrawl = graph.head[u];
         while (pCrawl != NULL)
         {
@@ -175,18 +193,21 @@ void dijkstra_for_list( List_graph graph, int source,int V)
 
             // If shortest distance to v is not finalized yet, and distance to v
             // through u is less than its previously calculated distance
-            if (is_in_minimal_heap(Minimal_heap, v) && distance[u] != 1000 &&
-                                          pCrawl->weight + distance[u] < distance[v])
+            if (is_in_minimal_heap(Minimal_heap, v) && distance[u] != 1000 && pCrawl->weight + distance[u] < distance[v])
             {
                 distance[v] = distance[u] + pCrawl->weight;
-                // update distance value in min heap also
+                parent[v]=u; // for printing
+
                 decrease_key(Minimal_heap, v, distance[v]);
+
             }
             pCrawl = pCrawl->next;
         }
+        delete pCrawl;
     }
+    delete Minimal_heap;
     time.stop();
     time.print_time_duration();
-    printArr(distance, V);
+    print_utility(distance, V, parent);
 }
 

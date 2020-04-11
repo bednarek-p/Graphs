@@ -32,7 +32,7 @@ delete [] tab;
 void test_dijkstra_for_list()
 {
       List_graph list_g;
-list_g.generate_random_graph_data(1000,100,0);
+list_g.generate_random_graph_data(10,100,0);
 
-dijkstra_for_list(list_g,0,1000);
+dijkstra_for_list(list_g,0,10);
 }

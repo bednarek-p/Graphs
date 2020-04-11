@@ -32,7 +32,9 @@ List_graph::~List_graph()
 
 void List_graph::add_connection(int source, int target, int weight)
 {
+
         Node* newNode = get_adj_list_node(target, head[source],weight);
+
         head[source] = newNode;
         Node_number++;
 }
