@@ -23,5 +23,7 @@ public:
     ~List_graph();
     void add_connection(int source, int target, int weight);
     void print_graph_list_data(Node * ptr);
+
+    void generate_random_graph_data(const int number_of_vertices, const int graph_density,const int start_vertex);
     int size() const;
 };

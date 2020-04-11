@@ -12,11 +12,8 @@ tab[4]=1000;
 
 for(int i=0;i<=4;i++)
 {
-
-
         for(int density =25;density<=100;density+=25)
         {
-
             for( int test_numbers=0;test_numbers<100;test_numbers++)
             {
             Graph graph;
@@ -24,12 +21,18 @@ for(int i=0;i<=4;i++)
             read_graph_data_from_file("MATRIX/"+std::to_string(density)+"/graph_data_"+std::to_string(tab[i])+"_"+std::to_string(test_numbers)+".txt",graph);
             dijkstra(graph,0,test_numbers,density,tab[i]);
             }
-
         }
-
 }
 
 
 delete [] tab;
 
+}
+
+void test_dijkstra_for_list()
+{
+      List_graph list_g;
+list_g.generate_random_graph_data(1000,100,0);
+
+dijkstra_for_list(list_g,0,1000);
 }

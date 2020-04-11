@@ -1,4 +1,34 @@
+#pragma once
+
 #include <iostream>
 
 #include "list_graph.h"
-void dijkstra_for_list(const List_graph &list_graph,int start_value);
+#include "timer.h"
+struct Minimal_heap_node
+{
+    int  v;
+    int distance;
+};
+
+// Structure to represent a min heap
+struct Minimal_heap
+{
+    int size;
+    int capacity;
+    int *pos;
+    struct Minimal_heap_node **arr;
+};
+
+
+struct Minimal_heap_node* extractMin(struct Minimal_heap* Minimal_heap);
+struct Minimal_heap* create_minimal_heap(int capacity);
+struct Minimal_heap_node* new_minimal_heap_node(int v, int distance);
+
+void dijkstra_for_list (List_graph graph, int source,int V);
+void printArr(int distance[], int n);
+bool is_in_minimal_heap(struct Minimal_heap *Minimal_heap, int v);
+void decrease_key(struct Minimal_heap* Minimal_heap, int v, int distance);
+int is_empty(struct Minimal_heap* Minimal_heap);
+void min_heapify(struct Minimal_heap* Minimal_heap, int index);
+void swap_minimal_heap_node(struct Minimal_heap_node** a, struct Minimal_heap_node** b);
+
