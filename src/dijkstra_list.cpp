@@ -6,28 +6,24 @@
 
 struct Minimal_heap_node* new_minimal_heap_node(int v, int distance)
 {
-    //struct Minimal_heap_node* Minimal_heap_node =
-    //       (struct Minimal_heap_node*) malloc(sizeof(struct Minimal_heap_node));
     struct Minimal_heap_node* Minimal_heap_node = new struct Minimal_heap_node;
+
     Minimal_heap_node->v = v;
     Minimal_heap_node->distance = distance;
+
     return Minimal_heap_node;
 }
 
 // to create a Min Heap
 struct Minimal_heap* create_minimal_heap(int capacity)
 {
-    //struct Minimal_heap* Minimal_heap =
-    //     (struct Minimal_heap*) malloc(sizeof(struct Minimal_heap));
     struct Minimal_heap* Minimal_heap = new struct Minimal_heap;
 
-   // Minimal_heap->pos = (int *)malloc(capacity * sizeof(int));
     Minimal_heap->pos = new int [capacity];
     Minimal_heap->size = 0;
     Minimal_heap->capacity = capacity;
-   // Minimal_heap->arr =
-    //     (struct Minimal_heap_node**) malloc(capacity * sizeof(struct Minimal_heap_node*));
     Minimal_heap->arr = new struct Minimal_heap_node*[capacity];
+
     return Minimal_heap;
 }
 
@@ -49,12 +45,10 @@ void min_heapify(struct Minimal_heap* Minimal_heap, int index)
     left = 2 * index + 1;
     right = 2 * index + 2;
 
-    if (left < Minimal_heap->size &&
-        Minimal_heap->arr[left]->distance < Minimal_heap->arr[smallest]->distance )
+    if (left < Minimal_heap->size && Minimal_heap->arr[left]->distance < Minimal_heap->arr[smallest]->distance )
       smallest = left;
 
-    if (right < Minimal_heap->size &&
-        Minimal_heap->arr[right]->distance < Minimal_heap->arr[smallest]->distance )
+    if (right < Minimal_heap->size && Minimal_heap->arr[right]->distance < Minimal_heap->arr[smallest]->distance )
       smallest = right;
 
     if (smallest != index)
@@ -133,7 +127,7 @@ bool is_in_minimal_heap(struct Minimal_heap *Minimal_heap, int v)
 }
 
 
-int print_utility(int dist[], int n,  int parent[])
+void print_utility_list(int dist[], int n,  int parent[])
 {
     int src = 0;
     std::cout<<"Vertex      Distance        Path";
@@ -144,20 +138,59 @@ int print_utility(int dist[], int n,  int parent[])
         print_path_list(parent, i);
     }
 }
-void print_path_list(int parent[], int j)
+
+void print_path_list(int *parent, int j)
 {
-    if (parent[j] == 0)
+    if (parent[j] == -1)
         return;
 
     print_path_list(parent, parent[j]);
     std::cout<<" "<<j<<" ";
 }
 
-
-void dijkstra_for_list( List_graph graph, int source,int V)
+void path_to_string_list(int*parent, int j,std::string & name)
 {
 
-    int path_data[V];
+    if (parent[j] == -1) // IF ITS IS SOURCE
+        return ;
+
+    path_to_string_list(parent, parent[j],name);
+     name+=std::to_string(j)+" ";
+
+}
+
+std::string data_to_string_list(const List_graph &graph, int *dist, int *path,int number_of_vertices)
+{
+    std::string name="";
+    std::string data_string="";
+    for (int i=0;i<number_of_vertices;i++)
+    {
+        data_string+="Shortest distance from 0 to: "+ std::to_string(i)+" is:  "+std::to_string(dist[i])+"\n";
+    }
+
+
+    for (int i=0;i<number_of_vertices;i++)
+    {
+        if(dist[i]==INT_MAX_LIST)
+        {
+        data_string+="Path distance from 0 to: " + std::to_string(i) + "    No connection!\n";
+        }else
+        {
+        data_string+="Path distance from 0 to: "+ std::to_string(i) +"    0 ";
+        name="";
+        path_to_string_list(path,i,name);
+        data_string+=name;
+        data_string+="\n";
+        }
+    }
+
+    return data_string;
+}
+
+
+void dijkstra_for_list( List_graph graph, int source,int test_number,int density,int V)
+{
+
     int distance[V];
     int parent[V];
     struct Minimal_heap* Minimal_heap = create_minimal_heap(V);
@@ -165,7 +198,8 @@ void dijkstra_for_list( List_graph graph, int source,int V)
 
     for (int v = 0; v < V; ++v)
     {
-        distance[v] = 1000;
+        parent[v]=-1;
+        distance[v] = INT_MAX_LIST;
         Minimal_heap->arr[v] = new_minimal_heap_node(v, distance[v]);
         Minimal_heap->pos[v] = v;
     }
@@ -193,7 +227,7 @@ void dijkstra_for_list( List_graph graph, int source,int V)
 
             // If shortest distance to v is not finalized yet, and distance to v
             // through u is less than its previously calculated distance
-            if (is_in_minimal_heap(Minimal_heap, v) && distance[u] != 1000 && pCrawl->weight + distance[u] < distance[v])
+            if (is_in_minimal_heap(Minimal_heap, v) && distance[u] != INT_MAX_LIST && pCrawl->weight + distance[u] < distance[v])
             {
                 distance[v] = distance[u] + pCrawl->weight;
                 parent[v]=u; // for printing
@@ -208,6 +242,15 @@ void dijkstra_for_list( List_graph graph, int source,int V)
     delete Minimal_heap;
     time.stop();
     time.print_time_duration();
-    print_utility(distance, V, parent);
+
+
+    append_data_to_file("List_timers_dijkstra.txt",std::to_string(time.return_time_duration())+"\n");
+    print_data_to_file("LIST/"+std::to_string(density)+"/results_"+std::to_string(V)+"_"+std::to_string(test_number)+".txt",data_to_string_list(graph,distance,parent,V));
+
+
+
+   // print_utility_list(distance, V, parent);
 }
+
+
 

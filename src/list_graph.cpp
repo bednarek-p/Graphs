@@ -32,9 +32,7 @@ List_graph::~List_graph()
 
 void List_graph::add_connection(int source, int target, int weight)
 {
-
         Node* newNode = get_adj_list_node(target, head[source],weight);
-
         head[source] = newNode;
         Node_number++;
 }
@@ -55,11 +53,11 @@ int List_graph::size() const
 }
 
 
-void List_graph::generate_random_graph_data(const int number_of_vertices, const int graph_density,const int start_vertex)
+std::string List_graph::generate_random_graph_data(const int number_of_vertices, const int graph_density,const int start_vertex)
 {
-   // std::string data="";
+    std::string data="";
     int edge = (graph_density*number_of_vertices*(number_of_vertices-1))/200;
-   // data+=std::to_string(edge)+" "+std::to_string(number_of_vertices)+" "+std::to_string(start_vertex)+"\n";
+    data+=std::to_string(edge)+" "+std::to_string(number_of_vertices)+" "+std::to_string(start_vertex)+"\n";
 
 
 
@@ -74,13 +72,13 @@ int random_weight=0;
             random_source=rand() % number_of_vertices + 0;
             random_target=rand() % number_of_vertices + 0;
         } while( random_target==random_source );
-        //data+=std::to_string(random_source)+" "+std::to_string(random_target)+" "+std::to_string(random_weight)+"\n";
+        data+=std::to_string(random_source)+" "+std::to_string(random_target)+" "+std::to_string(random_weight)+"\n";
         add_connection(random_source,random_target,random_weight);
     }
 
 
 
-   // return data;
+    return data;
 }
 
 
