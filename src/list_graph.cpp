@@ -23,11 +23,6 @@ List_graph::List_graph()
 List_graph::~List_graph()
 {
 
-    for(int i =0; i<MAX_SIZE;i++)
-    {
-      delete [] head[i];
-    }
-    delete [] head;
 }
 
 void List_graph::add_connection(int source, int target, int weight)
@@ -37,7 +32,7 @@ void List_graph::add_connection(int source, int target, int weight)
         Node_number++;
 }
 
-void List_graph::print_graph_list_data(Node * ptr)
+void List_graph::print_Matrix_graph_list_data(Node * ptr)
 {
     while(ptr!=nullptr)
     {
@@ -53,10 +48,10 @@ int List_graph::size() const
 }
 
 
-std::string List_graph::generate_random_graph_data(const int number_of_vertices, const int graph_density,const int start_vertex)
+std::string List_graph::generate_random_Matrix_graph_data(const int number_of_vertices, const int Matrix_graph_density,const int start_vertex)
 {
     std::string data="";
-    int edge = (graph_density*number_of_vertices*(number_of_vertices-1))/200;
+    int edge = (Matrix_graph_density*number_of_vertices*(number_of_vertices-1))/200;
     data+=std::to_string(edge)+" "+std::to_string(number_of_vertices)+" "+std::to_string(start_vertex)+"\n";
 
 

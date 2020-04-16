@@ -16,10 +16,10 @@ for(int i=0;i<=4;i++)
         {
             for( int test_numbers=0;test_numbers<100;test_numbers++)
             {
-            Graph graph;
-            print_data_to_file("MATRIX/"+std::to_string(density)+"/graph_data_"+std::to_string(tab[i])+"_"+std::to_string(test_numbers)+".txt",graph.generate_random_graph_data(tab[i],density,0));
-            read_graph_data_from_file("MATRIX/"+std::to_string(density)+"/graph_data_"+std::to_string(tab[i])+"_"+std::to_string(test_numbers)+".txt",graph);
-            dijkstra(graph,0,test_numbers,density,tab[i]);
+            Matrix_graph Matrix_graph;
+            print_data_to_file("MATRIX/"+std::to_string(density)+"/graph_data_"+std::to_string(tab[i])+"_"+std::to_string(test_numbers)+".txt",Matrix_graph.generate_random_Matrix_graph_data(tab[i],density,0));
+            read_Matrix_graph_data_from_file("MATRIX/"+std::to_string(density)+"/graph_data_"+std::to_string(tab[i])+"_"+std::to_string(test_numbers)+".txt",Matrix_graph);
+            dijkstra(Matrix_graph,0,test_numbers,density,tab[i]);
             }
         }
 }
@@ -43,16 +43,19 @@ tab[4]=1000;
 
 for(int i=0;i<=4;i++)
 {
-        for(int density =25;density<=100;density+=25)
+        for(int density =100;density<=100;density+=25)
         {
             for( int test_numbers=0;test_numbers<100;test_numbers++)
             {
             List_graph list_g;
-            print_data_to_file("LIST/"+std::to_string(density)+"/graph_data_"+std::to_string(tab[i])+"_"+std::to_string(test_numbers)+".txt",list_g.generate_random_graph_data(tab[i],density,0));
-            read_graph_list_data_from_file("LIST/"+std::to_string(density)+"/graph_data_"+std::to_string(tab[i])+"_"+std::to_string(test_numbers)+".txt",list_g);
+            print_data_to_file("LIST/"+std::to_string(density)+"/graph_data_"+std::to_string(tab[i])+"_"+std::to_string(test_numbers)+".txt",list_g.generate_random_Matrix_graph_data(tab[i],density,0));
+            read_list_graph_data_from_file("LIST/"+std::to_string(density)+"/graph_data_"+std::to_string(tab[i])+"_"+std::to_string(test_numbers)+".txt",list_g);
             dijkstra_for_list(list_g,0,test_numbers,density,tab[i]);
             }
         }
 }
-delete [] tab;
+
+
+
+
 }

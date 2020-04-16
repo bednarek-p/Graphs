@@ -6,7 +6,7 @@
 
 
 
-class Graph
+class Matrix_graph
 {
     static const int  MAX_SIZE =1000;
     int **path_array ;
@@ -14,8 +14,8 @@ class Graph
     int number_of_vertices=0;
 public:
 
-    Graph();
-    ~Graph();
+    Matrix_graph();
+    ~Matrix_graph();
 
 
 
@@ -31,6 +31,6 @@ public:
     int connection_weight (int source,int target);
 
     int get_value(int i,int j)const;
-    void fill_graph_with_random( Graph & graph,const int number_of_vertices, const int graph_density);
-    std::string generate_random_graph_data(const int number_of_vertices, const int graph_density,const int start_vertex);
+    void fill_Matrix_graph_with_random( Matrix_graph & Matrix_graph,const int number_of_vertices, const int Matrix_graph_density);
+    std::string generate_random_Matrix_graph_data(const int number_of_vertices, const int Matrix_graph_density,const int start_vertex);
 };

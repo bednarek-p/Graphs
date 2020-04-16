@@ -22,7 +22,7 @@ public:
     List_graph();
     ~List_graph();
     void add_connection(int source, int target, int weight);
-    void print_graph_list_data(Node * ptr);
-    std::string generate_random_graph_data(const int number_of_vertices, const int graph_density,const int start_vertex);
+    void print_Matrix_graph_list_data(Node * ptr);
+    std::string generate_random_Matrix_graph_data(const int number_of_vertices, const int Matrix_graph_density,const int start_vertex);
     int size() const;
 };

@@ -171,7 +171,7 @@ std::string data_to_string_list(const List_graph &graph, int *dist, int *path,in
 
     for (int i=0;i<number_of_vertices;i++)
     {
-        if(dist[i]==INT_MAX_LIST)
+        if(dist[i]==1000)
         {
         data_string+="Path distance from 0 to: " + std::to_string(i) + "    No connection!\n";
         }else
@@ -199,7 +199,7 @@ void dijkstra_for_list( List_graph graph, int source,int test_number,int density
     for (int v = 0; v < V; ++v)
     {
         parent[v]=-1;
-        distance[v] = INT_MAX_LIST;
+        distance[v] = 1000;
         Minimal_heap->arr[v] = new_minimal_heap_node(v, distance[v]);
         Minimal_heap->pos[v] = v;
     }
@@ -216,10 +216,8 @@ void dijkstra_for_list( List_graph graph, int source,int test_number,int density
     time.start();
     while (!is_empty(Minimal_heap))
     {
-
         struct Minimal_heap_node* Minimal_heap_node = extractMin(Minimal_heap);
         int u = Minimal_heap_node->v; // Store the extracted vertex number
-        delete Minimal_heap_node;
         struct Node* pCrawl = graph.head[u];
         while (pCrawl != NULL)
         {
@@ -227,19 +225,16 @@ void dijkstra_for_list( List_graph graph, int source,int test_number,int density
 
             // If shortest distance to v is not finalized yet, and distance to v
             // through u is less than its previously calculated distance
-            if (is_in_minimal_heap(Minimal_heap, v) && distance[u] != INT_MAX_LIST && pCrawl->weight + distance[u] < distance[v])
+            if (is_in_minimal_heap(Minimal_heap, v) && distance[u] != 1000 && pCrawl->weight + distance[u] < distance[v])
             {
                 distance[v] = distance[u] + pCrawl->weight;
                 parent[v]=u; // for printing
-
                 decrease_key(Minimal_heap, v, distance[v]);
-
             }
             pCrawl = pCrawl->next;
         }
-        delete pCrawl;
     }
-    delete Minimal_heap;
+
     time.stop();
     time.print_time_duration();
 

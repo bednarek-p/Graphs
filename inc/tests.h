@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-#include "graph.h"
+#include "Matrix_graph.h"
 #include "dijkstra.h"
 #include "dijkstra_list.h"
 
