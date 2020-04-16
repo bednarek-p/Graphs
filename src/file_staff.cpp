@@ -13,6 +13,7 @@ void read_Matrix_graph_data_from_file(std::string file_name,Matrix_graph & Matri
     std::ifstream file;
     file.open ("./data/"+file_name);
     if (!file.is_open()) return;
+
     std::string word;
     int counter=0;
     int connections_number=0;
@@ -21,6 +22,7 @@ void read_Matrix_graph_data_from_file(std::string file_name,Matrix_graph & Matri
     int * target_vertex =nullptr;
     int * weight =nullptr;
     int array_counter =-1;
+
     while (file >> word)
     {
         if(counter==0)
@@ -64,7 +66,7 @@ void read_Matrix_graph_data_from_file(std::string file_name,Matrix_graph & Matri
 
        for (int i=0;i<connections_number;i++)
     {
-    Matrix_graph.add_connection(source_vertex[i],target_vertex[i],weight[i]);
+        Matrix_graph.add_connection(source_vertex[i],target_vertex[i],weight[i]);
     }
 
 
@@ -79,6 +81,7 @@ void read_list_graph_data_from_file(std::string file_name,List_graph & graph)
     std::ifstream file;
     file.open ("./data/"+file_name);
     if (!file.is_open()) return;
+
     std::string word;
     int counter=0;
     int connections_number=0;
@@ -86,6 +89,7 @@ void read_list_graph_data_from_file(std::string file_name,List_graph & graph)
     int * target_vertex =nullptr;
     int * weight =nullptr;
     int array_counter =-1;
+
     while (file >> word)
     {
         if(counter==0)
@@ -118,7 +122,7 @@ void read_list_graph_data_from_file(std::string file_name,List_graph & graph)
 
     for (int i=0;i<connections_number;i++)
     {
-    graph.add_connection(source_vertex[i],target_vertex[i],weight[i]);
+        graph.add_connection(source_vertex[i],target_vertex[i],weight[i]);
     }
 
 

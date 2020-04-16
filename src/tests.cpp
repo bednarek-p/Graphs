@@ -43,7 +43,7 @@ tab[4]=1000;
 
 for(int i=0;i<=4;i++)
 {
-        for(int density =100;density<=100;density+=25)
+        for(int density =0;density<=100;density+=25)
         {
             for( int test_numbers=0;test_numbers<100;test_numbers++)
             {
@@ -55,7 +55,7 @@ for(int i=0;i<=4;i++)
         }
 }
 
-
+delete [] tab;
 
 
 }

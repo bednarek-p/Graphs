@@ -1,6 +1,3 @@
-//#pragma once
-
-
 #include "../inc/dijkstra.h"
 
 int minimal_distance(const Matrix_graph &Matrix_graph,int *distance, bool *is_shortest_way)
@@ -128,14 +125,14 @@ std::string data_to_string(const Matrix_graph &Matrix_graph, int *dist, int *pat
     {
         if(dist[i]==INT_MAX)
         {
-        data_string+="Path distance from 0 to: " + std::to_string(i) + "    No connection!\n";
+            data_string+="Path distance from 0 to: " + std::to_string(i) + "    No connection!\n";
         }else
         {
-        data_string+="Path distance from 0 to: "+ std::to_string(i) +"    0 ";
-        name="";
-        path_to_string(path,i,name);
-        data_string+=name;
-        data_string+="\n";
+            data_string+="Path distance from 0 to: "+ std::to_string(i) +"    0 ";
+            name="";
+            path_to_string(path,i,name);
+            data_string+=name;
+            data_string+="\n";
         }
     }
 

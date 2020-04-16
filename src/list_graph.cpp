@@ -22,7 +22,6 @@ List_graph::List_graph()
 
 List_graph::~List_graph()
 {
-
 }
 
 void List_graph::add_connection(int source, int target, int weight)

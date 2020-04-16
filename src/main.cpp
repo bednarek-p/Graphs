@@ -13,6 +13,7 @@ int main()
 {
 
     srand(time(NULL));
+
     test_dijkstra_for_matrix();
     test_dijkstra_for_list();
 

@@ -2,6 +2,7 @@
 Matrix_graph::Matrix_graph()
 {
     path_array = new int*[MAX_SIZE];
+
     for(int i = 0; i < MAX_SIZE; ++i)
     {
         path_array[i] = new int[MAX_SIZE];
@@ -41,8 +42,10 @@ bool Matrix_graph::is_connection(int source,int target)
 {
     assert(source<size() && target<size());
     bool tmp_is_connection = false;
+
     if (path_array[source][target]>0)
         tmp_is_connection= true;
+
     return tmp_is_connection;
 }
 
@@ -54,15 +57,17 @@ int Matrix_graph::connection_weight(int source,int target)
 
 int& Matrix_graph::operator [] (int value)
 {
-assert(value<size());
-return labels[value];
+    assert(value<size());
+    return labels[value];
 }
 
 int Matrix_graph::operator [] (int value) const
 {
-assert(value<size());
-return labels[value];
+    assert(value<size());
+    return labels[value];
 }
+
+
 int Matrix_graph::get_value(int i, int j) const
 {
     return path_array[i][j];
@@ -93,7 +98,6 @@ int random_weight=0;
             random_source=rand() % number_of_vertices + 0;
             random_target=rand() % number_of_vertices + 0;
         } while( random_target==random_source );
-        //std::cout<<"weight: "<<random_weight<<"source: "<<random_source<<"target: "<<random_target<<std::endl;
         Matrix_graph.add_connection(random_source,random_target,random_weight);
     }
 
@@ -108,9 +112,10 @@ std::string Matrix_graph::generate_random_Matrix_graph_data(const int number_of_
 
 
 
-int random_source=0;
-int random_target=0;
-int random_weight=0;
+    int random_source=0;
+    int random_target=0;
+    int random_weight=0;
+
     for (int i=0;i<edge;i++)
     {
         random_weight = std::rand() % 1000 + 1;
@@ -120,7 +125,6 @@ int random_weight=0;
             random_target=rand() % number_of_vertices + 0;
         } while( random_target==random_source );
         data+=std::to_string(random_source)+" "+std::to_string(random_target)+" "+std::to_string(random_weight)+"\n";
-        //Matrix_graph.add_connection(random_source,random_target,random_weight);
     }
 
 

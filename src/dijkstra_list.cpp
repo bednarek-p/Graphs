@@ -35,21 +35,20 @@ void swap_minimal_heap_node(struct Minimal_heap_node** a, struct Minimal_heap_no
     *b = tmp;
 }
 
-// A standard function to heapify at given index
-// This function also updates position of nodes when they are swapped.
-// Position is needed for decrease_key()
+// Function to heapify at given index
+// Updates position of nodes after swap.
 void min_heapify(struct Minimal_heap* Minimal_heap, int index)
 {
     int smallest, left, right;
     smallest = index;
-    left = 2 * index + 1;
-    right = 2 * index + 2;
+    left = 2*index+1;
+    right = 2*index+2;
 
     if (left < Minimal_heap->size && Minimal_heap->arr[left]->distance < Minimal_heap->arr[smallest]->distance )
-      smallest = left;
+        smallest = left;
 
     if (right < Minimal_heap->size && Minimal_heap->arr[right]->distance < Minimal_heap->arr[smallest]->distance )
-      smallest = right;
+        smallest = right;
 
     if (smallest != index)
     {
@@ -68,7 +67,7 @@ void min_heapify(struct Minimal_heap* Minimal_heap, int index)
     }
 }
 
-// A utility function to check if the given Minimal_heap is ampty or not
+
 int is_empty(struct Minimal_heap* Minimal_heap)
 {
     return Minimal_heap->size == 0;
@@ -103,7 +102,7 @@ void decrease_key(struct Minimal_heap* Minimal_heap, int v, int distance)
 {
     // Get the index of v in  heap array
     int i = Minimal_heap->pos[v];
-    // Get the node and update its distance value
+    // Getting node, updating dist value
     Minimal_heap->arr[i]->distance = distance;
 
     while (i && Minimal_heap->arr[i]->distance < Minimal_heap->arr[(i - 1) / 2]->distance)
@@ -111,9 +110,10 @@ void decrease_key(struct Minimal_heap* Minimal_heap, int v, int distance)
         // Swap this node with its parent
         Minimal_heap->pos[Minimal_heap->arr[i]->v] = (i-1)/2;
         Minimal_heap->pos[Minimal_heap->arr[(i-1)/2]->v] = i;
+
         swap_minimal_heap_node(&Minimal_heap->arr[i],  &Minimal_heap->arr[(i - 1) / 2]);
 
-        // move to parent index
+        // go to parent index
         i = (i - 1) / 2;
     }
 }
@@ -122,7 +122,7 @@ void decrease_key(struct Minimal_heap* Minimal_heap, int v, int distance)
 bool is_in_minimal_heap(struct Minimal_heap *Minimal_heap, int v)
 {
    if (Minimal_heap->pos[v] < Minimal_heap->size)
-     return true;
+        return true;
    return false;
 }
 
@@ -173,14 +173,14 @@ std::string data_to_string_list(const List_graph &graph, int *dist, int *path,in
     {
         if(dist[i]==1000)
         {
-        data_string+="Path distance from 0 to: " + std::to_string(i) + "    No connection!\n";
+            data_string+="Path distance from 0 to: " + std::to_string(i) + "    No connection!\n";
         }else
         {
-        data_string+="Path distance from 0 to: "+ std::to_string(i) +"    0 ";
-        name="";
-        path_to_string_list(path,i,name);
-        data_string+=name;
-        data_string+="\n";
+            data_string+="Path distance from 0 to: "+ std::to_string(i) +"    0 ";
+            name="";
+            path_to_string_list(path,i,name);
+            data_string+=name;
+            data_string+="\n";
         }
     }
 
@@ -188,15 +188,15 @@ std::string data_to_string_list(const List_graph &graph, int *dist, int *path,in
 }
 
 
-void dijkstra_for_list( List_graph graph, int source,int test_number,int density,int V)
+void dijkstra_for_list( List_graph graph, int source,int test_number,int density,int vertices)
 {
 
-    int distance[V];
-    int parent[V];
-    struct Minimal_heap* Minimal_heap = create_minimal_heap(V);
+    int distance[vertices];
+    int parent[vertices];
+    struct Minimal_heap* Minimal_heap = create_minimal_heap(vertices);
 
 
-    for (int v = 0; v < V; ++v)
+    for (int v = 0; v < vertices; ++v)
     {
         parent[v]=-1;
         distance[v] = 1000;
@@ -204,16 +204,19 @@ void dijkstra_for_list( List_graph graph, int source,int test_number,int density
         Minimal_heap->pos[v] = v;
     }
 
-    // Make distance value of source vertex as 0 so that it is extracted first
     Minimal_heap->arr[source] = new_minimal_heap_node(source, distance[source]);
     Minimal_heap->pos[source]   = source;
+
+    // Make distance value of source vertex as 0
     distance[source] = 0;
     decrease_key(Minimal_heap, source, distance[source]);
 
-    // Initially size of min heap is equal to V
-    Minimal_heap->size = V;
+    // at start minimal_heap size is number of vertices
+    Minimal_heap->size = vertices;
+
     Timer time;
     time.start();
+
     while (!is_empty(Minimal_heap))
     {
         struct Minimal_heap_node* Minimal_heap_node = extractMin(Minimal_heap);
@@ -223,8 +226,7 @@ void dijkstra_for_list( List_graph graph, int source,int test_number,int density
         {
             int v = pCrawl->value;
 
-            // If shortest distance to v is not finalized yet, and distance to v
-            // through u is less than its previously calculated distance
+
             if (is_in_minimal_heap(Minimal_heap, v) && distance[u] != 1000 && pCrawl->weight + distance[u] < distance[v])
             {
                 distance[v] = distance[u] + pCrawl->weight;
@@ -240,11 +242,8 @@ void dijkstra_for_list( List_graph graph, int source,int test_number,int density
 
 
     append_data_to_file("List_timers_dijkstra.txt",std::to_string(time.return_time_duration())+"\n");
-    print_data_to_file("LIST/"+std::to_string(density)+"/results_"+std::to_string(V)+"_"+std::to_string(test_number)+".txt",data_to_string_list(graph,distance,parent,V));
+    print_data_to_file("LIST/"+std::to_string(density)+"/results_"+std::to_string(vertices)+"_"+std::to_string(test_number)+".txt",data_to_string_list(graph,distance,parent,vertices));
 
-
-
-   // print_utility_list(distance, V, parent);
 }
 
 
